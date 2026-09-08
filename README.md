@@ -7,6 +7,8 @@ Repositório de organização da pesquisa.
 - `kickoff/` — arquivos referentes ao momento de kickoff do projeto.
 - `imersao-interna-moura/` — arquivos referentes à imersão interna (Moura).
 - `imersao-externa-clientes/` — arquivos referentes à imersão externa (clientes).
+- `exploracao-mercado/` — arquivos referentes à exploração do mercado.
+- `benchmarking/` — arquivos referentes ao benchmarking.
 - `prompts/` — histórico dos prompts (pedidos) feitos nesta conversa, um arquivo por sessão/data. Serve como registro fora do chat; no chat ficam apenas as respostas.
 
 ## Dinâmica
