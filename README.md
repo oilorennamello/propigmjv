@@ -9,6 +9,7 @@ Repositório de organização da pesquisa.
 - `imersao-externa-clientes/` — arquivos referentes à imersão externa (clientes).
 - `exploracao-mercado/` — arquivos referentes à exploração do mercado.
 - `benchmarking/` — arquivos referentes ao benchmarking.
+- `proposta-comercial/` — arquivos referentes à proposta comercial.
 - `prompts/` — histórico dos prompts (pedidos) feitos nesta conversa, um arquivo por sessão/data. Serve como registro fora do chat; no chat ficam apenas as respostas.
 
 ## Dinâmica
