@@ -1,0 +1,68 @@
+# Propig - Kickoff interno [MJV]
+
+  Meeting started: 08/09/2026, 10:37:39
+  Duration: 13 minutes
+  Participants: Speaker 1, Speaker 2
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/FlNlDWqlMVNVblt8qUHw?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Vou te contar um pouquinho, acho que dá para ter olhando nesse que ponto. Eu já tenho várias agendas com eles agendadas, eu não sei se eu te coloquei. Mas... Coloquei?
+00:10 Speaker 2: Acho que não. Tá. Bom,
+00:15 Speaker 1: você já ouviu falar um pouco da Propig?
+00:19 Speaker 2: Não, de nome, mas assim, sem saber.
+00:23 Speaker 1: Tá. Eu também não sei muito bem, a gente vai ter que dar uma pesquisada, estudar um pouco o projeto deles, mas eu tenho alguns materiais já aqui.
+00:32 Speaker 2: Mas o que acontece? A Moura
+00:36 Speaker 1: criou o
+00:38 Speaker 2: próprio
+00:39 Speaker 1: modelo de serviço financeiro para atender distribuidores e eventos. Então, eles têm uma maquininha própria, maquininha de passar cartão mesmo de criança,
+00:49 Speaker 2: que...
+00:50 Speaker 1: ela é meio para eles gerarem serviços financeiros para revenda. Eu não sei exatamente o que é, mas eles conseguem parcelar mais vezes sem juros, eles conseguem antecipar caixa, eles conseguem comprar bateria sem ter dinheiro necessariamente, é um modelo que eles fizeram. serviços financeiros para as revendas e para distribuidoras, que acontece por meio da maquininha. Então, toda vez que eles passam uma compra da loja nessa maquininha da Moura, coisas ali disponíveis, a gente precisa entender bem o que é esses serviços, tá? Tá. Mas, por enquanto, é isso. É isso. Então, isso dá muito certo na Moura, gera resultado,
+01:47 Speaker 2: engaja
+01:50 Speaker 1: os distribuidores, engaja esse time a trabalhar, né? Na maquininha e até a vender mais. Porém, esse modelo funciona só em algumas revendas, não é unânime, nem todo mundo consegue usar. Por quê? Algumas pessoas olham e falam assim, essa taxa da maquininha está cara, eu prefiro pagar na minha do Itaú, na minha, sei lá, da Stony, que a taxa é menor, eu não vejo atrativo. Então, tem um lugar aqui que a gente precisa entender, quem vê resultado ou vê uma oportunidade, por que vê? E quem não vê oportunidades ou não entende ela como benefício, porque também não vê. Mas é um modelo que se consolidou para a Moura. E aí a Propig é uma empresa do grupo Moura. E ela só atende Moura, conseguiu expandir, conseguiu crescer. E aí, nos últimos dois anos, ela tem tentado entrar em outros segmentos que funcionem na mesma lógica da Moura. Ou seja, eu tenho a indústria que produz aquele produto. Eu tenho necessariamente algum distribuidor maior. E eu tenho a venda na ponta para o consumidor final nas revendas. E eles não conseguiram emplacar ainda.
+03:16 Speaker 2: A gente sabe quais foram as indústrias que eles tentaram ou não?
+03:19 Speaker 1: Eles tentaram muito material de construção, Votorantim, algumas lojas que têm mais ou menos uma cara de autopeça. Então, eles tentaram mais autopeça de carro, por exemplo, que não necessariamente só tinha bateria como venda.
+03:36 Speaker 2: E
+03:37 Speaker 1: também tentaram só cimento, outros produtos. Não rolou. Agora, eles estão num modelo que eles estão quase fechando com duas indústrias, que é a godir de pneus e a decor, que é tinta. Só que eles não têm, assim, a indústria gostou do modelo, entendeu, faz sentido para ela. E aí eles precisam montar um plano para oferecer esse serviço para os distribuidores e para as revendas. Então, o que eles falaram que acontece? Necessariamente a indústria precisa gostar, comprar a ideia e incentivar o uso. Se a indústria não compra, não incentiva, quase meio que obriga no início, as pessoas não usam e acabam não vendo valor. Então, a indústria já comprou, já entendeu, falou, animal, quer usar, faz sentido. E aí eles venderam o quê? Ele falou, tá, então eu vou entender um pouco o seu negócio, um pouco as suas lojas, um pouco como que funciona vocês, para a gente criar um modelo que seja bem aderente ao modelo de vocês, que seja atrativo, que tanto esse distribuidor quanto essa revenda vejam o valor.
+05:00 Speaker 2: Então,
+05:01 Speaker 1: é meio que a expansão do produto que eles têm para a Moura, para essas duas indústrias.
+05:07 Speaker 2: Então, a gente vai fazer meio que esse papel de customizar essa proposta genérica que eles têm para essas duas.
+05:15 Speaker 1: Mais ou menos isso.
+05:17 Speaker 2: Aí, só uma dúvida em quanto negócio Moura, só para o desassociado Telecom. Aqui, quando a gente fala revenda de distribuidores, é bateria para carro.
+05:27 Speaker 1: Quando a gente está falando para o PIG revenda, é bateria para carro. Carro e moto. Você fez aquele projeto que a gente foi para as... Não, você não tinha feito nenhum, né? Mas sim, é carro e moto, é a distribuição da bateria mesmo, assim,
+05:43 Speaker 2: mercado final. É, exato.
+05:47 Speaker 1: E aí, o que o Tarso, que é o dono lá, que é o responsável, identificou?
+05:54 Speaker 2: que a bateria,
+05:55 Speaker 1: que esse modelo funciona melhor, que tem a maquininha de venda do produto, porque você só pode vender produto Moura com ele, funciona melhor nas revendas de bateria que são tipo 90% Moura. Então, tem várias lojas de baterias que são meio multimarcas. Tem Moura, mas também tem uma quantidade igual das outras baterias. Mas existem diversas revendas de distribuidores que são praticamente 100% Moura. Existem outras baterias? Existe. Mas o core business dessas lojas são praticamente Moura. E a Godir com pneus e a Decor com tintas tem o mesmo modelo. Eles têm o pneu ou a lata de tinta em lojas multimarcas, mas eles também têm lojas que são meio que 90% só o produto deles. Ou 100%.
+06:48 Speaker 2: Então,
+06:50 Speaker 1: a gente vai falar exatamente com essas lojas que são mais específicas deles. E entender, né? como que a proposta de valor, o modelo da Propig para Moura, pode se encaixar ou pode ser atrativo para essas indústrias e o que eles precisam mudar se é que eles precisam mudar alguma coisa para iniciar. Meio que é um plano coach marketing para essas duas indústrias que já compraram ideia. Aqui é meio que o que a gente tinha que fazer em Telecom mesmo.
+07:21 Speaker 2: No caso, já com a validação de que é bom. No Telecom a gente descobriu que não era bom. É,
+07:27 Speaker 1: assim, as indústrias compraram, as indústrias precisam, as indústrias gostam desse modelo. A gente precisa entender como que ele pode encaixar, e eu acho que como é bem mais próximo, eu acho que eles estão nesse modelo já que é possível, eles já fizeram alguns estudos, já olharam, eu acho que tem um potencial aqui, sim, deles chegarem nesse mercado.
+07:49 Speaker 2: Então, é
+07:52 Speaker 1: isso. O que a gente tem? A gente tem um cronograma de seis semanas,
+07:56 Speaker 2: e
+07:59 Speaker 1: aí ele é bem justinho, tá? Primeira semana, amanhã a gente já tem o kick-off com eles, às nove, então a gente vai levar o cronograma detalhado, as informações do projeto, as dúvidas, o que a gente precisa, sugestões de rituais de acompanhamento com eles e tudo mais. Segunda semana de projeto, a gente vai entrevistar revendas Moura ou distribuidores Moura. Provavelmente tem alguma coisa presencial, os distribuidores vão ser entrevistas online. As revendas, muito provavelmente, a gente tem aqui até revenda para fazer essa entrevista. E a gente está falando basicamente de Recife e São Paulo. Aí, beleza.
+08:53 Speaker 2: Então, é isso. Aí,
+08:56 Speaker 1: a segunda parte, então, a primeira parte é, a primeira parte do projeto de duas semanas, semana um, entendimento do negócio, conversa com eles, etc. Então, eu já marquei com eles duas agendas essa semana, tipo sessão de trabalho, para eles apresentarem para a gente, tirarem dúvidas, mostrar a plataforma, mostrar a ferramenta, mostrar os serviços. Então, essa semana, a gente tem que preparar o kickoff. para amanhã, quinta-feira a gente tem uma sessão de trabalho longa com eles, e sexta-feira tem uma agenda que eu não sei se a gente vai precisar, mas ela já está agendada, se a gente precisar mais tempo.
+09:33 Speaker 2: Então, é isso.
+09:36 Speaker 1: Na semana que vem, a gente tem uma entrevista. o responsável, que é uma pessoa da Moura, não é da Propig, mas ele que teve no projeto desde o início, e ele foi responsável por fazer esse projeto virar dentro dos distribuidores. Então, ele conhece muito dos distribuidores da revenda. Ele meio que vai ser o nosso sponsor nesse projeto. Apesar dele não ser Propig, ele ser Moura, ele é a pessoa que tem maior conhecimento de como que ele conseguiu fazer isso virar dentro de Moura. Então, a gente entrevista ele segunda, e ele já está vendo algumas revendas distribuidoras para a gente entrevistar.
+10:19 Speaker 2: E na semana... Só uma dúvida, são revendas distribuidoras de Moura nesse momento, né? Isso, para a gente
+10:24 Speaker 1: entender. E aí eu vou pedir para ele, quem gosta muito e usa muito, para a gente entender o que vê valor, como que vê, como é que usa, que momento não usa, e... quem que não usou, não aderiu, eles têm dificuldade, ou usem momentos específicos, para a gente entender um pouco o porquê. Aí, na semana do dia 21, a gente tem as entrevistas com as revendas da Budir e com a Decor, eles já estão agendando também, já tem algumas agendas até preparadas, elas são 100% presenciais, ou em Recife, ou aqui em São Paulo, se a gente tiver meio que se dividir. E aí a gente entendeu um pouco do negócio deles, enfim, a partir do que a gente entendeu da Moura, a gente explorar um pouquinho a visão deles do negócio e
+11:13 Speaker 2: seguir.
+11:15 Speaker 1: E depois a gente tem uma semana só de making sense disso, e aí o final é uma sessão de workshop com eles para a gente refinar isso, levar os dados à pesquisa para a gente desenhar com eles a proposta de valor nova.
+11:29 Speaker 2: Tá bom. É isso.
+11:34 Speaker 1: Aí, o que dá para a gente organizar e fazer? Já é montando esse material do kickoff. Eu já tenho dois materiais que eles compartilharam de conhecimento de um NPS e como eles estão apresentando hoje o serviço. Então, já dá para a gente dar uma estudada e ter algumas perguntas para a gente organizar amanhã para o kickoff. E eu tenho essas agendas prontas também. Aí eu vou encaminhar para vocês todos os invites ali para a gente, para vocês terem também. Eu fiquei de mandar isso agora de manhã. e mandar um e-mail para eles,
+12:11 Speaker 2: e, ah,
+12:12 Speaker 1: eu vou mandar as agendas. E aí depois eu preciso montar um e-mail, mas eu vou montar isso para eles, só falando assim, olha, porque eu fiz uma reunião com eles semana passada, e eu não mandei. De acordo com a reunião, temos essas agendas marcadas, esses são os objetivos de cada uma, só para eles se prepararem, tá? Então, basicamente, é isso,
+12:33 Speaker 2: e é isso. Tá bom.
+12:38 Speaker 1: Eu vou abrir a pasta e eu vou subir já os arquivos que eles mandaram, não lembro se eu já abri. Acho que não, acho que eu não abri, acho que eu abri só de BNP.
+12:46 Speaker 2: É isso. Acho que vai ser de boa esse projeto, viu? Tomara que sim.
+13:00 Speaker 1: Acho que eles estão...
+  
