@@ -8,7 +8,7 @@ novas indústrias/clientes.
 
 - `2026-09-10_imersao-produto-servico_transcricao.txt` — imersão no
   produto/serviço.
-- `2026-09-11_kickoff-parte-ii_transcricao.txt` — continuação do kickoff
+- `2026-09-11_imersao-produto-parte-ii_transcricao.txt` — imersão no produto
   (Parte II), com aprofundamento no funcionamento do produto (integração de
   sistemas, delays, planos Sessão/Flex/Multiagenda etc.).
 - `2026-09-14_entrevista-rui-moura_transcricao.txt` — entrevista com Rui
