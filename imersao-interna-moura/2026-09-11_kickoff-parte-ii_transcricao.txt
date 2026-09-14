@@ -1,0 +1,212 @@
+# [Propig] KICKOFF - Parte II - Gravação de Tela 2026-09-11 095629
+
+  Meeting started: 11/09/2026, 10:38:13
+  Duration: 50 minutes
+  Participants: Speaker 1, Speaker 2, Speaker 3, Speaker 4, Speaker 5
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/DikGbxelz8BVuO4DH501?o=txt)
+
+    
+
+  
+
+  
+
+  ## Transcript
+
+  00:00 Speaker 1: Obrigada.
+00:13 Speaker 2: Tá calor em Recife?
+00:16 Speaker 3: Aqui tá sempre calor, até no
+00:18 Speaker 1: frio. Lá fora tá calor.
+00:27 Speaker 2: Gente, em São Paulo tá um frio que não passa, uma chuva que não acaba.
+00:32 Speaker 5: Isso é legal,
+00:33 Speaker 3: né? Deus abençoe o frio, porque o frio traz mais venda pra gente. Vende mais bateria.
+00:38 Speaker 4: No frio a gente vende mais bateria.
+00:40 Speaker 1: Ah, é?
+00:40 Speaker 2: Ah, porque tem um problema na... Então, tá baixando muito, agora vai esquentar, mas aqui dois dias volta pra mínima de 13.
+00:50 Speaker 1: Eita,
+00:51 Speaker 5: espero que quando a gente volteja, esteja ok.
+00:54 Speaker 1: Ai, sem chover.
+00:57 Speaker 5: Ai, sem chover.
+02:47 Speaker 1: Lorena,
+02:48 Speaker 4: vamos lá. É o André, tá? Eu tô aqui, é que cheguei.
+02:53 Speaker 1: É...
+02:54 Speaker 4: No caso da Moura, nós fizemos a integração com o sistema deles, né, dos distribuidores, que é o sistema de faturamento. Então, toda vez que uma revenda, né, lançar um pedido lá, quero 20 baterias. Na hora de faturar esse pedido, vai aparecer o celular de saldo Crede Moura. onde ela vai conseguir deduzir aquele pedido ou parte dele. Então, para que a operação ocorra de forma gerencial, em relação aos saldos disponíveis, é necessário que ocorra essa integração sistêmica, para que a Propig consiga remeter para a indústria aquela parte da venda, no caso, o percentual que vai ser destinado à troca de produtos. E esse valor fica disponível lá no faturamento, na hora de lançar um pedido, remeter a um produto, a compra de um produto.
+03:49 Speaker 5: Então, vamos dar uma dica aqui. Acho que é importante dizer para vocês que existe um delay nessa integração. E isso é um delay sentido pela revenda. A revenda já trouxe para mim
+04:06 Speaker 1: nas entrevistas que
+04:07 Speaker 5: essa divergência de saldo, pela questão da integração ali, gera uma certa, não insegurança, porque ele realmente tem bastante insegurança, mas gera uma certa confusão operacional. Então, por exemplo, uma revenda que eu entrevistei, essa revenda específica, essa pessoa é a ex-funcionária da Moura, então ele tinha mais entendimento. Então, assim, ele já ficava tranquilo. já sei que vai demorar uns dois, três dias para integrar, então ele ligava direto para o distribuidor e ele ficava lá, sabe? Então, assim, existe um certo delay, porque também o outro lado, o distribuidor, ele precisa lançar isso, lançar as notas. Então, se tiver algum problema para lançar essas notas, o nosso saldo fica aqui defasado, digamos assim, né? Esse delay. Então, é importante trazer para vocês, porque me foi trazido isso durante as entrevistas que eu fiz com a revenda.
+05:03 Speaker 3: Olha, só o que o pessoal falou, não existe complexidade operacional nisso, tá? Porque isso é tudo via APIs, tudo via sistema. Então, na hora que ele faz a transação, a gente junta essas transações de acordo com o horário. E disponibiliza para o sistema da Moura e para o sistema da Moura capturar e lançar diretamente no sistema. Então não existe um ser humano hoje lançando esse saldo um a um. Então não tem complexidade operacional e tudo via sistema. Como a Dani falou, esse sistema tem um delay de D mais dois. Ou seja, transacionou hoje. Em até dois dias a gente disponibiliza essa transação para a Moura puxar. A Moura puxa essa transação, então vai que entre dois e três dias, essa transação está disponível ali, esse crédito, na verdade, está disponível. A gente tenta dar visibilidade no máximo possível dentro dos portais, inclusive nos créditos a liberar, não só o crédito já liberado, mas o que transacionou e o que ainda não integrou. Então tem esse delay para poder justamente crescer, esse negócio que a Dani falava, que a Dani falou que... Eles sentem falta. Cadê a transação que eu fiz que não subiu ainda? Então, a gente criou um ambiente chamado créditos a liberar, que é o que não integrou.
+06:21 Speaker 1: Mas,
+06:21 Speaker 3: operacionalmente, não existe essa complexidade, mas existe essa... tem que ter esse entendimento. Por isso que é importante, que eu falei para vocês, na questão das fases do projeto. Como é um negócio que envolve dinheiro, ele tem que ter essa confiança. Então, por isso que distancia também a gente de maquininha. A gente lança esses créditos automáticos, sobe no sistema dele, ele começa a visualizar. Existe essa relação de confiança já de compra e venda, da revenda com a Moura.
+06:55 Speaker 1: Então,
+06:57 Speaker 3: tudo isso é importante levar em conta no projeto,
+07:00 Speaker 1: porque não
+07:01 Speaker 3: é propigue com a revenda. Tem que ter um intermediário ali que tem uma relação de compra. para poder existir essa relação de confiança, principalmente no começo. Porque ele vai ver que transacionou, mas cadê meu dinheiro? Demorou dois, três dias para subir? Cadê? Como é que eu faço? Então, essa relação de confiança é importantíssima. Por isso que essa catequese inicial de implantação do projeto é importante. Ele vê o crédito subindo e se sentir que pode confiar no sistema, vamos falar assim. Tem, tem tanto o nosso time aqui, ele pode entrar em contato e já visualizar tudo isso, como também tem um vendedor que dá molho e passa toda semana nesse ponto de venda para fazer a venda. Ele também é um cara que está ali do lado para poder informá-lo. A gente também tem canais aí, quando o cliente, ah, não quero entrar no portal, a gente tem canais via WhatsApp, ele consegue consultar em tempo real lá essas transações, como é que foi a venda dele,
+08:36 Speaker 1: como é que está o recebimento, tudo isso.
+08:38 Speaker 3: Tem meio que esses extratos via robô e um WhatsApp também, que ele consegue consultar. Tem esses canais que geram todos esses extratos, todas essas conciliações. Não, tem não. É o próprio vendedor dele. Vendedor que vai vender pneu ou que vai vender pinca.
+09:18 Speaker 4: Sim, diminuiu bastante. A gente está com uma atividade muito boa.
+09:24 Speaker 3: Isso já foi problema no começo da operação, hoje está bem rápido, mas o problema vai sempre não existir, porque como depende do sistema, bem menos erros do que o humano, mas sempre um soluço, um delay, uma coisa, uma transação que não integra, uma transação que não é aprovada diretamente pelo adquirir.
+09:44 Speaker 4: Então tudo isso...
+09:45 Speaker 3: faz parte a conciliação da dele no dia a dia.
+09:48 Speaker 4: E aí, Lorena, hoje, falando do modelo Moura, tá? Quando o financeiro do distribuidor, né, que já conhece a operação, já sabe como é que funciona a parte da transferência de dados, né, em relação ao AutoCredo Moura para ele, que é a integração que ocorre em D1 até D2, quando ocorre essa integração...
+10:13 Speaker 1: e
+10:14 Speaker 4: aparece alguma falha, ele consegue ver o quanto esse cliente vendeu na ProPig, e ele consegue contornar essa situação internamente, não precisa gerar nenhum estresse. O próprio distribuidor administra isso. Então, isso cabe na largada que o Instituto falou, começar no nível, digamos, mais básico, e sempre trabalhar essa construção do modelo. Também internamente, com as áreas internas da operação, com o financeiro, que vai lidar diretamente com o saldo. Então, parte muito desse alinhamento interno para administrar qualquer estresse e ter um canal direto aqui dentro.
+12:33 Speaker 1: Não, não pode falar.
+12:35 Speaker 5: Agora tem, depois eu faço um... Não, perfeito a
+12:37 Speaker 3: colocação, isso é um impeditivo, tá? Tem algumas revendas nossas que o distribuidor não oferece programa, justamente porque o cara compra bife,
+12:49 Speaker 1: e ele não quer que
+12:53 Speaker 3: aquela venda vista, D mais zero, se transforme em um D mais 175 dias ali, que é o prazo dele em
+13:01 Speaker 1: 10 vezes.
+13:04 Speaker 3: Isso impacta o fluxo de caixa do distribuidor, entendeu? Mas aquele impacto no fluxo de caixa que eu te mostrei, que é o PNR, que aumentou acho que nove dias naquela linha do tempo que eu te falei. Então, no geral, ele não aumenta tanto o PNR, mas se você pegar a revenda de comprovista e passou a comprar, vender 10 vezes, consequentemente comprando 10 vezes, o impacto no caixa do distribuidor
+13:29 Speaker 1: é forte.
+13:31 Speaker 3: Aí o que ele tem que fazer é, ele tem caixa para bancar isso, sim ou não? Se tiver caixa para bancar isso, a gente coloca, a gente faz essa conta para ele e mostra para ele que o custo dessa operação é mais ou menos 5%, que é o custo do dinheiro no tempo. É como se ele estivesse dando um desconto à vista de 5%, então a conta termina fechando. O cara que compra um desconto no produto... versus um prazo que ele vai dar lá na conta. Então, termina que a conta fecha por isso. Ele consegue, para esse cara, vender um pouquinho mais caro e paga esse custo, dinheiro no tempo que ele tem ali, para poder colocar a operação. E com outros ganhos, né? É zero, nada em place. No caso da vista, não tem nada em place, mas é o crescimento das vendas. Então, quando a gente leva o programa, a gente leva muito com essa cabeça ali assim, você vai habilitar o teu consumidor. a comprarem 10 vezes. Com isso, ele vai escolher o seu produto. Se você ficar limitado a, não, vai aumentar o meu PNR aqui, porque eu vou sair de avista para 10 vezes,
+14:34 Speaker 1: mas,
+14:35 Speaker 3: como você falou, é livre arbítrio ali, ele pode escolher ou não fazer isso. A maioria dos clientes, dos nossos distribuidores que fizeram isso, não se arrependeram, porque o crescimento da venda compensou, o crescimento da venda e a falta... e aí eu não respondo a vista compensou essa conversa essa conta que deu financeira
+14:58 Speaker 5: eu queria fazer um avançamento aqui que você tá falando duas coisas primeiro né que quando a
+15:05 Speaker 1: renda compra ela é
+15:06 Speaker 5: contra do saldo que é de Moura né só
+15:09 Speaker 1: para a gente cara que a gente tá falando também
+15:11 Speaker 5: da mesma coisa ele vai ganhar mais do saldo que ele mora quer gerar das vendas que ele fez tá
+15:17 Speaker 1: então só para gente
+15:19 Speaker 5: É garantir esse ponto. Aí, sobre esse outro ponto que você trouxe, que é um cenário específico, um cenário do cliente que ele paga na vista ou no débito, ele pode, sim, ser uma barreira, mas também, como o Tati falou, até trazendo para o mercado. O mercado, hoje em dia, a gente consegue verificar que muitas empresas, dependendo da indústria, oferecem assinaturas. Então, é como se fosse até funcionar dessa forma. Porque uma assinatura garante para mim, empresário, que a Lorena vai estar comigo, mas que vem também. A Lorena já está com aquele saldo amarrado comigo, sabe? Então, para mim, empresário, isso me dá uma segurança de caixa, digamos assim. Entendeu? Putz, eu já tenho isso aqui no meu caso, mesmo que seja comprado. Então, por isso que compensa. Isso é o que o mercado já faz, mas que chama de assinatura de Estado, enfim. Então, por isso que funciona muito bem, porque dá essa segurança para ele do
+16:14 Speaker 1: saldo
+16:17 Speaker 5: dele, desculpa, do capital dele,
+16:19 Speaker 3: entendeu? Mas dá impacto, sim, no caso de preocupação. Tem dados que realmente não vieram, não ofereceram para referência, que são referência que pagam direitinho, nunca tiveram nada em preço, compram pista.
+16:30 Speaker 1: Eu compro com um prazo muito curto.
+16:32 Speaker 3: E ele fala, se eu levar esse cara para o outro crédito de Moura, eu vou estar estendendo o prazo dele aqui e vai aumentar para ele ficar no caixa.
+16:39 Speaker 1: Mas você tem essa divisão, né? Para ficar saudável.
+16:45 Speaker 3: Por isso que o problema começou com o Iná de Plank,
+16:48 Speaker 1: entendeu?
+16:49 Speaker 3: Depois foi ali que o cara já tinha um prazo médio-alto. Então tem essa construção importante, sabe? Para não ficar no impacto desses estágios de implantação. que vai ter a gente vai para o próximo projeto. Isso, a gente cobra da revenda. 100% do que a gente cobra hoje é cobrar da revenda. Alguns distribuidores, eu diria hoje para vocês que a maioria, subsidia alguma coisa que a revenda teria que pagar. Ou seja, o subsídio de taxa, seja o subsídio de aluguel, de maquininha. Então, eles já viram um benefício do negócio e falaram assim, a revenda, eu vou te pagar essa taxa. Com taxa zero no mercado. Com o cara passando 10 vezes com taxa zero. Então, eu diria para você que já a maioria dos distribuidores já viram tanto benefício nisso que eles resolveram pagar. Por isso que é um ponto que a gente pode levar em consideração na precificação, que é assim, será que a gente tem que cobrar realmente 100% de revenda? Ou será que a gente já tem que cobrar alguma coisa da indústria já na largada?
+18:56 Speaker 1: o distribuidor hoje gasta um
+18:59 Speaker 3: cara que quer subsidiar 100% do programa, tá? Ele gasta hoje, mais ou menos, em média, 5% de taxa. já contando com aluguel, vamos falar assim, então 5% de taxa, mais o dinheiro no tempo, que é o prazo médio de recebimento. O prazo médio de recebimento para 10 vezes, ele está em torno de 100 dias. Então, é o custo do dinheiro no tempo em 100 dias, que vai dar ali em torno de mais 5%. Então, o custo do programa para o distribuidor que quer bancar 100% é em torno de 10% do faturamento.
+19:50 Speaker 4: Sim. Nós temos alguns distribuidores que bancam 100% as taxas de aluguel e de 10 revendas. Outros não bancam nada. É muito da estratégia que ele tem lá no mercado, da política comercial que ele adota na região de preços para ter uma margem para absorver esse custo que o Tassi falou. Então, vai muita realidade de cada um. Mas aqui a gente consegue ter essa visibilidade de quem entra com campanha, que a gente chama aqui dentro de negociação Crede Moura, bancando tudo, parte da taxa, ou 100% da taxa, ou quem não banca nada,
+20:30 Speaker 1: quem tem essa visibilidade. O que temos como André
+20:32 Speaker 5: falou, que, por exemplo, não banca nada da taxa, mas aí, se até utilizar o Crede Moura, eu vou dar para ter 4% de desconto da nota. Então, eu não banquei a taxa, mas a condição para eu dar o desconto para a Fê é ela ter o crédito novo. Então, faz dessa forma, entendeu?
+20:53 Speaker 1: Faz como se fosse um...
+20:54 Speaker 4: Que existe o modelo dele aplicar o desconto diretamente na taxa e a revenda, enxergar isso lá no portal. Aí eu vendi mil reais, taxa
+21:05 Speaker 1: zero, vou receber mil reais.
+21:07 Speaker 4: Existe também essa condição que a Dani falou de... A Propig cobra a taxa normal da revenda e na hora que ela vai consumir o saldo do distribuidor, o distribuidor dá uma bonificação, ele dá um desconto e aí compensa aquele custo que ela teve.
+21:26 Speaker 3: E aí, Lorena, tem um ponto que é o distribuidor que dá desconto. Por exemplo, nessa questão do saldo do Crédio Moura, hoje, mais ou menos,
+21:38 Speaker 1: a
+21:40 Speaker 3: gente tem essa conta, mais ou menos 50% dos nossos clientes que estão no Crédio Moura, que estão lá no programa Crédio Moura, 50% do que ele compra com
+21:52 Speaker 1: a Moura,
+21:53 Speaker 3: eles passam nas nossas maquininhas. Os outros 50%, eles passam ou em outras maquininhas, ou em dinheiro, ou é Pix, ou é alguma outra forma de pagamento que não passa no nosso sistema. Ele comprou 10 baterias, só assim que passa na minha maquininha.
+22:11 Speaker 1: Certo?
+22:12 Speaker 3: Então, quando você tem um benefício do negócio do Tere Moura, que é quando você subsidia a taxa para
+22:19 Speaker 4: o cliente,
+22:20 Speaker 3: você subsidia só pelo que passa na sua maquininha. Você subsidia só... 50% do volume. Quando você dá o desconto no preço, você dá o desconto no preço em 100% do que ele compra. Então tem um benefício nesse sentido que é, o que está passando na minha maquininha, eu estou garantindo que o cara está vendendo 10 vezes, eu estou garantindo que não vai ter nada de imprensa, eu estou garantindo várias coisas aqui.
+22:44 Speaker 1: O que passa
+22:45 Speaker 3: na minha maquininha, ele vai comprar no coleto ali, ou vai comprar à vista, vai pagar de alguma outra forma para o distribuidor que não ensalda o crédito em ouro. Então, tem esse benefício também de você subsidiar através da maquininha. Você está garantindo a fidelização, você está garantindo que o seu produto está sendo ofertado em 10 vezes na conta, que você está dando oportunidade ao consumidor de comprar a sua bateria. É como se você tivesse... Eu pago 5% de taxa do Credemoro, é como se eu estivesse dando um desconto de 2,5% no produto, que é 50% do que ele está comprando. Quando você dá 5% de desconto do que ele compra... É como se você estivesse dando 10% na taxa da maquininha. Então, essa conta é
+23:24 Speaker 1: importante também,
+23:27 Speaker 3: mas o distribuidor demora um pouquinho para entender também, para participar do início da rampagem do projeto. Beleza. O FLEX surgiu como evolução do projeto. E era justamente a gente escutando o cliente, ele falando, cara, o programa de vocês é muito bom, mas eu deixo meu dinheiro 100% para o muro. O que eu passar aqui vira muro. Eu preciso de dinheiro para pagar minhas contas. Aí o FLEX surgiu com essa evolução do programa, que é também uma coisa que a gente precisa entender na implantação do projeto. Será que vale a pena começar com o sertão e depois vir para o FLEX? numa próxima cadeia, para poder o cara entender o programa melhor. Ou já vamos começar no Flex. O Flex é melhor para todo mundo, é melhor para a Propig, porque ele deixa mais rentabilidade na Propig, ele é mais rentável do que o programa 100% de sessão, porque o trabalho com antecipação do dinheiro no tempo. É melhor para a revenda, porque ele consegue uma táctica praticamente subsidiada ali, para ele poder ter o dinheiro na conta, 100% antecipado. E o dinheiro do lado do distribuidor também, 100% antecipado. Então, assim, a revenda é mais feliz, o NPS dela é mais alto, é mais retardo para o Topic. Ele cresce muito mais, porque ele passa a ser a maquininha dele. Aquele negócio dos 50% que eu te falei,
+25:57 Speaker 1: quando a gente vem para o Flex,
+25:59 Speaker 3: o percentual é mais alto, porque ele passa tudo ali, ele não precisa ter outra maquininha, praticamente. Então, é bom para todo mundo. Só que é um negócio mais difícil de entender e a taxa é um pouquinho mais alta. Porque como eu trabalho com dinheiro no tempo, eu tenho que antecipar a parte dele, eu preciso cobrar isso dele. Então a taxa é mais alta também. Então tem uma barreira de entrada no flex, que a gente passou por muito tempo aqui, que era isso. O vendedor tem mais dificuldade em levar, porque ele tem que explicar que tem antecipação, etc. Isso é muito fácil de explicar. O cliente acha caro, porque ele vê que a taxa está comparando com o MDR da maquininha. Beto, o MDR, mais antecipação, mais todo esse benefício que a gente falou da
+26:42 Speaker 1: gente. Então,
+26:43 Speaker 3: é um programa mais difícil de levar inicialmente. É mais caro e mais difícil de levar. Mas foi uma evolução do programa. E todo mundo fica mais feliz com isso. Lá do distribuidor, para você ter uma ideia, que o vendedor fica muito receoso, ele fala assim, pô, clipe, compra aqui no Crédio Moura, passa 100 mil reais. Se eu colocar ele no Flex 30, por exemplo, ele vai me dar só R $ 70 mil de produto. Ele não vai mais dar R$ 100 mil, porque R$ 30 mil vai na conta dele. Então, eu só consigo garantir que ele vai comprar R $ 70 mil. Mas o comportamento muda. Então, o cliente, quando ele vai para o Flex, ele praticamente dobra o volume dele. Então, em vez de R $ 100 mil, ele passa na minha maioria R $ 200 mil. E em vez de deixar... 100 mil para o distribuidor, que é o plano de seleção, ele vai te deixar 140 mil, que é 70% e 200 mil. Então, todo mundo melhora, só que isso só veio com o tempo. Até hoje, tem revendedor e
+27:39 Speaker 1: tem distribuidor e vendedor que não
+27:41 Speaker 3: bota o cara no flex, que acha que ele vai ficar em nada em plente, não vai pagar o boleto, porque não vai ter dinheiro
+27:45 Speaker 1: suficiente
+27:48 Speaker 3: para pagar os boletos, porque vai pegar uma parte, coloca na conta dele, etc. Então, é um plano um pouquinho mais difícil, mas foi uma evolução do projeto. Mas a gente precisa entender também em outras redes, e eu tenho receio em relação a isso, tá? Se a gente entra no Flex, que é bom para todo mundo, ou se a gente começa no sessão para catequizar, entender, etc., para depois evoluir para o Flex nesse sistema, tá? Os 50% mais ou menos dos clientes estão no Sessão, 50% estão no Flex.
+28:23 Speaker 2: Posso tirar uma dúvida? O Flex, ontem, quando vocês explicaram, ele tinha uma conta que era,
+28:29 Speaker 4: sei lá,
+28:31 Speaker 2: de 5 reais ali, 4 era para ir para o distribuidor para ele comprar uma nova bateria, 1 fica com ele, tinha uma divisão ali que ele meio que ficava com o lucro daquela bateria. No Flex, ele consegue mexer nessa divisão? Por exemplo, eu já vendi 20 baterias e eu já fiz essa transferência e fiquei só com lucro. Daqui em diante, eu não vou comprar essa bateria. Eu posso ficar 100% com o dinheiro daquela venda? Ele pode fazer esse equilíbrio quando ele quiser?
+29:02 Speaker 3: A gente tem um sistema para isso. Tem um produto chamado Multiagenda para isso. Ele faz o seguinte, na própria máquina ele escolhe para onde ele quer mandar o dinheiro. Só que também a gente é a terceira fase. É mais complexo ainda de explicar do que o flex. Você tem que explicar de taxa que é 100% na conta, depois você tem que explicar de taxa que é flex ou que é excepção. É difícil de executar esse produto. Ele não é um produto fácil, não. Mas existe essa possibilidade, tá, Fê? O cliente pode... E é muito difícil o cliente controlar isso, tá, Fê? Porque fala assim, a partir de agora eu vou passar a ser 100% na minha conta. Eita, amanhã eu tenho que pagar o boleto. 100% para o boleto. É muito difícil ter essa gestão na conta, sabe?
+29:42 Speaker 5: Hoje, o meio que é utilizado para fazer isso é através da maquininha. Então, por exemplo, a Comitá falou, às vezes até para ele acompanhar a Comitá, mas até para ele gerenciar. Então, se eu fosse ver se eu for na venda, teve uma revenda que trouxe assim para mim.
+29:59 Speaker 1: Não entendeu
+30:00 Speaker 5: a funcionalidade e aí ele falou assim para mim. Olha, vê só, na minha maquininha tá aqui duas coisas,
+30:09 Speaker 1: loja e Moura.
+30:10 Speaker 5: E aí os meus vendedores ficam usando errado loja.
+30:14 Speaker 1: E aí a taxa nessa loja é
+30:16 Speaker 5: muito alta. Eu já falei para disparar e utilizar. Como é que eu faço para cancelar isso? Então, uma das coisas que eu já identifiquei foi realmente o desconhecimento da funcionalidade, qual que é o objetivo e tudo mais. E por ser via maquininha,
+30:29 Speaker 1: gera ainda mais essa complexidade. Talvez se
+30:32 Speaker 5: você via canal de trabalho e faz essa gestão, ele conseguiria fazer o acompanhamento ou a gestão melhor.
+30:39 Speaker 2: Ah, então é só na maquininha que ele faz isso. Isso aí. Desculpa, é que a maquininha não necessariamente tem uma gestão de quem controla o caixa, né? O dono, esse gerente, não está usando... É, o
+30:55 Speaker 5: vendedor, está lá com a maquininha na rua, e aí, sei lá, clicou errado na loja, e aí a transição vai para o lado do loja. Então, a gente acaba, inclusive, com um cliente para... Entrevistar, mas revender só sobre esses assuntos para verificar como a gente vai evoluir essa funcionalidade, se a gente vai mudar o nome, se a gente vai mudar a forma como ela é hoje distribuída.
+31:17 Speaker 3: E ele é mais complexo que plantar também. Na primeira fase, também foram evoluções do projeto. O cara falou, não, mas espera aí, vamos... Esse projeto... Como eu falei para vocês ontem, o nosso programa é muito bom para o cara que é especialista em bateria. Esse projeto multiagenda surgiu da seguinte forma. O cara lá é uma oficina e só vende 10 baterias de Moura e representa 1% do faturamento dele. Então vamos colocar um multiagenda nele, porque ele fica usando lá no loja. Na hora que ele for vender uma bateria, ele bota lá no Moura, na maquininha. Ele escolhe na própria maquininha, até quando você estiver escolhendo uma modalidade, déficit, crédito e tal. Ele escolhe Moura ou escolhe Loria. Aí surgiu com esse intuito. Mas até então a gente não conseguiu executar. Assim, a gente vai começar a executar agora, né? Porque a gente tinha duas limitações de produtos, talvez. Mas eu acho que é uma evolução. Ele pode virar isso mais na frente.
+32:15 Speaker 1: Sim,
+32:16 Speaker 5: a gente vai estudando essa modalidade para talvez mudar ela,
+32:21 Speaker 1: evoluir ela, sabe? Talvez
+32:22 Speaker 2: deixe ela simples para ele conseguir
+32:24 Speaker 1: fazer a gestão, né?
+32:25 Speaker 5: Isso aí.
+32:27 Speaker 1: Perfeito. Tá bom. Vai lá, Lore.
+33:16 Speaker 3: Então, revendas geralmente menores. Revendas que têm mais dificuldade na gestão, ticket médio mais baixo. Por quê? Porque justamente isso. Ele não consegue fazer a gestão em duas maquininhas ali. Ele tem que ter uma só, que o dinheiro caiu na conta dele, faturamento é lucro. Eu caio na conta dele, ele vai de gata. E aí garante a reposição da bateria do outro lado. Então, os caras que eram mais enrolados financeiramente... Os menores, mais enrolados financeiramente, adoraram o Flex por conta disso. É um sistema único e garante a gestão da loja dele. Aquele empresário que atingiu o faturamento é lucro, o dinheiro que caiu na conta, vou gastar. Pode gastar, meu amigo, porque você já tem a reposição da bateria garantida.
+33:58 Speaker 5: Mas aí, isso é claro, porque quando a gente olha para o conceito, por que a gente criou esse plano? Liquidez. Quem é que, tipo assim, sofre mais com a liquidez?
+34:10 Speaker 1: Os pequenos,
+34:12 Speaker 5: os médios. Então, assim, é o perfil de fama. Não. É porque ontem eu andei falando do universo que ele cuida.
+34:53 Speaker 1: Hoje a gente tem
+34:54 Speaker 3: aproximadamente 90 distribuidores no Brasil inteiro. Embaixo desses distribuidores tem 70 mil revendas. Dessas 70 mil revendas, 7 mil hoje estão aderidas ao
+35:10 Speaker 1: negócio.
+35:11 Speaker 3: Quando a gente pega o perfil da revenda, quando a revenda depende menos da bateria, que não é uma especialista, ela entra e sai do programa, entra e sai, entra e sai, não consegue aderir, não consegue manter. O nosso churn está praticamente 100% numa revenda que é um auto-peças, que a bateria é um negócio a mais para ele,
+35:35 Speaker 1: e pequenininho.
+35:37 Speaker 3: Geralmente é o cara que... Tem que estar até fazendo essa conta hoje. Mais de 5 mil clientes já entraram e saíram nesse perfil aí.
+35:46 Speaker 4: E aí, Lorena, só para você entender, 70 mil revendas, 3.500, 5% delas, são desse segmento que nós chamamos de especializadas. É isso mesmo. É, ativas na...
+36:09 Speaker 1: Não,
+36:09 Speaker 4: com a gente não.
+36:12 Speaker 3: Fez tudo aí.
+36:13 Speaker 4: Olha aí. No segmento ativa e nunca teve.
+36:20 Speaker 1: É que
+36:22 Speaker 4: eu estou com o número aqui, justamente para a campanha.
+36:25 Speaker 3: 70 mil, só 5% é especializado. Isso.
+36:29 Speaker 4: Ativa, especializada. Você está com o número aí?
+36:35 Speaker 3: É uma
+36:36 Speaker 4: fração pequena do todo. Então, nós temos uma base da pirâmide, que são clientes menores, clientes de compras de consumo. Não necessariamente é uma revenda, é um PDV, é um cliente que vai lá e consome. Então, para isso, a gente desenvolveu, foi atrás de um produto para atender a necessidade desse cliente menor. Então, por isso que quando a gente olha a base como um todo, 70 mil revendas, isso não quer dizer que a Propig está em 7 mil clientes, só 10% da base, olhando assim no grosso. Mas é muito com base no perfil de compra dessa revenda na Moura
+37:21 Speaker 1: e o
+37:22 Speaker 4: quanto o nosso produto se encaixaria nesse modelo. Então, por isso que... que temos ainda um terreno grande para percorrer, uma esteira grande para percorrer, que é algumas revendas com perfil que não estão no programa, mas eu diria que eu não consigo chegar a 50% da base hoje. Meu foco é chegar a 35 mil revendas na Propig, muito por conta do perfil delas, a não ser que eu consiga emplacar.
+37:55 Speaker 3: 5% só é especializado. Ou seja, meu universo aderente ao programa é só 5% da
+38:00 Speaker 1: base.
+38:01 Speaker 2: Esse 5% da base total, né? 3.500 da base total é especializado, é isso?
+38:08 Speaker 1: É especializado, eu já
+38:10 Speaker 3: estou presente em grande parte dele.
+38:12 Speaker 1: Tá.
+38:15 Speaker 4: 72%, também está 80%.
+38:23 Speaker 3: É isso aí. Aí você colocou aproximadamente 10 mil, são aproximadamente 4 mil.
+38:54 Speaker 4: Revenas que são só especializadas? Em média, nós temos distribuidores pequenos, médios, grandes, enfim, mas em média... Em média, esse caso
+39:12 Speaker 3: tem 800 de revenas para atender. Nessas 800 que ele atende,
+39:17 Speaker 1: tem ali 80 que
+39:20 Speaker 3: estão dentro do programa. 80, 80. É, mais ou menos isso.
+39:24 Speaker 4: Na proporção, dá para usar esse número como parâmetro.
+39:27 Speaker 3: Ficaram com 300, 200. É.
+39:58 Speaker 4: Então, ele é um produto que se encaixa muito bem nesse perfil, até porque é nesse público onde ocorre o maior volume de compras. Então, a fábrica, ela vende muito mais para esse público aqui. Então, esse público, por ele ser uma loja de baterias, é um segmento que predominantemente vende bateria, então ele compra mais na outra. Por isso que o nosso produto está praticamente fundamentado aqui. E aí o desafio é avançar nos não especialistas.
+40:44 Speaker 3: É isso aí. Na verdade, tem duas frentes de produto. Não é você aumentar a penetração onde você já está. Por exemplo, especialmente em bateria, que eu falei para vocês, só 50% passa na minha maquininha, 50% passa fora. Não tem outros produtos aqui que eu posso aumentar isso. E nessas próprias casas de bateria, eu posso ter outras formas de receita também. Não faz parte do projeto nosso aqui, mas sim. Posso ter um crédito, posso ter um seguro, um consórcio, outras coisas financeiras para poder levar para ele, para poder, sempre com o objetivo para ele vender mais. Como é que eu faço para esse cara financiar uma moto para poder ter um delivery melhor? E assim por diante. Aí são produtos que a gente está pensando aqui, nos casos que a gente já tem. Nos casos que a gente não tem, aí sim, são outros produtos meios. Não o Crede Moura em si, mas talvez o guarda-fuga Crede Moura, esse negócio que a gente está fechando de agenda diferente, Moura e Loja, aumentar a percentual de flex, trazer outras fontes que dão uma maquininha para captura, um CDC, ou a própria maquininha que ele usa, transformar esse recebível que ele tem em outras maquininhas em crédito e assim por diante. Então, não especialistas,
+41:58 Speaker 1: tem muito caminho aí pela frente, que a gente pode
+42:01 Speaker 3: trabalhar com o propício. e também nos especialistas especialistas também tem outras oportunidades o
+42:22 Speaker 2: que eu ia só talvez eu não sei nem se a gente precisa fazer agora talvez a gente fale com todo mundo a gente volta semana que vem e fale de novo é só um pouco mais desse perfil da Godira eu acho que ficou até um pouco mais claro que a gente falou bastante ontem né eu acho que ele tem quase um encurtamento dessa jornada né porque vai ser indústria para esse distribuidor que já vende ali para esse consumidor final E não vai ter as revendas. Então, aí a gente pode pensar. Quando a gente olha para a Decor, vocês falaram um pouco do franqueado. Então, aí tem uma outra complexidade. Eu não sei se eles trouxeram, por exemplo, dores específicas que eles querem trabalhar. Você falou, ah, da Decor, tem ali uma questão de inadimplência. Se tem alguma questão que na hora que vocês apresentaram o programa, eles entenderam como indústria... que é bom para o negócio deles, o que cada um está olhando, porque como são modelos diferentes de negócio, talvez eles tenham ali um olhar diferente de aplicação.
+43:28 Speaker 3: A decora tem essa dor, que é a questão da reposição do produto. Mas nesse mergulhar no cliente, a gente vai entender mais dessas oportunidades que a gente poderia ter. Essa é a visão da indústria. A gente vai pegar a visão da loja mesmo, da franquia, e trazer aqui como oportunidade para vender mais.
+43:50 Speaker 1: Seria isso.
+43:53 Speaker 3: Um ponto aqui que é o seguinte, hoje a fábrica, ela enxergou isso como uma oportunidade de aumentar o parcelamento no distribuidor. O distribuidor já vem com o consumidor final, certo? Ele falou, pô, o cara só vende ali em três vezes, se levar dez vezes, até mais que isso, 12, 18, 21.
+44:13 Speaker 5: A oportunidade de aumentar a market share dele, né?
+44:15 Speaker 3: Aumentar a venda na venda.
+44:20 Speaker 1: Mas
+44:20 Speaker 3: existe uma oportunidade grande que eu vejo, muito maior desse produto, que é na revenda do distribuidor. Que é o cara que, assim, o distribuidor, ele além de vender no consumidor final, ele também vende para pequenas lojas. Então todo distribuidor Budia, ele tem uma base ali de 50, 100 lojinhas perto dele ali, que ele revende o pneu Budia para essas lojas. Eu acho o produto nosso muito mais aderente para essa revenda. Apesar da fábrica querer colocar no distribuidor, eu acho que pode ser uma primeira fase do projeto, mas eu vejo que se eu colocar a maquininha na revenda, ela gerar crédito para o distribuidor Budia. Eu tenho muito mais oportunidade de ganhar de Market Chef, porque essa revenda, ela compra, é multimarca, né? Então, ela compra ali, chinês, compra tudo que é tipo de pneu. Se a Bom Dia leva isso como diferencial para ela, existe uma possibilidade de fidelização maior. Aí, eu acho que nas entrevistas, a gente pode puxar um pouquinho isso, tá? Conversar com o distribuidor e falar, cara, como é que é a tua venda aqui? Dentro da loja é quanto? Mas fora da loja é quanto? Tu vê oportunidade de crescimento aonde? Eu acho que vai ter muito mais dinheiro na mesa. Porque esse programa, a conta dele só fecha se aumentar a venda. Se não aumentar a venda, não fecha. Então, se eu podia falar assim, vou colocar meu prazo de pagamento aqui de 3 para 10 vezes e a venda não acompanhar, o programa morreu. E a conta não fechou. Ele está pagando, está aumentando um pouquinho o prazo médio, pagando uma taxa para poder não aumentar a venda.
+46:00 Speaker 1: Agora, na revenda...
+46:01 Speaker 3: eu vejo muita oportunidade, que aí a revenda que, aquela revenda pequenininha, que não tem muita negociação com o banco, que às vezes tem taxas altas, que não parcela, ou até parcela dez vezes, mas cobra isso do consumidor final. Então, acho que é onde a gente tem oportunidade, não é bom dia, seria na própria revenda mesmo. Onde o market chega no dia é 10%, por exemplo. Eles falaram já que o market chega nessas revendinhas é 10%.
+46:26 Speaker 4: E aí, pegando esse gancho do Tasso, Nós temos vários exemplos aí de casas de baterias,
+46:34 Speaker 1: que
+46:36 Speaker 4: também são multimarcas, né? Tem Moura, tem Eliá, tem outras baterias. E aqui a Moura, ela tinha um cheiro ali pequeno, né? Ela tinha 30% do volume de vendas. E aí, com o Crede Moura, ela passou a ter um diferencial ali que... Se for uma bateria Moura, pode ser em dez vezes, mas se for qualquer outro modelo, qualquer outra marca, a revenda não conseguiria vender em dez porque era em outra maquininha. Então, aí a Moura acabou ganhando mais espaço dentro dessas casas de baterias por conta do dez vezes. Fazendo um paralelo com a Godia, que a necessidade de ter um parcelamento maior... Ela não pode chegar hoje para um distribuidor dela e dizer, ó, preciso que você venda em 10. O distribuidor vai dizer, mas aqui vai bancar a taxa da maquininha. Então, por isso que a Propiga, entrando já com o pacote de parcelamento, vai permitir que ele venda, não só na porta dele, no distribuidor, em 10 parcelas, mas como ele estenda isso também para as revendas dele. Lorena Pneus, aqui em Recife. e tá lá ela vende só 10 por cento do volume de venda dela é o dia mas agora que o dia trouxe para mim o dez vezes eu não consigo vender em outras marcas a tendência Lorena vender cada vez mais no dia porque ela vai oferecer consumidor final hoje
+48:02 Speaker 1: não é uma realidade assim consumidor vai comprar o pneu pelo menos de um dia acho que para ela mexendo não sei
+48:09 Speaker 5: com que tem que nem que tá
+48:11 Speaker 1: porque o meio que eu não me viu meninas
+48:14 Speaker 5: entendeu aí a ponta
+48:26 Speaker 4: da calçada ali
+48:44 Speaker 5: Tem que
+48:45 Speaker 4: andar com o cajado de Moisés, assim, abre o caminho,
+48:48 Speaker 1: sai tudo à frente. E
+48:50 Speaker 3: quando pode atravessar?
+48:53 Speaker 1: Não, acho que acontece.
+49:09 Speaker 2: Aproveitando. Ô, Dani, só pra te falar, eu te entendo, viu?
+49:13 Speaker 1: Que bom.
+49:14 Speaker 2: Esses dias, não, antes que o ano passado, eu tinha um buraco numa ponte, tipo, mas ele era bem pequeno, assim, eu não sei nem o que aconteceu, eu não vi, e eu passei com um pneu, e estourou na hora meu pneu, assim, no meio da ponte.
+49:29 Speaker 1: O meu foi parecido.
+49:35 Speaker 2: E aí não tem jeito, né? Você para no primeiro lugar que aparece e tu troca, né?
+49:40 Speaker 4: É, aí vai na Lorena Pneus e troca, né, Lorena?
+49:43 Speaker 1: Exato. Dez vezes.
+49:47 Speaker 2: É, e agora que vocês falaram, eu também não paguei em dez vezes também.
+49:52 Speaker 1: Lorena, aproveitando, eu acabei de conseguir um agendamento aqui de Recife com o pessoal da Cruzilhada Pneus no dia 22 de setembro, às 10 horas. Muito bom. E eu, contigo. É o da Cris.
+50:11 Speaker 3: Depopolas ainda não, né, tá? Mas a gente vai... Eu vou tentar falar hoje mais fácil agora.
+50:17 Speaker 1: Tá bom.
+50:18 Speaker 2: Aí a gente vê isso. Fechado, gente. Acho que é isso. Aí, segunda, a gente tem a reunião com o Rui, vamos falar. Eu coloquei na reunião do Bruno, eu coloquei Bruno e Dani. Não sei se você quer que eu coloque você também, Tarso, na agenda, que você falou que não podia, não entendi
+50:32 Speaker 5: direito essa parte. Na verdade, me coloca nessa com o Rui, não sei se é você que está como organizadora do Vivar aqui. e me coloca nessa do com Rui e aí você vai falar com o Bruno como é só para apresentar a plataforma acho que só o Bruno pode tocar essa
+50:48 Speaker 1: fechando
+  
