@@ -76,12 +76,12 @@ Entender, nesta ordem:
 
 ## Bloco 4 — Prova de conceito (territórios de funcionalidade)
 
-Depois do Bloco 3, se o tempo e o clima da conversa permitirem, aplicar o
-bloco de prova de conceito completo em
-`bloco-prova-conceito-territorios.md` — testa a reação a 6 territórios
-de funcionalidade específicos (parcelamento com garantia, reposição
-automática, liquidez, escolha por venda, painel de acompanhamento,
-subsídio da franqueadora), sempre sem nomear Credimora/Propig.
+Depois do Bloco 3, se o tempo e o clima da conversa permitirem, aplicar
+**só o Conjunto A ("Consumidor Final")** de
+`bloco-prova-conceito-territorios.md` — a franquia não tem relação de
+revenda abaixo dela, então o Conjunto B não se aplica aqui. O Conjunto A
+testa 4 territórios (parcelamento com garantia, liquidez, escolha na hora
+da venda, painel de acompanhamento), sempre sem nomear Credimora/Propig.
 
 ## Encerramento
 

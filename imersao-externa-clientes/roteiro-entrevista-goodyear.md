@@ -74,14 +74,25 @@ Entender, nesta ordem:
     parcelamento mais fácil, direto na hora da compra, comprando pneu
     Goodyear em vez de outra marca — isso mudaria alguma coisa para você?
 
-## Bloco 4 — Prova de conceito (opcional, se a entrevista chegar numa revenda)
+## Bloco 4 — Prova de conceito (territórios de funcionalidade)
 
-Se, em algum momento do projeto, a entrevista for com uma **revenda da
-rede do distribuidor** (não com o próprio distribuidor), aplicar o bloco
-de prova de conceito em `bloco-prova-conceito-territorios.md` — testa a
-reação a 6 territórios de funcionalidade específicos, sempre sem nomear
-Credimora/Propig. Não se aplica diretamente à entrevista com o
-distribuidor em si, que já é coberta pelos blocos 1-3 acima.
+Como esse distribuidor é híbrido, aplicar **os dois conjuntos** de
+`bloco-prova-conceito-territorios.md`, em momentos separados da
+conversa:
+
+- **Conjunto A ("Consumidor Final")** — pedir pra ele pensar
+  especificamente em quando vende direto pro motorista/dono do carro, sem
+  passar por revenda.
+- **Conjunto B ("Revenda")** — pedir pra ele pensar especificamente em
+  quando fornece pra uma revenda da rede dele.
+
+Sinalizar claramente a troca de "chapéu" entre um conjunto e outro (ver
+instruções no próprio arquivo do bloco). Sempre sem nomear
+Credimora/Propig.
+
+Se, em algum momento futuro do projeto, a entrevista for direto com uma
+**revenda da rede do distribuidor** (não com o distribuidor em si), usar
+só o Conjunto A com ela.
 
 ## Encerramento
 
