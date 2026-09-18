@@ -5,8 +5,8 @@
 Cada território segue a mesma lógica em 4 passos:
 
 1. **Desafio real** — um desafio que a revenda/franquia de fato enfrenta,
-   com evidência do material coletado (principalmente a entrevista com o
-   Fábio, revenda Moura SP).
+   com evidência do material coletado (principalmente as entrevistas com
+   o Fábio e o Lucas Barreto, revendas Moura SP).
 2. **Como o Credimora ajuda hoje** — o mecanismo real por trás, só pra
    nosso entendimento interno. **Nunca falar isso na entrevista.**
 3. **Conceito agnóstico** — o mesmo território, descrito como cenário
@@ -50,32 +50,42 @@ Na entrevista Goodyear, sinalizar a troca de "chapéu" entre os conjuntos.
 
 ## Conjunto A — Território "Consumidor Final"
 
-### A1 — Fechar a venda na hora, mesmo em emergência
+*Agora com evidência cruzada de duas revendas — Fábio (SP, plano Sessão)
+e Lucas Barreto (SP, plano Flex) — o que já mudou a leitura de dois
+territórios (ver A3 e A4 abaixo).*
 
-**Desafio real:** mais de 80% das vendas de bateria são emergenciais — o
-cliente precisa resolver ali, na hora, e se a revenda não atender rápido,
-ele liga pra outro até alguém atender. O Fábio descreveu isso
-literalmente ao vivo: *"ligou um cliente agora... putz, eu preciso agora...
-vixe, então deixa, eu vou pedir à tarde."* Quem chega primeiro leva a
-venda.
+### A1 — Resolver o problema do cliente na hora, com o meio de pagamento certo pronto
 
-**Como o Credimora ajuda hoje:** parcelamento aprovado na hora, via
-cartão, sem análise de crédito tradicional — o cliente sai com o problema
-resolvido, mesmo sem ter o valor total disponível ali.
+**Desafio real:** a maioria das vendas não é planejada. O Fábio confirma
+que +80% são emergenciais. O Lucas detalha o padrão de comportamento por
+trás disso: o cliente raramente decide trocar a bateria porque "já tem
+dois anos" — ele descobre o problema na hora, e "na maioria das vezes a
+turma não tem dinheiro" guardado pra isso. Por causa disso, a revenda
+precisa estar pronta com qualquer meio de pagamento — parcelado, Pix,
+dinheiro — e com equipe preparada pra "atender em qualquer situação"
+(Lucas). Não é só uma questão de crédito: é estar pronto pra qualquer
+cenário de pagamento no momento certo.
+
+**Como o Credimora ajuda hoje:** aprovação de parcelamento instantânea,
+sem análise de crédito tradicional, complementando as outras formas de
+pagamento — reduz o cenário em que a revenda perde a venda simplesmente
+porque o cliente não tinha o valor todo ali.
 
 **Conceito agnóstico pra abrir a conversa:**
-> *"Pensa numa situação em que seu cliente final precisa resolver um
-> problema com urgência, mas não tem o valor todo disponível na hora.
-> Como vocês costumam lidar com isso hoje?"*
+> *"Pensa numa situação em que o cliente chega precisando resolver um
+> problema na hora, sem ter se planejado financeiramente pra isso. Como
+> vocês costumam lidar com isso hoje — que opções vocês já deixam
+> prontas?"*
 
 **Perguntas de co-criação:**
-- O que normalmente acontece quando o cliente não tem o valor todo na
+- Quais formas de pagamento vocês já deixam prontas pra esse tipo de
+  situação?
+- O que acontece quando nenhuma delas resolve o problema do cliente na
   hora — ele desiste, negocia, vocês perdem a venda?
 - Se existisse uma forma de aprovar um parcelamento ali mesmo, sem
-  burocracia — como isso mudaria o atendimento de vocês?
+  burocracia, o que mudaria na forma como sua equipe atende?
 - O que teria que ser verdade, no seu tipo de produto, pra isso funcionar
   bem?
-- O que te preocuparia nesse cenário?
 
 ### A2 — Parcelar mais vezes sem prejudicar a margem de quem vende
 
@@ -102,50 +112,71 @@ interesse financeiro de quem vende.
 - Que quantidade de parcelas faz sentido pro tipo de produto que vocês
   vendem?
 
-### A3 — Cumprir a expectativa que a marca já criou no cliente
+### A3 — Acompanhar o que já virou padrão do mercado, sob pena de perder venda só por "não ter"
 
-**Desafio real:** o Fábio revelou que o motivo real de ele ter aderido ao
-Credimora não foi o benefício em si — foi medo de perder venda, porque a
-própria Moura faz propaganda nacional de "10x sem juros", criando
-expectativa no consumidor antes dele nem chegar na loja. Se a revenda não
-consegue atender essa expectativa, perde a venda pro concorrente que
-consegue.
+**Desafio real:** o Fábio revelou que aderiu por medo de perder venda,
+já que a própria marca cria expectativa via marketing institucional. O
+Lucas confirma e **atualiza** esse ponto de um jeito importante: hoje,
+quase todas as lojas de bateria já oferecem parcelamento em 10x sem
+juros — o que antes era diferencial virou piso de mercado:
+
+> *"No começo fazia mais [diferença o parcelamento]. Hoje em dia, nem
+> tanto, porque quase todo mundo hoje passa ali dez vezes sem juros."*
+
+Ou seja: **não ter essa condição hoje não é deixar de ganhar uma
+vantagem — é ficar pra trás de um padrão que o próprio mercado já
+normalizou.** Isso muda o enquadramento: o valor não está mais em "se
+diferenciar" por isso (ver a antiga versão deste território), está em
+não ficar de fora do que já virou esperado.
 
 **Como o Credimora ajuda hoje:** dá à revenda a ferramenta concreta pra
-"cumprir a promessa" que a indústria fez publicamente, sem que ela tenha
-que bancar isso sozinha do próprio bolso.
+acompanhar esse padrão de mercado sem precisar bancar sozinha o custo de
+oferecer um parcelamento competitivo.
 
 **Conceito agnóstico:**
-> *"Quando a marca faz uma campanha ou promete uma condição de pagamento,
-> isso chega até o cliente antes dele entrar na loja de vocês?"*
+> *"Será que, no seu mercado, alguma condição de pagamento já virou algo
+> que todo mundo oferece — a ponto de não ter isso significar perder a
+> venda de cara, mesmo sem ser mais um diferencial de verdade?"*
 
 **Perguntas de co-criação:**
-- Isso ajuda ou atrapalha, quando a marca promete algo que vocês nem
-  sempre conseguem cumprir na ponta?
-- Se existisse uma ferramenta pensada especificamente pra cumprir esse
-  tipo de promessa na ponta, o que ela precisaria ter pro seu contexto?
+- Existe algo assim no seu setor hoje — uma condição que já virou
+  expectativa mínima do cliente, não mais um diferencial?
+- Como você percebe quando algo deixou de ser diferencial e virou padrão?
+- Se ficasse pra trás nesse padrão, o que aconteceria nas suas vendas?
 
-### A4 — Diferenciar-se do concorrente pela condição de pagamento, não só pelo preço
+### A4 — Ter liquidez disponível sem multiplicar maquininhas e complexidade operacional
 
-**Desafio real:** quando a compra não é emergencial, o consumidor compara
-preço entre lojas — o Fábio chamou isso de "fazer leilão". Mas ele mesmo
-observa que a diferença de preço entre concorrentes hoje é pequena
-(R$10-20) — o que sobra pra realmente diferenciar é o atendimento e a
-condição de pagamento.
+**Desafio real:** aqui as duas revendas mostram **o mesmo problema
+resolvido de dois jeitos opostos**. O Fábio mantém duas maquininhas na
+bancada (banco + Propig) e alterna por número de parcelas — fricção real
+de equipe, risco de erro (bater na máquina errada, perder a margem
+calculada). Já o Lucas escolheu deliberadamente o plano Flex 50/50 numa
+das lojas **exatamente pra não precisar de uma segunda maquininha**:
 
-**Como o Credimora ajuda hoje:** o parcelamento competitivo funciona como
-diferencial de venda, deslocando a decisão do consumidor de "quem é mais
-barato" pra "quem oferece a melhor condição".
+> *"Porque eu não queria ter que ficar fazendo jogo de maquininha e ter
+> uma outra maquininha com outra bandeira pra fazer fluxo de caixa."*
+
+O desafio de fundo é o mesmo — precisar de liquidez rápida sem travar
+capital — mas uma revenda multiplicou ferramentas pra resolver, a outra
+ajustou o mix numa ferramenta só.
+
+**Como o Credimora ajuda hoje:** o plano com parte configurável em conta
+(tipo Flex), ajustável periodicamente, permite equilibrar entre crédito
+de reposição e dinheiro disponível sem precisar de uma segunda
+maquininha só pra isso.
 
 **Conceito agnóstico:**
-> *"Quando o cliente está comparando preço com o concorrente, o que pesa
-> mais pra ele fechar com vocês?"*
+> *"Hoje, quando vocês precisam de dinheiro rápido em caixa, como
+> resolvem isso? Isso leva a usar mais de uma ferramenta de pagamento, ou
+> existe uma forma de ajustar isso numa ferramenta só?"*
 
 **Perguntas de co-criação:**
-- A condição de pagamento já entra nessa comparação hoje, na cabeça do
-  cliente?
-- Se pudessem usar isso como diferencial mais forte do que hoje, como
-  mudaria a forma de vocês venderem?
+- Quantas ferramentas ou formas de pagamento diferentes vocês usam hoje
+  pra equilibrar "ter estoque garantido" com "ter dinheiro disponível"?
+- Se pudesse ajustar esse equilíbrio numa única ferramenta, sem
+  multiplicar processos, o que mudaria no dia a dia da equipe?
+- O que te preocuparia em depender de uma configuração só, em vez de ter
+  algo "reserva" pronto?
 
 ---
 
@@ -255,3 +286,11 @@ depender da capacidade de pagamento da revenda em si.
   reconhece como reais — e quais ela nem sente, porque sua realidade
   (100% cativa, sem concorrência de marca) já é estruturalmente diferente
   da revenda Moura.
+- No Território A3, vale testar diretamente se, no setor de Goodyear ou
+  Decor, o parcelamento/condição de pagamento já é padrão de mercado
+  (como já é hoje entre lojas de bateria) ou ainda é diferencial real —
+  isso muda o enquadramento de todo o discurso de valor.
+- No Território A4, comparar a reação da nova indústria com os dois
+  padrões opostos já vistos na Moura (Fábio multiplica maquininha, Lucas
+  ajusta o mix numa só) — qual desses comportamentos aparece primeiro
+  numa revenda/franquia que nunca usou nenhuma das duas soluções?
