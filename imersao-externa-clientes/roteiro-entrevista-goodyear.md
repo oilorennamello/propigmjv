@@ -74,6 +74,15 @@ Entender, nesta ordem:
     parcelamento mais fácil, direto na hora da compra, comprando pneu
     Goodyear em vez de outra marca — isso mudaria alguma coisa para você?
 
+## Bloco 4 — Prova de conceito (opcional, se a entrevista chegar numa revenda)
+
+Se, em algum momento do projeto, a entrevista for com uma **revenda da
+rede do distribuidor** (não com o próprio distribuidor), aplicar o bloco
+de prova de conceito em `bloco-prova-conceito-territorios.md` — testa a
+reação a 6 territórios de funcionalidade específicos, sempre sem nomear
+Credimora/Propig. Não se aplica diretamente à entrevista com o
+distribuidor em si, que já é coberta pelos blocos 1-3 acima.
+
 ## Encerramento
 
 18. Tem mais alguma coisa importante sobre como funciona seu negócio que a

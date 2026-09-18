@@ -74,6 +74,15 @@ Entender, nesta ordem:
 17. Você já usou ou conhece alguma ferramenta de crédito ou parcelamento
     oferecida por outras franquias ou redes que você acha interessante?
 
+## Bloco 4 — Prova de conceito (territórios de funcionalidade)
+
+Depois do Bloco 3, se o tempo e o clima da conversa permitirem, aplicar o
+bloco de prova de conceito completo em
+`bloco-prova-conceito-territorios.md` — testa a reação a 6 territórios
+de funcionalidade específicos (parcelamento com garantia, reposição
+automática, liquidez, escolha por venda, painel de acompanhamento,
+subsídio da franqueadora), sempre sem nomear Credimora/Propig.
+
 ## Encerramento
 
 18. Tem mais alguma coisa importante sobre como funciona seu negócio que a
