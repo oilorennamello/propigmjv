@@ -1,444 +1,512 @@
-# Relatório Estratégico — Do CredMoura para uma Possível Proposta Goodyear
+# Relatório Estratégico — Do CredMoura para uma Possível Proposta Goodyear (v2)
 
 > Versão em markdown do relatório publicado como artifact visual em
 > https://claude.ai/artifact/Uf1BnbaJ7sQYNfNR5JfU35 (mesmo conteúdo,
-> formatado como página de consultoria com diagramas, escalas e
-> matrizes coloridas — recomendado para leitura/apresentação).
+> com diagramas, escalas e matrizes coloridas — recomendado para
+> leitura/apresentação). Esta é a **versão revisada**: corrige o papel
+> das entrevistas Moura (referência comparativa, nunca fonte de
+> oportunidades Goodyear) e amplia significativamente a análise de
+> necessidades não financeiras encontradas nas entrevistas Goodyear.
 >
 > Fontes: 5 entrevistas Moura/Credimora (`imersao-revendedores-distribuidores-moura/`
 > — Fábio, Lucas Barreto, Victor/Anápolis, Eduardo/União, Victor/Roadmaster),
 > o AS-IS interno (`imersao-interna-moura/AS-IS_credimora-propig-moura.md`),
 > e 6 entrevistas Goodyear (`imersao-externa-clientes/` — Lubpar, Peregrina,
 > Menezes, Encruzilhada, JF, Só Pneus). Convenção: **Evidência** = relatado
-> nas fontes; **Interpretação** = leitura cruzando evidências; **Hipótese**
-> = ainda não validado.
+> nas fontes; **Interpretação** = leitura cruzando evidências; **Referência
+> Moura** = ponto de comparação vindo exclusivamente do ecossistema Moura,
+> usado para explicar mecanismo/condição — nunca como prova de necessidade
+> Goodyear.
+
+---
+
+## Nota metodológica: como usamos cada fonte
+
+As cinco entrevistas Moura/Credimora e o AS-IS interno documentam um
+produto que já existe e já tem resultado mensurado. Esse material
+responde a uma pergunta específica: **por que o Credimora funciona onde
+funciona, e sob quais condições?** É uma fonte excelente para entender
+mecanismos, mas inadequada para dizer o que a Goodyear precisa — nenhum
+entrevistado Moura opera no ecossistema Goodyear.
+
+As seis entrevistas Goodyear são a **única fonte legítima** de
+necessidades, desejos e oportunidades deste projeto. Qualquer território
+apresentado neste relatório tem pelo menos uma evidência direta de uma
+dessas seis entrevistas. Quando um padrão da Goodyear também aparece na
+Moura, isso é registrado como convergência — nunca como origem da
+oportunidade.
 
 ---
 
 ## 1. Resumo executivo
 
-O ecossistema Goodyear tem **dois circuitos estruturalmente distintos**,
-com pouca sobreposição: revendas oficiais que compram direto da fábrica e
-vendem majoritariamente ao consumidor final (Peregrina, Menezes,
-Encruzilhada, JF); e um circuito distribuidor→sub-revenda multimarca
-(Lubpar). Uma sexta entrevista (Só Pneus) revelou um terceiro arranjo —
-distribuidor e revenda ao mesmo tempo, na mesma empresa.
+A primeira versão deste relatório concentrou a leitura das entrevistas
+Goodyear quase inteiramente na dimensão financeira. Uma releitura mais
+ampla mostra que a dor mais citada espontaneamente, em praticamente
+todas as revendas, **não é financeira**: é a dificuldade e o custo de
+gerar demanda e atrair cliente para a loja. Ao lado dela aparecem
+necessidades de fortalecimento de marca, recorrência pós-venda,
+expansão para e-commerce, integração tecnológica com a fábrica e
+ausência de qualquer programa estruturado de incentivo ao canal.
 
-Esse desenho já difere do ecossistema Moura, onde a cadeia é mais linear
-(Indústria → Distribuidor → Revenda → Consumidor) e onde a indústria
-detém **70–75% do capital de cada distribuidor** — alavanca que permitiu
-à Moura tornar a adesão ao Credimora obrigatória no nível do
-distribuidor, mesmo quando o valor não era imediatamente óbvio
-(AS-IS interno). Essa alavanca **não existe** na relação Goodyear-canal.
+A segunda mudança de fundo é sobre como usamos as entrevistas Moura. Na
+primeira versão, uma necessidade relatada por um distribuidor Moura
+(monitoramento automatizado de clientes inativos) foi tratada como
+evidência de oportunidade Goodyear — isso confundia o papel comparativo
+da Moura com o papel de fonte de necessidades, que só cabe à Goodyear.
+Nesta versão, nenhuma oportunidade se apoia unicamente em evidência
+Moura.
 
-O mecanismo mais forte de fidelização do Credimora — o crédito-produto
-do plano Sessão, resgatável só em compra da própria marca — funciona
-bem quando a categoria financiada é o *core business* do cliente (a
-"casa de bateria especialista", citada por três distribuidores Moura
-diferentes). Nas revendas Goodyear, o pneu é 50–70% do faturamento, mas
-convive estruturalmente com serviço e peças — ticket mais fragmentado
-que dilui esse mecanismo.
+### Seis conclusões estratégicas revisadas
 
-O achado mais crítico veio de dentro da própria Moura: segundo Victor
-(Roadmaster), o Credimora só oferece taxa competitiva porque **o
-distribuidor subsidia a diferença** — sem esse subsídio, a taxa "de
-tabela" da Propig é mais cara que Cielo ou Rede. Nenhuma das 6
-entrevistas Goodyear relatou qualquer mecanismo de subsídio ativo hoje.
-
-### Oito conclusões estratégicas
-
-1. A estrutura de cadeia é parcialmente parecida, mas a relação de
-   **capital** entre indústria e canal é fundamentalmente diferente.
-2. O mecanismo de fidelização depende da categoria financiada "amarrar"
-   o cliente — o ticket Goodyear é mais fragmentado.
-3. Parcelamento longo (10x) **já não é diferencial em nenhum dos dois
-   ecossistemas** — é piso de mercado tanto na Moura quanto na Goodyear.
-4. Sem alguém subsidiando, o produto de tabela da Propig não é
-   competitivo — hoje não há candidato óbvio a esse papel na Goodyear.
-5. Aderência é mais forte no perfil "especialista" (categoria única,
-   alto giro), nos dois ecossistemas; multimarca é o perfil de menor
-   aderência nos dois.
-6. O problema mais estruturalmente equivalente é o descasamento entre
-   prazo de compra e prazo de venda — na Goodyear, deslocado
-   principalmente para o distribuidor.
-7. A dor mais aguda e quantificada da amostra Goodyear (Lubpar, ~20% de
-   vendas represadas) está no arquétipo **menos** parecido com o perfil
-   que faz o Credimora funcionar na Moura.
-8. Há oportunidades fora do escopo financeiro atual — geração de
-   demanda, automação de análise de crédito B2B — pedidas tanto por
-   entrevistados Goodyear quanto por um distribuidor Moura.
+1. O espaço de oportunidade Goodyear é **mais amplo que adquirência e
+   crédito** — demanda, marca, recorrência, canais e operação aparecem
+   com força pelo menos igual.
+2. A Moura explica **mecanismos e condições**, não fornece um backlog
+   de funcionalidades para a Goodyear.
+3. Nenhuma revenda oficial entrevistada participa hoje de um programa
+   estruturado de incentivo/reconhecimento da fábrica — lacuna própria
+   da Goodyear.
+4. A dor financeira mais equivalente entre os dois ecossistemas
+   (descasamento de prazo) é real, mas não é a mais citada
+   espontaneamente.
+5. Automação de crédito B2B, integração tecnológica e ausência de
+   programa de incentivo têm evidência Goodyear própria **e** aparecem
+   de forma independente na Moura — as convergências mais robustas para
+   o workshop.
+6. Nenhum território deste relatório é proposta fechada — a Seção 13 é
+   feita de perguntas abertas de cocriação.
 
 ---
 
 ## 2. Visão do ecossistema Goodyear
 
-**Cadeia Moura (referência, mais linear):** Moura (~70–75% do capital) →
-Distribuidor → Revenda/PDV (crédito-produto/Flex) → Consumidor final
-(maquininha Propig, até 10x).
+**Cadeia Moura (referência):** Moura (~70-75% do capital) → Distribuidor
+→ Revenda/PDV → Consumidor final.
 
-**Configuração 1 Goodyear — revenda oficial, direto da fábrica**
-(Peregrina, Menezes, Encruzilhada, JF): Goodyear → Revenda oficial
-monomarca (sem participação acionária) → 85–98% consumidor final, 2–6%
-B2B residual.
+**Configuração 1 (Peregrina, Menezes, Encruzilhada, JF):** Goodyear →
+Revenda oficial monomarca (sem participação acionária) → 85-98%
+consumidor final.
 
-**Configuração 2 Goodyear — distribuidor B2B puro** (Lubpar): Goodyear →
-Distribuidor → Revenda multimarca pequena → Consumidor final.
+**Configuração 2 (Lubpar):** Goodyear → Distribuidor → Revenda
+multimarca pequena → Consumidor final.
 
-**Configuração 3 Goodyear — distribuidor e revenda na mesma empresa**
-(Só Pneus): Goodyear → Só Pneus (matriz + CD) → 70% revendas multimarca
-(262 municípios) / 30% varejo próprio (26 lojas) → Consumidor final.
+**Configuração 3 (Só Pneus):** Goodyear → Só Pneus (matriz+CD) → 70%
+revendas multimarca (262 municípios) / 30% varejo próprio (26 lojas).
 
-**Interpretação**: na Configuração 1, a dor financeira mais citada é o
-descasamento entre prazo de compra e prazo de venda. Na Configuração 2,
-a dor é sobre limite de crédito concedido a terceiros — mais próxima da
-dor que o Credimora resolve na relação distribuidor→revenda dentro da
-Moura. A Configuração 3 soma as duas dores, mas com intensidade
-desigual: Só Pneus não relatou pressão de capital de giro como Lubpar,
-apesar de também ser distribuidor de porte considerável.
+**Por que essa diferença existe** <small>(interpretação)</small>: a
+Goodyear cresceu recrutando revendedores oficiais diretamente (Lubpar
+menciona a saída da "De Pascoal" da exclusividade como gatilho),
+enquanto reserva a função de distribuidor para regiões/volumes que não
+comportam atendimento direto — os multimarca pequenos que Lubpar atende.
 
----
-
-## 3. Moura/CredMoura × Goodyear
-
-| Dimensão | Moura / CredMoura | Goodyear | Similaridade | Implicação |
-|---|---|---|---|---|
-| Estrutura da cadeia | Indústria → Distribuidor (~70-75% capital Moura) → Revenda → Consumidor | 2 circuitos paralelos + 1 caso híbrido | Parcial | Goodyear não tem um circuito único dominante |
-| Papel do distribuidor | Sócio local + participação Moura; "patrocinador" | PJ independente, sem participação da fábrica; 100% capital próprio (Lubpar) | Baixa | Sem alavanca de propriedade pra "empurrar" adesão |
-| Papel da revenda | Depende do distribuidor local | Revenda oficial compra direto da fábrica (majoritário) | Baixa/Parcial | Modelo "amarrar revenda ao distribuidor" não se aplica à maioria |
-| Revendas multimarca | Existem; churn concentrado nelas (AS-IS) | Público do circuito distribuidor→sub-revenda | Alta | 2 fontes confirmam baixa aderência de multimarca |
-| Relevância da categoria p/ receita | Alta nos casos de sucesso (~90%+ penetração, especialista) | Pneu 50-70%, mas mix estrutural com serviço/peças | Parcial | Ticket Goodyear mais diluído |
-| Pressão competitiva (importado) | Não evidenciada nas entrevistas Moura lidas | Tema nº 1, unânime (6/6) | Baixa similaridade | Problema que o Credimora não resolve em nenhum ecossistema, mais agudo na Goodyear |
-| Disputa por share no PDV multimarca | Sim — "funcionário seu convertendo a venda" (Eduardo) | Não evidenciada — sem sub-revenda multimarca entrevistada | Precisa validar | Pilar forte da Moura sem evidência equivalente |
-| Parcelamento máximo praticado | Até 10x | 6x a 12x, variando por revenda | Alta | Parcelamento longo já é prática comum nos dois |
-| Parcelamento: diferencial ou piso | Diferencial histórico, mas já "virando padrão" (Lucas Barreto) | Piso competitivo (Peregrina, Menezes, JF) | Alta | Não vender como "parcelamos mais" |
-| Necessidade de antecipação | Variável (AS-IS) | Variável (ver Seção 8 do relatório) | Alta | Heterogeneidade é padrão comum |
-| Custo de antecipação no mercado | 10-20% a.a. (AS-IS) | 8-9% (Menezes); 13-15% relatado por cliente de mercado (Roadmaster) | Alta | Espaço de valor, se a Propig ficar abaixo disso |
-| Relação venda→recompra (crédito-produto) | Mecanismo central do Sessão | Cocriado como conceito (JF, Lubpar), nunca testado | Não existe ainda | Território genuíno, com alerta sobre "excedente" |
-| Necessidade de capital de giro (distribuidor) | Alta (Roadmaster: ~R$10 milhões presos) | Alta, concentrada no distribuidor puro-B2B (Lubpar) | Parcial | Na Goodyear, deslocada pro distribuidor, não pra revenda |
-| Risco distribuidor→revenda / inadimplência | Quase zero dentro do Credimora; real fora dele | Alta e não resolvida (Lubpar, Só Pneus) | Alta relevância | Maior similaridade de dor — reforça garantia de crédito B2B |
-| Fidelidade à indústria (mecanismo) | Crédito-produto só resgata Moura | Não existe mecanismo equivalente | Não existe ainda | Coração do mecanismo Moura é hipótese na Goodyear |
-| Capacidade de influenciar o canal | Alta (metas via controle acionário) | Baixa/inexistente (tabela única, sem diferenciação) | Baixa | Adoção Goodyear precisaria ser 100% orgânica |
-| Incentivos/subsídios | Estruturados (critérios formais — Eduardo) | Não evidenciados | Baixa | Lacuna mais crítica: falta o "patrocinador" |
-| Papel do vendedor de campo | Ponto de falha recorrente | Não evidenciado (produto ainda não existe lá) | Não comparável | Antecipar no desenho, com base no aprendizado Moura |
-| Maturidade operacional | Reconhecida como fraca (delay D+1/D+2) | Não testada | Não comparável | Nota operacional pior que a da proposta financeira, mesmo na Moura |
-| Condições especiais por porte | "Taxa democrática", mas com atrito relatado | Tabela única, sem diferenciação | Alta (mesma tensão) | Tensão já existe na Moura e tende a se repetir |
+**O que ainda não podemos concluir**: se a Configuração 2 é regra geral
+do modelo Goodyear ou particularidade de Lubpar; se existem outros
+híbridos com divisão distribuição/varejo diferente da de Só Pneus.
 
 ---
 
-## 4. Por que o CredMoura funciona na Moura
+## 3. Moura como referência comparativa
 
-1. **Crédito-produto (lock-in de recompra)**: consumidor parcela →
-   crédito só resgatável em Moura → revenda repõe estoque → distribuidor
-   ganha sell-in previsível → Moura fideliza e cresce (2,13x vs. +5%
-   fora do programa, AS-IS).
+### Os sete mecanismos que sustentam o Credimora na Moura
+
+1. **Crédito-produto**: consumidor parcela → crédito só resgatável em
+   Moura → revenda repõe estoque → distribuidor ganha sell-in
+   previsível → Moura fideliza (2,13x vs. +5% fora do programa, AS-IS).
 2. **Redução de inadimplência via cartão**: risco de calote eliminado →
-   inadimplência sistêmica cai quase pela metade (AS-IS).
-3. **Ampliação do apetite de risco do distribuidor**: *"a gente começou
-   a usar o Credemora pra vender pra... os picaretas, que a gente não
-   tinha coragem de vender antes"* — Eduardo, União.
+   inadimplência sistêmica cai quase pela metade.
+3. **Ampliação do apetite de risco**: *"a gente começou a vender pra...
+   os picaretas que a gente não tinha coragem de vender antes"* —
+   Eduardo, União.
 4. **Conversão de share no PDV multimarca**: *"é como se tivesse um
    funcionário seu trabalhando lá pra converter toda a venda em
    Moura"* — Eduardo, União.
-5. **Subsídio estruturado e condicional**: taxa zero condicionada a
-   critérios objetivos (adimplência, % de categoria Moura, fachada,
-   cross-sell — framework de Eduardo).
-6. **Simplificação radical** (aprendizado tardio, estratégia local):
-   taxa única, sem aluguel, sem contrato — Roadmaster.
+5. **Subsídio estruturado condicional** (framework de 4 parâmetros de
+   Eduardo).
+6. **Simplificação radical de taxa** (estratégia local de Roadmaster,
+   não política oficial da Moura).
 7. **Blindagem da relação**: *"Eu brinco que é até um casamento (...) o
-   Crede Moura blinda a relação contra esses fatores externos"* —
-   Victor, Roadmaster.
+   Crede Moura blinda a relação contra fatores externos"* — Victor,
+   Roadmaster.
 
----
+### O que existe desses mecanismos na Goodyear
 
-## 5. Quais alavancas existem na Goodyear
-
-| Alavanca | Status | Evidência | Implicação |
+| Mecanismo | Status | Evidência Goodyear | Implicação |
 |---|---|---|---|
-| Crédito-produto | Precisa validar | JF, Lubpar cocriaram; ambos alertam sobre excedente | Exige adaptação (percentual configurável) |
-| Redução de inadimplência via cartão | Existe parcialmente | Baixa em revenda oficial; alta no elo distribuidor→sub-revenda | Valor mais forte pro distribuidor |
-| Ampliação do apetite de risco | Precisa validar (sinal forte) | Lubpar já busca lastreamento por conta própria | Alinhado ao Território 3 |
-| Conversão de share no PDV multimarca | Não apareceu | Sem sub-revenda multimarca entrevistada | Pilar mais forte da Moura, menor evidência na Goodyear |
+| Crédito-produto | Precisa validar | JF e Lubpar cocriaram; ambos alertam sobre "excedente" | Exige adaptação (percentual configurável) |
+| Redução de inadimplência via cartão | Existe parcialmente | Baixa em revenda oficial; alta no elo distribuidor→sub-revenda (Lubpar, Só Pneus) | Valor mais forte pro distribuidor |
+| Ampliação do apetite de risco | Precisa validar (sinal forte) | Lubpar já busca lastreamento por conta própria | Demanda real, se um produto existisse |
+| Conversão de share no PDV multimarca | Não apareceu | Sem sub-revenda multimarca entrevistada | Mecanismo mais forte da Moura, menor evidência Goodyear |
 | Subsídio estruturado condicional | Não apareceu | Nenhuma entrevista relata subsídio ativo | Lacuna mais crítica |
-| Metas via controle acionário | Não existe | Estrutural | Adoção precisa ser orgânica |
-| Parcelamento longo como diferencial | Existe, mas enfraquecido | Já é piso nos dois ecossistemas | Não usar como pitch central |
-| Blindagem contra crédito externo caro | Precisa validar | Menezes calcula sozinho; Lubpar busca lastreamento | Discurso com potencial |
-| Fomento a quem começa sem capital | Precisa validar | Sem revenda Goodyear em fase de abertura na amostra | Gap de amostra |
-| Simplificação radical de taxa | Existe como demanda | JF propõe espontaneamente; convergência com Roadmaster | Forte sinal de design |
+| Simplificação radical de taxa | Existe como demanda | JF propõe espontaneamente | Sinal de design vindo de fonte própria Goodyear |
+
+### Condições de sucesso e riscos aprendidos com a Moura (contexto, não necessidade Goodyear)
+
+Treinamento comercial do vendedor (ponto de falha recorrente em Fábio,
+Lucas Barreto, Victor-Anápolis); maturidade do portal/delay D+1-D+2
+(reconhecido como fragilidade pelo próprio diretor da Propig; Lucas
+Barreto relata que o delay é interpretado por outros clientes como
+fraude); clareza da proposta (autocrítica: *"quanto mais me aproximo do
+modelo de maquininha, mais serei comparado a maquininha"*);
+relacionamento prévio (Moura tem décadas de relação; Goodyear não tem
+histórico equivalente).
+
+*Essas quatro condições explicam riscos que uma proposta nova
+provavelmente vai enfrentar — mas nenhuma foi relatada por um
+entrevistado Goodyear. Entram como aprendizado a antecipar, não como
+necessidade Goodyear.*
 
 ---
 
-## 6. Condições de sucesso aprendidas com o CredMoura
-
-- **Treinamento comercial do vendedor** — ponto de falha recorrente
-  (Fábio, Lucas Barreto, Victor-Anápolis).
-- **Acompanhamento de uso/inativos** — não resolvido nem na Moura
-  (Victor-Anápolis pede ferramenta própria).
-- **Suporte operacional pós-venda** — Lucas Barreto: 4h para resolver
-  troca de máquina; uma semana sem máquina é "comum".
-- **Maturidade do portal/integração** — delay D+1/D+2 já reconhecido
-  como fragilidade pelo próprio diretor da Propig; interpretado por
-  clientes menos técnicos como fraude, não erro técnico.
-- **Clareza da proposta** — autocrítica do diretor da Propig: *"quanto
-  mais me aproximo do modelo de cobrança de maquininha, mais serei
-  comparado a maquininha."*
-- **Confiança/relacionamento prévio** — Moura tem décadas de relação
-  com revendas como a do Fábio; Goodyear não tem histórico equivalente.
-
-**Interpretação**: mesmo dentro da Moura — com anos de ajuste, alavanca
-de controle acionário e décadas de relacionamento — ~3 em cada 10
-revendas ainda não entendem bem o valor do Credimora mesmo com números
-concretos apresentados (AS-IS). Sem essas condições e sem a alavanca de
-obrigatoriedade da Moura, é razoável esperar esse número **maior**, não
-menor, no lançamento com um canal novo.
-
----
-
-## 7. Perfil dos entrevistados Goodyear
+## 4. Perfil dos entrevistados Goodyear
 
 | Atributo | Lubpar | Peregrina | Menezes | Encruzilhada | JF | Só Pneus |
 |---|---|---|---|---|---|---|
 | Perfil | Distribuidor | Revenda | Revenda | Revenda | Revenda | Híbrido |
-| Nº lojas | Não aplicável | 6 | 4 | 5 | 5 | 26 |
-| Tempo como Goodyear | ~9 anos | 13 anos | Não informado | ~8 anos | 22a loja/6a gestão atual | ~10 anos |
-| Atuação geográfica | SP capital + RJ | SP capital | São José dos Campos | Recife/PE | ABC/litoral SP | SP interior, 262 municípios |
+| Nº lojas | N/A | 6 | 4 | 5 | 5 | 26 |
 | Cliente predominante | Revendas B2B | Consumidor final | Consumidor final | Consumidor final | Consumidor final | Ambos |
-| Multimarca? | Clientes são multimarca | Não | Não | Não | Não | Clientes da distribuição são multimarca |
-| Faz distribuição? | Sim (100%) | Não | Não | Não | Não | Sim (~70%) |
-| Faz varejo? | Não | Sim | Sim | Sim | Sim | Sim (~30%) |
+| Participa de programa de incentivo? | Não informado | Não informado | **Não** | **Não** | **Não** | Não informado |
 
 ---
 
-## 8. Mapa financeiro comparativo Goodyear
+## 5. Arquétipos operacionais Goodyear
+
+**Arquétipo A — Distribuidor B2B puro (Lubpar).** Necessidades
+financeiras: lastreamento de crédito a terceiros. Não financeiras: fit
+de portfólio ao mercado local; rede de boas práticas entre
+distribuidores.
+
+**Arquétipo B — Revenda oficial monomarca (Peregrina, Menezes,
+Encruzilhada, JF).** Necessidades financeiras variam por perfil (prazo,
+taxa, taxa fixa como argumento). Não financeiras: geração de demanda
+(todas); marca (Peregrina, Encruzilhada); e-commerce (Encruzilhada, JF);
+recorrência (JF já resolve sozinho); integração tecnológica (JF).
+
+**Arquétipo C — Distribuidor e revenda juntos (Só Pneus).** Automação
+de crédito (100% manual hoje); garantia para inadimplência concentrada
+em multimarca. Necessidades não financeiras não relatadas com força —
+mais provável efeito do tempo/foco da entrevista que ausência real.
+
+*As necessidades transversais e recorrentes concentram-se quase todas
+no Arquétipo B. O Arquétipo A tem necessidades mais isoladas e
+específicas de sua posição na cadeia.*
+
+---
+
+## 6. Desafios do negócio Goodyear, do macro ao micro
+
+| Nível | Desafio | Quem afeta | Classificação |
+|---|---|---|---|
+| Mercado/categoria | Pressão do pneu importado (40-60% do mercado) | Todos os 6 | **Transversal** |
+| Mercado/categoria | Reconhecimento de marca caindo entre jovens | Peregrina | Isolado |
+| Cadeia/canal | Descasamento prazo compra×venda | Peregrina, Menezes, Encruzilhada, JF | Recorrente (revenda) |
+| Cadeia/canal | Inadimplência no elo distribuidor→sub-revenda | Lubpar, Só Pneus | Recorrente (distribuidor) |
+| Perfil/operação | Restrição de uso da marca em campanhas de serviço | Encruzilhada | Isolado |
+| Perfil/operação | Integração tecnológica bloqueada por preço de fornecedor | JF | Isolado |
+| Crescimento | Geração de demanda cara e dependente de tráfego pago | Peregrina, Menezes, Encruzilhada, JF | **Transversal** (revenda) |
+| Crescimento | Concorrência desleal drenando confiança | Peregrina, Menezes, Encruzilhada, JF | **Transversal** (revenda) |
+| Crescimento | Ausência de programa de incentivo da fábrica | Menezes, Encruzilhada, JF | Recorrente |
+| Crescimento | Barreira fiscal para e-commerce | Encruzilhada, JF, Menezes | Recorrente |
+| Financeiro | Custo de MDR/antecipação | Menezes, JF | Recorrente (revenda aberta) |
+| Financeiro | Limite de crédito a terceiros | Lubpar | Isolado (distribuidor) |
+
+**Por que esse padrão existe** <small>(interpretação)</small>: desafios
+financeiros são mais concretos e fáceis de quantificar, então dominam a
+conversa quando o entrevistador os introduz diretamente — mas quando as
+perguntas eram abertas ("o que impede vocês de vender mais?"), a
+resposta espontânea quase sempre girava em torno de demanda ou
+concorrência, nunca crédito como primeira menção. Lubpar é a exceção
+clara: pra ele, crédito é mesmo a resposta nº 1, com estimativa
+quantificada (~20% represado) — a hierarquia de desafios muda conforme
+o papel na cadeia, não é universal.
+
+---
+
+## 7. O universo completo de necessidades Goodyear
+
+As seis entrevistas revelam **dois universos de tamanho comparável**:
+
+### Universo financeiro/comercial
+Descasamento de prazo · Custo de MDR/antecipação · Limite de crédito a
+terceiros · Conexão venda-recompra · Automação de análise de crédito.
+
+### Universo crescimento/serviço/operação
+Geração de demanda · Marca · Recorrência · E-commerce · Programa de
+incentivo · Integração tecnológica · Previsibilidade de abastecimento ·
+Fit de catálogo · Rede de práticas · Diferenciação vs. concorrência
+desleal · Autoatendimento B2B · Parcerias de leads · Automação de
+crédito B2B.
+
+### Territórios não financeiros, um a um
+
+**Geração de demanda e redução do custo de aquisição** — *Transversal*
+(Peregrina, Menezes, Encruzilhada, JF). As quatro dependem de tráfego
+pago crescente e caro; a Goodyear não faz mídia voltada a gerar tráfego
+local. Resolvido hoje com investimento próprio em mídia paga.
+
+**Fortalecimento e uso estratégico da marca** — *Recorrente* (Peregrina,
+Encruzilhada, JF). Peregrina nota queda de reconhecimento entre jovens;
+Encruzilhada relata restrição de uso da marca a campanhas de pneu,
+impedindo divulgar serviço (maior parte do faturamento dela); JF
+valoriza o ponto de partida de reputação, mas sem ferramenta ativa além
+disso.
+
+**Recorrência e relacionamento pós-venda** — *Específico* (JF, caso de
+sucesso próprio: fluxo automatizado de WhatsApp com NPS pós-venda e
+lembrete de troca de óleo 6 meses depois — contribuiu para deslocar o
+mix para serviços de maior margem).
+
+**Expansão para e-commerce/marketplace** — *Recorrente* (Encruzilhada,
+JF, Menezes). Travada por regime de ICMS que favorece concorrentes de
+outros estados.
+
+**Programa estruturado de reconhecimento e incentivo** — *Recorrente*
+(Menezes, Encruzilhada, JF confirmam que não participam de nenhum hoje).
+Relacionamento com a fábrica se resume a assessor, verba cooperada
+limitada e tabela única.
+
+**Integração tecnológica com sistemas da fábrica** — *Isolado, mas
+revelador* (JF: fornecedor terceiro cobra caro por integração já feita
+para concorrentes; JF reporta vendas manualmente apesar de ter sistema
+pronto).
+
+**Previsibilidade de abastecimento/logística** — *Recorrente* (Lubpar,
+Encruzilhada, JF). Resolvido hoje inflando estoque de segurança.
+
+**Fit de portfólio/catálogo ao mercado local** — *Isolado* (Lubpar:
+decisões globais de catálogo cortam SKUs relevantes ao Brasil).
+
+**Rede de boas práticas entre distribuidores** — *Isolado* (Lubpar cita
+modelo de outro setor como referência desejada).
+
+**Diferenciação frente à concorrência desleal** — *Transversal*
+(Peregrina, Menezes, Encruzilhada, JF) — franquias que atraem com preço
+baixo e depois vendem serviço desnecessário/peça inferior.
+
+**Autoatendimento B2B para sub-revenda multimarca** — *Específico*
+(Menezes, benchmark de distribuidoras de autopeças).
+
+**Parceria de geração de leads via marcas cruzadas** — *Específico*
+(Menezes: seguradoras indicando oficinas credenciadas).
+
+**Automação da análise de crédito B2B** — *Específico do arquétipo
+híbrido/distribuidor* (Só Pneus, evidência Goodyear própria; convergência
+— não origem — com pedido independente de um distribuidor Moura).
+
+**Diferenças entre os perfis**: necessidades transversais/recorrentes
+concentram-se quase todas no Arquétipo B; o Arquétipo A tem necessidades
+mais isoladas; o Arquétipo C é o que menos revelou necessidades não
+financeiras na amostra (provável efeito do foco da entrevista).
+
+---
+
+## 8. Dinâmica financeira e comercial — mapa comparativo
 
 ### Bloco Fábrica → Operação
 
 | Atributo | Lubpar | Peregrina | Menezes | Encruzilhada | JF | Só Pneus |
 |---|---|---|---|---|---|---|
-| Prazo pagamento | 45-60d | 45d | 4-7d à vista | 60d | 45d (efet. ~7d) | 60d |
-| Desconto antecipação | Não informado | Não informado | 1% (vs 45d) | Não identificado | 1,6% (7d) | Não informado |
-| Frequência compra | Contínua | 2x/mês | ~2x/mês | 2x/mês | ~15 dias | Sem freq. fixa |
-| Estoque (dias) | ~40d | Não informado | 90d | Variável | ~90d | ~40d |
+| Prazo pagamento | 45-60d | 45d | 4-7d à vista | 60d | 45d (efet.~7d) | 60d |
 | Capital de giro é problema? | **Sim** | Não relatado | Não relatado | Não relatado | Não relatado | Não relatado |
 
-### Bloco Distribuidor → Revenda (Lubpar e Só Pneus apenas)
+### Bloco Distribuidor → Revenda (Lubpar, Só Pneus)
 
 | Atributo | Lubpar | Só Pneus |
 |---|---|---|
-| Prazo médio concedido | 42d | Não informado |
-| Prazo máximo | 84d (12 composições) | Não informado |
-| Análise de crédito | Automatizada (NeoCrédito) | Manual ("feeling") |
+| Análise de crédito | Automatizada | Manual ("feeling") |
 | Inadimplência | ~2% (meta 0,25%) | <1%, "um pouco maior" agora |
-| Garantia exigida | Não (0% garantia real) | Não |
 
-### Bloco Operação/Revenda → Consumidor (não aplicável a Lubpar)
+### Bloco Operação/Revenda → Consumidor
 
 | Atributo | Peregrina | Menezes | Encruzilhada | JF | Só Pneus |
 |---|---|---|---|---|---|
-| Adquirente principal | Não identificado | Rede (Itaú) | GetNet | InfinityPay | Cielo (trocou de GetNet) |
 | Parcelamento usual | Não informado | 10x | Até 10-12x | 6x | 3-4x |
-| Parcelamento máx. absoluto | 10x | 12x | 12x | 10x (exceção) | 10x (raro) |
-| Taxa (parcelamento usual) | 2,75% em 10x | 8-9% em 10x | 1,89% em 10x | ~6% em 6x | Não informado |
-| Antecipa? | Não | Sim, automática | Não | Sim, D+1 | Pontual (~1x/2 meses) |
+| Taxa (usual) | 2,75% em 10x | 8-9% em 10x | 1,89% em 10x | ~6% em 6x | Não informado |
+| Antecipa? | Não | Sim, automática | Não | Sim, D+1 | Pontual |
 
-**Escalas visuais** (ver artifact para representação gráfica): em
-antecipação, o espectro vai de JF/Menezes (estrutural) a
-Peregrina/Encruzilhada (inexistente), com Só Pneus no meio. Em custo de
-MDR percebido, Menezes (8-9%) é quem mais sente o peso; Encruzilhada
-(1,89%) é quem menos sente.
-
----
-
-## 9. Arquétipos operacionais Goodyear
-
-### Arquétipo A — Distribuidor B2B puro (Lubpar)
-Vende a revendas multimarca via boleto (42 dias médios); compra da
-fábrica em 45-60 dias, 100% risco próprio; ~100 dias de capital de giro
-amarrado. Necessidade central: lastreamento de crédito concedido a
-terceiros. Fit alto para produto de garantia B2B; fit baixo/nulo para
-parcelamento ao consumidor (não é o negócio dele).
-
-### Arquétipo B — Revenda oficial monomarca (Peregrina, Menezes, Encruzilhada, JF)
-85-98% consumidor final; compra direto da fábrica; descasamento
-estrutural entre prazo de compra e venda, resolvido de formas
-heterogêneas. Necessidades variam por perfil: prazo (Peregrina), taxa
-(Menezes), taxa fixa como argumento de venda (JF). Fit alto no subperfil
-"aberto" (Menezes, JF); condicional no subperfil "resistente"
-(Peregrina).
-
-### Arquétipo C — Distribuidor e revenda na mesma empresa (Só Pneus)
-Duas frentes com sistemas separados: distribuição B2B (70%, prazo
-confortável de 60 dias, sem dor relatada) e varejo (30%, parcelamento
-conservador de 3-4x, o mais baixo da amostra). Necessidade central:
-automação de análise de crédito (hoje 100% manual) e mecanismo de
-garantia para inadimplência concentrada nas multimarca. Reação ao pitch
-foi cética, não de cocriação ativa.
-
-**Compartilhado entre os 3 arquétipos**: pressão do pneu importado;
-parcelamento como piso, não diferencial; ausência de subsídio ativo da
-Goodyear.
-
-**Específico por arquétipo**: A = limite de crédito a terceiros; B =
-descasamento de prazo compra-venda; C = gestão manual de crédito B2B.
+**Por que isso importa**: a variação de práticas está associada à
+sofisticação de gestão do entrevistado, não ao porte ou localização —
+Menezes e JF (mais parcelamento, mais antecipação) são também os mais
+sofisticados financeiramente; Peregrina e Encruzilhada, que não
+antecipam, descrevem escolha deliberada.
 
 ---
 
-## 10. Principais desafios, em 3 níveis
+## 9. Crescimento, serviço e operação — o outro universo
 
-**Mercado**: pressão do pneu importado (generalizado, 6/6); endividamento
-do consumidor final (Lubpar, Só Pneus); concorrência desleal/franquias
-de baixa reputação (Peregrina, Menezes, JF).
+**O ciclo de aquisição paga está no centro do modelo de crescimento.**
+As quatro revendas oficiais dependem quase completamente de mídia paga
+(Google, Instagram, WhatsApp). JF quantifica que sua central de
+televendas responde por fatia relevante da conversão; Peregrina relata
+que 25-30% das vendas vêm de clientes já cadastrados. As poucas exceções
+são mecanismos de retenção (base que retorna), não de aquisição — sugere
+que o maior território de alavancagem é recorrência/indicação, não "mais
+tráfego pago mais eficiente".
 
-**Cadeia/canal**: descasamento prazo compra×venda (revendas oficiais);
-imprevisibilidade logística da fábrica (Lubpar, Encruzilhada, JF);
-ausência de subsídio ativo (generalizado); inadimplência no elo
-distribuidor→sub-revenda (Lubpar, Só Pneus); "distribuidor espelho"
-(isolado, Lubpar).
+**A marca ajuda a vender, mas falta ferramenta para usá-la
+completamente.** Todas reconhecem valor de marca (crédito facilitado,
+confiança imediata, recompra via equipamento original), mas relatam
+limitação de uso. Encruzilhada é o caso mais explícito: restrição recente
+ao uso da marca em campanhas de serviço — que já é maior parte do
+faturamento dela. Isso é tensão de governança de marca, não algo que uma
+proposta puramente financeira resolve.
 
-**Operação**: gestão de crédito manual (isolado, Só Pneus); custo de
-antecipação (isolado, Menezes); geração de demanda cara (recorrente,
-todas as revendas).
+**Ausência de programa de incentivo é lacuna, não escolha das
+revendas.** Três das quatro revendas oficiais responderam "não", sem
+hesitação, quando perguntadas sobre programa de vendas/metas/incentivo.
+O relacionamento hoje é assessor + verba cooperada limitada + tabela
+única. As revendas mais engajadas (Menezes, JF) são as que mais
+verbalizam interesse nesse tipo de reconhecimento.
 
 ---
 
-## 11. Percepção sobre a proposta Propig
+## 10. Percepção sobre os conceitos financeiros testados
 
-**Distinção importante**: em Encruzilhada e JF a reação foi induzida
-(entrevistador apresentou o conceito); em Lubpar foi espontânea (chegou
-sozinho à lógica de "consignação disfarçada").
+Distinção importante: em Encruzilhada e JF a reação foi **induzida**
+(entrevistador apresentou o conceito); em Lubpar foi **espontânea**.
 
 - **Gerou valor**: taxa fixa como argumento de venda (JF, espontâneo);
-  lógica de consignação/conversão de share (Lubpar, espontâneo);
-  taxa-alvo calculada (Menezes, induzido mas elaborado).
-- **Gerou resistência**: antecipação como mecanismo (Peregrina); troca
-  de adquirente por ganho marginal (todas as revendas); pitch geral
-  (Só Pneus, cética).
-- **Valor condicional**: crédito p/ recompra, se percentual configurável
-  (JF, Encruzilhada); D-1, se taxa <8% (Menezes); conciliação tão
-  simples quanto a atual (Menezes, Só Pneus).
-- **Ainda não validado**: tratamento fiscal do crédito não-caixa (JF);
-  como resolver o excedente do ticket composto; reação de sub-revenda
-  multimarca real (nenhuma entrevistada).
+  lógica de consignação/share (Lubpar, espontâneo); taxa-alvo calculada
+  (Menezes, induzido mas elaborado).
+- **Resistência**: antecipação como mecanismo (Peregrina); troca de
+  adquirente por ganho marginal (todas); pitch geral (Só Pneus, cética).
+- **Condicional**: crédito p/ recompra se configurável (JF, Encruzilhada);
+  D-1 se taxa <8% (Menezes); conciliação simples (Menezes, Só Pneus).
+- **Não validado**: tratamento fiscal do crédito não-caixa (JF); excedente
+  do ticket composto; reação de sub-revenda multimarca real.
 
 ---
 
-## 12. Barreiras, dúvidas e condições para adoção
+## 11. Barreiras e dúvidas sobre um mecanismo financeiro
 
-| Barreira | Por que importa | Perfil | Evidência | O que precisa provar |
-|---|---|---|---|---|
-| Qual seria a taxa? | 1ª pergunta de quem se interessa | Revenda aberta | Menezes, JF | Número abaixo de 8% em 10x |
-| Quem subsidia? | Sem subsídio, taxa é mais cara que o mercado | Todos | Roadmaster (análogo) | Modelo econômico explícito |
-| Como funciona a conciliação? | Pesa tanto quanto a taxa | Revenda, híbrido | Menezes, Só Pneus | Facilidade igual/maior que a atual |
-| Percentual configurável? | Ticket composto gera excedente | Revenda | JF, Encruzilhada | Mecanismo de configuração |
-| Como entra no DRE? | Dúvida fiscal não resolvida | Revenda sofisticada | JF | Tratamento contábil claro |
-| Por que trocar de adquirente? | Relação histórica de confiança | Revendas | Encruzilhada, Só Pneus | Ganho claro o bastante |
-| Delay gera desconfiança? | Já é causa de cancelamento na Moura | Todos (risco herdado) | Lucas Barreto | Visibilidade de saldo em tempo real |
-| Vendedor vai saber explicar? | Falha recorrente na Moura | Todos (risco herdado) | Fábio, Lucas Barreto, Victor-Anápolis | Treinamento testado antes do lançamento |
-
----
-
-## 13. Oportunidades além da solução financeira
-
-| Necessidade | Perfil | Como resolve hoje | Oportunidade |
+| Barreira | Por que importa | Perfil | Evidência |
 |---|---|---|---|
-| Geração de demanda | Todas as revendas | Tráfego pago caro | Fora do core; conectar ao discurso financeiro |
-| **Automação de crédito B2B** | Só Pneus (Goodyear) **e** Victor-Anápolis (Moura) | Manual/reativo nos dois | Evidência cruzada forte — ver Território 5 |
-| Previsibilidade de abastecimento | Lubpar, Encruzilhada, JF | Estoque de segurança inflado | Fora do escopo financeiro |
-| Parceria de marca cruzada | Menezes | Não existe | Geração de demanda via parceiros |
-| Crédito B2B self-service | Menezes (benchmark) | Compra por telefone | Fit tecnológico |
-| Monitoramento de inativos | Victor-Anápolis (Moura) | Relatório reativo semanal | Painel de gestão de carteira |
+| Qual seria a taxa? | 1ª pergunta de quem se interessa | Revenda aberta | Menezes, JF |
+| Como funciona a conciliação? | Pesa tanto quanto a taxa | Revenda, híbrido | Menezes, Só Pneus |
+| Percentual configurável? | Ticket composto gera excedente | Revenda | JF, Encruzilhada |
+| Como entra no DRE? | Dúvida fiscal não resolvida | Revenda sofisticada | JF |
 
 ---
 
-## 14. Territórios de oportunidade
+## 12. Territórios e caminhos para cocriação
 
-1. **Taxa única lastreada por terceiro** — Menezes, JF. A validar: quem
-   subsidia (papel do distribuidor na Moura não tem paralelo claro).
-2. **Prazo maior de pagamento à fábrica** — Peregrina. A validar:
-   apetite da Goodyear para alongar prazo próprio.
-3. **Garantia de crédito B2B** — Lubpar, lado distribuição de Só Pneus.
-   A validar: viabilidade de produto/regulatória pra Propig.
-4. **Crédito configurável para recompra** — JF. A validar: tratamento
-   fiscal, mecanismo pro excedente.
-5. **Automação de análise de crédito B2B** *(novo, emergente do
-   cruzamento Moura×Goodyear)* — Só Pneus + Victor-Anápolis. Único
-   território com evidência convergente dos dois ecossistemas ao mesmo
-   tempo.
+*Formato: Necessidade → Evidência → Resultado desejado → Perfis →
+**Pergunta para cocriação** → Possíveis caminhos → Dúvidas.*
+
+### Financeiros
+
+**1. Descasamento prazo compra×venda** — Peregrina, Menezes, Encruzilhada,
+JF. **Como podemos ajudar a revenda a financiar o intervalo entre compra
+de estoque e recebimento do consumidor, sem forçar mudança na forma como
+ela se relaciona com antecipação?** Caminhos: prazo estendido da fábrica;
+linha de capital de giro lastreada. Dúvida: quem financiaria.
+
+**2. Custo de parcelamento ao consumidor** — Menezes, JF. **Como tornar o
+parcelamento mais barato pra revenda sem depender de uma taxa que hoje
+ninguém subsidia?** Caminhos: taxa única simplificada; crédito lastreado
+por terceiro. Dúvida: quem banca a diferença.
+
+**3. Limite de crédito a terceiros** — Lubpar (~20% represado). **Como
+ajudar o distribuidor a vender mais pra quem hoje recusa por risco, sem
+transferir esse risco irresponsavelmente?** Caminhos: garantia de
+crédito; seguro de crédito. Dúvida: viabilidade regulatória pra Propig.
+
+**4. Conexão venda→recompra** — JF, Lubpar (cocriaram, com ressalva de
+"excedente"). **Como transformar parte do recebido em capacidade de
+recompra sem tirar o controle da revenda sobre o resto do caixa?**
+Caminhos: percentual configurável. Dúvida: tratamento fiscal.
+
+### Não financeiros
+
+**5. Geração de demanda e recorrência além da troca** — Transversal.
+**Como ajudar a revenda a gerar demanda e criar relacionamento pra além
+do momento da troca do pneu?** Caminhos: CRM/pós-venda acessível (como
+JF já fez sozinho); programa de fidelidade; parcerias de leads. Dúvida:
+quem constrói — Propig, Goodyear ou parceiro de tecnologia.
+
+**6. Uso estratégico da marca** — Encruzilhada, Peregrina, JF. **Como a
+marca Goodyear pode ajudar a vender o negócio inteiro, não só o pneu,
+sem diluir o posicionamento?** Caminhos: revisão de política de marca em
+campanhas de serviço; campanha institucional pra público jovem. Dúvida:
+decisão é da Goodyear, não da Propig.
+
+**7. Programa de reconhecimento e incentivo ao canal** — Menezes,
+Encruzilhada, JF (nenhuma participa hoje). **O que faria a revenda se
+sentir reconhecida além do preço de tabela — financeiro, comercial, ou
+os dois?** Caminhos: programa de metas com benefício financeiro;
+reconhecimento não financeiro (visibilidade, treinamento). Dúvida: papel
+Goodyear × papel Propig.
+
+**8. Expansão para e-commerce** — Encruzilhada, JF, Menezes. **Existe
+algo que Propig, Goodyear ou distribuidores possam fazer para reduzir
+essa desvantagem, mesmo sem mudar a política tributária?** Caminhos:
+limitados, barreira majoritariamente regulatória. Dúvida: está no escopo
+de algum ator deste projeto?
+
+**9. Automação da análise de crédito B2B** — Só Pneus (evidência própria;
+convergência com Moura como reforço). **Como ajudar o distribuidor a
+decidir crédito mais rápido e consistente, mantendo o julgamento humano
+onde agrega valor?** Caminhos: motor de score como serviço; integração
+automatizada de dados públicos. Dúvida: cabe no roadmap da Propig ou é
+parceria com fornecedor de tecnologia de crédito?
 
 ---
 
-## 15. Hipóteses para cocriação
+## 13. O que levar para o workshop
 
-**Próximas ao core atual**: taxa única fixa lastreada (revenda aberta);
-crédito de venda configurável (revenda sofisticada); prazo estendido à
-fábrica (revenda resistente a antecipação).
-
-**Complementares**: garantia de crédito B2B (distribuidor/híbrido);
-motor de score automatizado (distribuidor/híbrido).
-
-*(Não são recomendações finais — possibilidades para explorar e validar
-no workshop.)*
-
----
-
-## 16. O que levar para o workshop
-
-- **Quem subsidia a competitividade da taxa?** Na Moura é o
-  distribuidor; na Goodyear, ninguém hoje. Pergunta: quem deveria
-  financiar os benefícios?
-- **Qual perfil priorizar?** Distribuidor (dor mais aguda) vs. revenda
-  (mais parecida com o caso de sucesso Moura).
+- **Geração de demanda**: necessidade mais citada espontaneamente — vale
+  explorar território fora do financeiro, mesmo que exija parceria com
+  outro tipo de player?
+- **Quem subsidia a taxa**: sem subsídio, o produto de tabela não seria
+  competitivo pros perfis que mais parcelam.
+- **Marca**: decisão de governança é da Goodyear — até que ponto a
+  proposta conjunta pode incluir essa conversa?
+- **Programa de incentivo**: lacuna clara — reconhecimento deveria ser
+  financeiro, comercial, ou os dois?
+- **Qual perfil priorizar**: distribuidor (dor financeira aguda) x
+  revenda (volume de necessidades não financeiras) — vale abrir duas
+  frentes paralelas em vez de escolher uma?
 - **Mecanismo de recompra configurável**: qual grau de configurabilidade
   equilibra fidelização (Goodyear) e usabilidade (revenda)?
-- **Conversão de share no PDV multimarca**: vale testar especificamente
-  com sub-revenda multimarca antes de priorizar território?
-- **Automação de crédito como proposta própria**: extensão de produto
-  da Propig, ou oportunidade de parceria?
-- **Papel da Goodyear como "patrocinadora"**: que papel ela pode assumir
-  sem participação de capital (curadoria, marketing conjunto, meta
-  suave) para compensar a alavanca que a Moura teve e ela não tem?
 
 ---
 
-## 17. Evidências × hipóteses × lacunas
+## 14. Evidências × interpretações × lacunas
 
 | Tema | Sabemos | Inferimos | Não sabemos | Validar |
 |---|---|---|---|---|
-| Estrutura da cadeia | 2-3 configurações coexistem | Ausência de controle acionário muda a estratégia de adoção | Se há outros híbridos além de Só Pneus | Amostra maior |
-| Subsídio | Distribuidor Moura subsidia | Sem equivalente, produto não é competitivo em taxa | Se algum ator Goodyear teria apetite | Conversa direta com a Goodyear |
-| Conversão de share | Mecanismo forte na Moura | Deveria funcionar parecido em multimarca Goodyear | Reação real de multimarca Goodyear | Entrevistar sub-revenda multimarca |
-| Aderência "especialista" | Alta na Moura, baixa em multi-categoria | Revenda Goodyear tem aderência intermediária | Onde esse ponto se posiciona de fato | Medir após piloto real |
-| Excedente do ticket composto | JF, Encruzilhada alertam | Percentual configurável mitiga, não elimina | Desenho técnico específico | Prototipagem + validação |
-| Automação de crédito B2B | Pedida nos 2 ecossistemas | Necessidade estrutural, não setorial | Se cabe no roadmap da Propig | Sessão interna de viabilidade |
+| Geração de demanda | Necessidade mais citada espontaneamente | Reduz efeito de proposta só financeira | Se recorrência/indicação mudaria o quadro | Testar com revenda piloto |
+| Marca | Restrição em campanhas de serviço; queda entre jovens | É decisão de governança da Goodyear | Se a Goodyear reconhece isso internamente | Conversa direta com marketing Goodyear |
+| Programa de incentivo | Nenhuma revenda participa hoje | Lacuna estrutural, não escolha deliberada | Formato que as revendas querem | Perguntar no workshop |
+| Subsídio financeiro | Distribuidor Moura subsidia | Sem equivalente, produto não é competitivo | Se algum ator Goodyear teria apetite | Conversa com comercial Goodyear |
+| Automação de crédito B2B | Pedida por Só Pneus + convergência Moura | Necessidade estrutural, não setorial | Se cabe no roadmap Propig | Sessão interna de viabilidade |
 
 ---
 
-## 18. Conclusão
+## 15. Conclusão
 
-O valor do Credimora nunca esteve só na taxa ou na maquininha — é uma
-combinação de crédito-produto, redução de inadimplência, ampliação de
-apetite de risco, conversão de share e blindagem da relação. Esses
-mecanismos são conceitualmente transferíveis, mas cada um depende de uma
-condição estrutural que precisa ser verificada, não assumida, no caso
-Goodyear.
+A pergunta "quais mecanismos financeiros da Moura são replicáveis na
+Goodyear" segue válida, mas incompleta. As seis entrevistas mostram um
+espaço de necessidade pelo menos tão grande fora do financeiro quanto
+dentro: demanda, marca, recorrência, canais e ausência de programa de
+reconhecimento aparecem com a mesma força — em alguns casos mais
+espontaneamente — que taxa, prazo e crédito.
 
-Duas condições centrais faltam hoje: a alavanca de controle acionário
-que tornou a adesão obrigatória na Moura, e um ator disposto a subsidiar
-a diferença de taxa. O mecanismo de crédito-produto precisa de
-configurabilidade por causa do ticket composto Goodyear. A narrativa não
-pode se apoiar em "parcelamos mais" — já é piso nos dois setores.
+A Moura segue sendo referência valiosa, mas seu papel é explicar
+mecanismos e condições, não fornecer catálogo de oportunidades. Cada
+necessidade das Seções 7, 9 e 12 tem evidência própria de uma das seis
+entrevistas Goodyear; onde a Moura aparece, é comparação ou reforço de
+convergência, nunca origem.
 
-O distribuidor puro-B2B (Lubpar) tem a dor mais aguda; o híbrido (Só
-Pneus) tem a mesma dor mas reação mais cética; entre as revendas, o
-subperfil aberto (Menezes, JF) cocria ativamente, o resistente
-(Peregrina) pede prazo, não antecipação.
+Isso muda o workshop: em vez de só "como adaptamos o Credimora pra
+Goodyear", a discussão pode se abrir para "o que esses negócios estão
+tentando conquistar, e quais propostas — financeiras, comerciais, de
+marca, de operação — poderiam responder a isso". Os nove territórios da
+Seção 12 (quatro financeiros, cinco não financeiros) sustentam essa
+conversa mais ampla, sem fechar prematuramente numa direção.
 
-O core atual da Propig parece gerar valor nos Territórios 1 e 4, com
-revendas mais sofisticadas — se a questão do subsídio for resolvida. A
-Propig precisaria ampliar a proposta nos Territórios 3 e 5, de natureza
-diferente do parcelamento ao consumidor. O Território 5 (automação de
-crédito) se destaca por ter evidência convergente dos dois ecossistemas
-simultaneamente.
-
-**Este relatório não escolhe uma solução vencedora** — organiza o que se
-sabe, onde estão as tensões, e o que ainda precisa ser decidido em
-grupo, no workshop.
+**Princípio central**: a Moura explica por que o Credimora funciona e
+sob quais condições. A Goodyear é quem diz o que precisa. Este relatório
+não escolhe uma solução vencedora — organiza o que se sabe de cada
+fonte, mantém os dois papéis separados, e chega ao workshop com
+perguntas abertas em vez de propostas fechadas.
