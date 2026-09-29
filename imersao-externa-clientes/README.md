@@ -23,7 +23,7 @@ atores, (2) desafios operacionais/financeiros em paralelo ao que já se
 sabe dos distribuidores Moura, (3) terreno pra solução, sem apresentar o
 Credimora/Propig explicitamente.
 
-## Entrevistas Goodyear (imersão externa concluída — 5 entrevistas)
+## Entrevistas Goodyear (imersão externa — 6 entrevistas)
 
 Transcrições brutas + sínteses individuais de evidência (formato espelha
 `imersao-revendedores-distribuidores-moura/`):
@@ -42,15 +42,26 @@ Transcrições brutas + sínteses individuais de evidência (formato espelha
   individual incorporada diretamente na análise transversal abaixo.)
 - `2026-09-23_entrevista-goodyear-revenda-04-santo-andre-jf_transcricao.txt`
   — revenda oficial, 5 lojas ABC/SP, 83 min. (idem.)
+- `2026-09-29_entrevista-goodyear-hibrido-01-americana-sp-so-pneus_transcricao.txt`
+  + `sintese_entrevista-goodyear-hibrido-01-so-pneus.md` — **distribuidor
+  E revenda ao mesmo tempo** (Só Pneus), 262 municípios distribuídos +
+  26 pontos de venda, 70%/30% do faturamento. 54 min.
 
 **Análise transversal (documento principal, não organizado
 entrevista-por-entrevista)**: `analise-transversal-goodyear-propig.md` —
 síntese executiva, mapeamento da cadeia/arquétipos, dinâmica financeira,
 tabela comparativa, fit com a Propig, tensões entre perfis, territórios
-de oportunidade, gaps da pesquisa e implicações para o workshop.
+de oportunidade, gaps da pesquisa e implicações para o workshop. Escrita
+com base nas 5 primeiras entrevistas; carrega uma nota de atualização no
+topo sobre a 6ª.
 
-**Achado estrutural mais importante**: a hipótese inicial de
-"distribuidor híbrido" (que também atenderia consumidor final) não se
-confirmou na amostra — Lubpar é 100% B2B, e as 4 revendas entrevistadas
-compram todas direto da fábrica, não do distribuidor. Ver Seção 2 da
-análise transversal.
+**Comparativo em planilha**: `comparativo-goodyear-propig.xlsx` — as 5
+primeiras entrevistas lado a lado (perfil, relação de venda, relação de
+compra, leitura para a Propig). Ainda não inclui a Só Pneus.
+
+**Achado estrutural mais importante (atualizado)**: a hipótese inicial de
+"distribuidor híbrido" não se confirmou nas primeiras 5 entrevistas —
+Lubpar é 100% B2B, e as 4 revendas compravam todas direto da fábrica. A
+6ª entrevista (Só Pneus) **encontrou esse híbrido** que faltava na
+amostra: é distribuidor (70% do faturamento) e revenda de varejo (30%) ao
+mesmo tempo. Ver Seção 2 da análise transversal e a síntese da Só Pneus.

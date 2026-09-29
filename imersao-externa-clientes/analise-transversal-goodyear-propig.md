@@ -1,7 +1,7 @@
 # Análise Transversal — Ecossistema Goodyear e Oportunidades para a Propig
 
-> Baseado nas 5 entrevistas da imersão externa Goodyear (ver transcrições
-> completas nesta pasta):
+> Baseado nas 5 entrevistas originais da imersão externa Goodyear (ver
+> transcrições completas nesta pasta):
 > - **Lubpar** (Barra Funda/SP) — distribuidor puro-B2B de pneus Goodyear
 >   e lubrificantes Shell/Raízen. 115 min.
 > - **Peregrina** (Vila Formosa, SP capital) — revenda oficial monomarca,
@@ -11,6 +11,21 @@
 > - **Encruzilhada** (Recife) — revenda oficial, 5 lojas, entrevistado
 >   Lucas. 63 min.
 > - **JF** (Santo André/ABC) — revenda oficial, 5 lojas. 83 min.
+>
+> **Nota de atualização (29/09/2026)**: uma 6ª entrevista foi realizada
+> depois desta análise ter sido escrita — **Só Pneus** (Americana/SP),
+> que é, ao mesmo tempo, distribuidor (70% do faturamento, cobrindo 262
+> municípios) e revenda de varejo (30%, 26 pontos de venda). Essa
+> entrevista resolve o gap de amostra citado nas Seções 2 e 13.1
+> ("nenhum distribuidor híbrido entrevistado") e confirma, com uma
+> segunda fonte independente de Lubpar, que a dor de crédito B2B se
+> concentra na relação distribuidor→revenda multimarca pequena, não na
+> relação com a fábrica. Ver
+> `sintese_entrevista-goodyear-hibrido-01-so-pneus.md` para a síntese
+> completa — os números e blocos abaixo (Seções 1-16) ainda refletem só
+> as 5 entrevistas originais e não foram recalculados; tratar como a
+> base anterior à 6ª entrevista, não como desatualizada em suas
+> conclusões qualitativas centrais.
 >
 > Convenção usada neste documento: **Evidência** = relatado ou mostrado
 > explicitamente na entrevista. **Interpretação** = conclusão construída
