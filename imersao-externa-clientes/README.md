@@ -47,39 +47,41 @@ Transcrições brutas + sínteses individuais de evidência (formato espelha
   E revenda ao mesmo tempo** (Só Pneus), 262 municípios distribuídos +
   26 pontos de venda, 70%/30% do faturamento. 54 min.
 
-**Análise transversal (documento principal, não organizado
-entrevista-por-entrevista)**: `analise-transversal-goodyear-propig.md` —
-síntese executiva, mapeamento da cadeia/arquétipos, dinâmica financeira,
-tabela comparativa, fit com a Propig, tensões entre perfis, territórios
-de oportunidade, gaps da pesquisa e implicações para o workshop. Escrita
-com base nas 5 primeiras entrevistas; carrega uma nota de atualização no
-topo sobre a 6ª.
+**Achado estrutural mais importante**: a hipótese inicial de
+"distribuidor híbrido" não se confirmou nas primeiras 5 entrevistas —
+Lubpar é 100% B2B, e as 4 revendas compravam todas direto da fábrica. A
+6ª entrevista (Só Pneus) **encontrou esse híbrido** que faltava na
+amostra: é distribuidor (70% do faturamento) e revenda de varejo (30%) ao
+mesmo tempo.
+
+## Relatório estratégico único (documento canônico do projeto)
+
+`analise-estrategica-credmoura-goodyear.md` — **relatório único**, que
+consolida a análise do ecossistema Goodyear (arquétipos, desafios,
+tensões entre perfis, universo completo de necessidades financeiras e
+não financeiras) com a comparação com o CredMoura (por que o produto
+funciona na Moura, o que dessas condições existe ou não na Goodyear).
+Cruza as 6 entrevistas Goodyear acima com as 5 entrevistas
+Moura/Credimora (`imersao-revendedores-distribuidores-moura/`) e o AS-IS
+interno (`imersao-interna-moura/AS-IS_credimora-propig-moura.md`).
+Fecha com territórios/caminhos para cocriação e pauta para o workshop.
+Versão visual (diagramas, escalas, matrizes coloridas) publicada como
+artifact: https://claude.ai/artifact/Uf1BnbaJ7sQYNfNR5JfU35
+
+Este documento substitui dois relatórios anteriores que existiam
+separadamente — `analise-transversal-goodyear-propig.md` (só
+ecossistema Goodyear, mantido no repositório apenas como registro
+histórico) e uma primeira versão deste mesmo arquivo (só comparação com
+o CredMoura, sem o universo de necessidades não financeiras).
 
 **Comparativo em planilha**: `comparativo-goodyear-propig.xlsx` — as 5
 primeiras entrevistas lado a lado (perfil, relação de venda, relação de
 compra, leitura para a Propig). Ainda não inclui a Só Pneus.
 
-**Achado estrutural mais importante (atualizado)**: a hipótese inicial de
-"distribuidor híbrido" não se confirmou nas primeiras 5 entrevistas —
-Lubpar é 100% B2B, e as 4 revendas compravam todas direto da fábrica. A
-6ª entrevista (Só Pneus) **encontrou esse híbrido** que faltava na
-amostra: é distribuidor (70% do faturamento) e revenda de varejo (30%) ao
-mesmo tempo. Ver Seção 2 da análise transversal e a síntese da Só Pneus.
-
-## Relatório estratégico CredMoura → Goodyear (cruza os dois ecossistemas)
-
-`analise-estrategica-credmoura-goodyear.md` — cruza as 6 entrevistas
-Goodyear acima com as 5 entrevistas Moura/Credimora
-(`imersao-revendedores-distribuidores-moura/`) e o AS-IS interno
-(`imersao-interna-moura/AS-IS_credimora-propig-moura.md`). Responde: por
-que o CredMoura funciona na Moura, o que dessas condições existe (ou
-não) na Goodyear, arquétipos operacionais, mapa financeiro comparativo,
-territórios de oportunidade e o que levar para o workshop de cocriação.
-Versão visual (diagramas, escalas, matrizes coloridas) publicada como
-artifact: https://claude.ai/artifact/Uf1BnbaJ7sQYNfNR5JfU35
-
-**Achado mais crítico deste relatório**: segundo um distribuidor Moura
-fundador do Credimora (Victor/Roadmaster), o produto só é competitivo em
-taxa porque **o distribuidor subsidia a diferença** — sem esse subsídio,
-a taxa de tabela da Propig é mais cara que o mercado. Nenhum ator do
-ecossistema Goodyear desempenha esse papel hoje.
+**Achado mais crítico do relatório único**: segundo um distribuidor
+Moura fundador do Credimora (Victor/Roadmaster), o produto só é
+competitivo em taxa porque **o distribuidor subsidia a diferença** —
+sem esse subsídio, a taxa de tabela da Propig é mais cara que o
+mercado. Nenhum ator do ecossistema Goodyear desempenha esse papel
+hoje. Ao mesmo tempo, a necessidade mais citada espontaneamente nas
+entrevistas Goodyear não é financeira — é geração de demanda.

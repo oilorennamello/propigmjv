@@ -1,5 +1,12 @@
 # Análise Transversal — Ecossistema Goodyear e Oportunidades para a Propig
 
+> ⚠️ **Este documento foi substituído.** O conteúdo relevante daqui foi
+> consolidado, junto com a comparação com o CredMoura, em
+> `analise-estrategica-credmoura-goodyear.md` (relatório único e
+> canônico do projeto, também publicado como artifact visual em
+> https://claude.ai/artifact/Uf1BnbaJ7sQYNfNR5JfU35). Mantido aqui só
+> como registro histórico da primeira versão da análise.
+>
 > Baseado nas 5 entrevistas originais da imersão externa Goodyear (ver
 > transcrições completas nesta pasta):
 > - **Lubpar** (Barra Funda/SP) — distribuidor puro-B2B de pneus Goodyear

@@ -1,12 +1,19 @@
-# Relatório Estratégico — Do CredMoura para uma Possível Proposta Goodyear (v2)
+# Relatório Único — Ecossistema Goodyear e Comparação com o CredMoura
 
+> **Este é agora o relatório único e canônico do projeto**, substituindo
+> os dois documentos anteriores que existiam separadamente —
+> `analise-transversal-goodyear-propig.md` (só ecossistema Goodyear) e a
+> primeira versão deste arquivo (só comparação com o CredMoura). Os dois
+> conteúdos foram consolidados aqui, incluindo a seção "Tensões entre
+> perfis" (Seção 6), que antes só existia no relatório Goodyear-only.
+>
 > Versão em markdown do relatório publicado como artifact visual em
 > https://claude.ai/artifact/Uf1BnbaJ7sQYNfNR5JfU35 (mesmo conteúdo,
 > com diagramas, escalas e matrizes coloridas — recomendado para
-> leitura/apresentação). Esta é a **versão revisada**: corrige o papel
-> das entrevistas Moura (referência comparativa, nunca fonte de
-> oportunidades Goodyear) e amplia significativamente a análise de
-> necessidades não financeiras encontradas nas entrevistas Goodyear.
+> leitura/apresentação). Corrige o papel das entrevistas Moura
+> (referência comparativa, nunca fonte de oportunidades Goodyear) e
+> amplia significativamente a análise de necessidades não financeiras
+> encontradas nas entrevistas Goodyear.
 >
 > Fontes: 5 entrevistas Moura/Credimora (`imersao-revendedores-distribuidores-moura/`
 > — Fábio, Lucas Barreto, Victor/Anápolis, Eduardo/União, Victor/Roadmaster),
@@ -193,7 +200,60 @@ específicas de sua posição na cadeia.*
 
 ---
 
-## 6. Desafios do negócio Goodyear, do macro ao micro
+## 6. Tensões entre perfis
+
+Os arquétipos acima já mostram que os três perfis não competem pela
+mesma solução. Esta seção aprofunda essa leitura dentro do próprio
+Arquétipo B — as quatro revendas oficiais, que na superfície parecem o
+grupo mais homogêneo da amostra — e mostra que, mesmo ali, o que um
+perfil valoriza pode ser irrelevante ou indesejado para outro.
+
+**Tensão 1 — Antecipação como alívio vs. custo desnecessário.** Menezes
+e JF: antecipar é indispensável, já vendem a maior parte em 10-12x.
+Peregrina e Encruzilhada: antecipar é custo evitável, preferem
+parcelamento mais curto. *Não existe resposta única sobre "a revenda
+Goodyear precisa de antecipação" — depende de uma decisão de gestão
+anterior, ligada ao perfil do gestor, não ao porte.*
+
+**Tensão 2 — Prazo maior vs. taxa menor vs. desconto à vista.** Peregrina
+e Lubpar querem "ganhar tempo". Menezes quer "pagar menos" (taxa).
+Encruzilhada discutiu "pagar menos agora" (desconto à vista maior). *Três
+lógicas de valor diferentes — confirma que não existe uma única proposta
+de valor financeira para toda a rede.*
+
+**Tensão 3 — Crédito automático vs. necessidade de flexibilidade.** JF e
+Lubpar cocriam ativamente o mecanismo de crédito para recompra.
+Encruzilhada e o próprio JF alertam que "nunca vai bater 100%", porque a
+venda inclui serviço e peças. *Mesmo no grupo mais receptivo, há tensão
+entre automatizar cem por cento e dar flexibilidade de percentual.*
+
+**Tensão 4 — Dor de capital (distribuidor) vs. dor de custo (revenda).**
+Lubpar quer mais crédito disponível para conceder a terceiros. As
+revendas querem menos custo sobre o crédito que já conseguem conceder.
+*Uma proposta para um não move a agulha para o outro.*
+
+**Tensão 5 — Prioridade financeira vs. prioridade de crescimento e
+marca.** Lubpar, perguntado abertamente sobre desafios, cita crédito e
+limite de forma imediata e quantificada. As quatro revendas oficiais,
+na mesma pergunta aberta, citam geração de demanda, concorrência desleal
+ou preço do importado antes de qualquer menção a crédito — o financeiro
+só ganha peso quando o entrevistador o introduz diretamente. *A
+hierarquia entre "problema financeiro" e "problema de crescimento" não
+é a mesma para quem concede crédito a terceiros e para quem vende ao
+consumidor final.*
+
+**Leitura geral**: as cinco tensões, somadas, sustentam uma conclusão
+que atravessa todo o relatório — **não existe uma única proposta de
+valor para toda a rede Goodyear**. Existe, no mínimo, uma bifurcação
+clara entre o Arquétipo A e o B, e dentro do próprio B, pelo menos três
+"modos" de necessidade financeira e uma prioridade declarada que, na
+maioria das vezes, nem é financeira. Isso não impede uma proposta
+comum — mas ela provavelmente precisa ser modular ou configurável, não
+uma solução única aplicada a todos.
+
+---
+
+## 7. Desafios do negócio Goodyear, do macro ao micro
 
 | Nível | Desafio | Quem afeta | Classificação |
 |---|---|---|---|
@@ -222,7 +282,7 @@ o papel na cadeia, não é universal.
 
 ---
 
-## 7. O universo completo de necessidades Goodyear
+## 8. O universo completo de necessidades Goodyear
 
 As seis entrevistas revelam **dois universos de tamanho comparável**:
 
@@ -300,7 +360,7 @@ financeiras na amostra (provável efeito do foco da entrevista).
 
 ---
 
-## 8. Dinâmica financeira e comercial — mapa comparativo
+## 9. Dinâmica financeira e comercial — mapa comparativo
 
 ### Bloco Fábrica → Operação
 
@@ -332,7 +392,7 @@ antecipam, descrevem escolha deliberada.
 
 ---
 
-## 9. Crescimento, serviço e operação — o outro universo
+## 10. Crescimento, serviço e operação — o outro universo
 
 **O ciclo de aquisição paga está no centro do modelo de crescimento.**
 As quatro revendas oficiais dependem quase completamente de mídia paga
@@ -360,7 +420,7 @@ verbalizam interesse nesse tipo de reconhecimento.
 
 ---
 
-## 10. Percepção sobre os conceitos financeiros testados
+## 11. Percepção sobre os conceitos financeiros testados
 
 Distinção importante: em Encruzilhada e JF a reação foi **induzida**
 (entrevistador apresentou o conceito); em Lubpar foi **espontânea**.
@@ -377,7 +437,7 @@ Distinção importante: em Encruzilhada e JF a reação foi **induzida**
 
 ---
 
-## 11. Barreiras e dúvidas sobre um mecanismo financeiro
+## 12. Barreiras e dúvidas sobre um mecanismo financeiro
 
 | Barreira | Por que importa | Perfil | Evidência |
 |---|---|---|---|
@@ -388,7 +448,7 @@ Distinção importante: em Encruzilhada e JF a reação foi **induzida**
 
 ---
 
-## 12. Territórios e caminhos para cocriação
+## 13. Territórios e caminhos para cocriação
 
 *Formato: Necessidade → Evidência → Resultado desejado → Perfis →
 **Pergunta para cocriação** → Possíveis caminhos → Dúvidas.*
@@ -452,7 +512,7 @@ parceria com fornecedor de tecnologia de crédito?
 
 ---
 
-## 13. O que levar para o workshop
+## 14. O que levar para o workshop
 
 - **Geração de demanda**: necessidade mais citada espontaneamente — vale
   explorar território fora do financeiro, mesmo que exija parceria com
@@ -471,7 +531,7 @@ parceria com fornecedor de tecnologia de crédito?
 
 ---
 
-## 14. Evidências × interpretações × lacunas
+## 15. Evidências × interpretações × lacunas
 
 | Tema | Sabemos | Inferimos | Não sabemos | Validar |
 |---|---|---|---|---|
@@ -483,7 +543,7 @@ parceria com fornecedor de tecnologia de crédito?
 
 ---
 
-## 15. Conclusão
+## 16. Conclusão
 
 A pergunta "quais mecanismos financeiros da Moura são replicáveis na
 Goodyear" segue válida, mas incompleta. As seis entrevistas mostram um
