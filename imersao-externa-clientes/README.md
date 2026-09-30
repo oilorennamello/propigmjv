@@ -78,6 +78,15 @@ o CredMoura, sem o universo de necessidades não financeiras).
 primeiras entrevistas lado a lado (perfil, relação de venda, relação de
 compra, leitura para a Propig). Ainda não inclui a Só Pneus.
 
+**Tabelas para Miro (imagens avulsas)**: as duas tabelas mais usadas do
+relatório único, extraídas em PNG de alta resolução, cada uma legível
+inteira em uma tela só — pra baixar, imprimir ou colar direto num board:
+
+- `tabela-miro_perfil-entrevistados-goodyear.png` (seção 05 do relatório)
+- `tabela-miro_dinamica-financeira-comercial-goodyear.png` (seção 10, os
+  três blocos: Fábrica→Operação, Distribuidor→Revenda,
+  Operação/Revenda→Consumidor)
+
 **Achado mais crítico do relatório único**: segundo um distribuidor
 Moura fundador do Credimora (Victor/Roadmaster), o produto só é
 competitivo em taxa porque **o distribuidor subsidia a diferença** —
