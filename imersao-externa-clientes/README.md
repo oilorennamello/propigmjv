@@ -111,3 +111,47 @@ sem esse subsídio, a taxa de tabela da Propig é mais cara que o
 mercado. Nenhum ator do ecossistema Goodyear desempenha esse papel
 hoje. Ao mesmo tempo, a necessidade mais citada espontaneamente nas
 entrevistas Goodyear não é financeira — é geração de demanda.
+
+## Entrevistas Decor Colors (imersão externa — 6 entrevistas)
+
+Transcrições brutas de franqueados Decor Colors (100% cativos por
+contrato de franquia, fábrica → franquia → consumidor direto, sem elo
+distribuidor/atacadista equivalente ao caso Goodyear):
+
+- `2026-09-22_entrevista-decor-franquia-01-caruaru-recife-flavio_transcricao.txt`
+  — Flávio, 2 lojas (Caruaru matriz + Recife filial), ~5 anos de rede, 60 min.
+- `2026-09-28_entrevista-decor-franquia-02-sao-jose-dos-campos-diogo_transcricao.txt`
+  — Diogo, 1 loja, ~3 anos, 48 min.
+- `2026-09-28_entrevista-decor-franquia-03-campinas-anselmo_transcricao.txt`
+  — Anselmo, 3 lojas, também colaborador e conselheiro da Decor, 95 min.
+  Entrevista mais profunda em gestão financeira de toda a amostra.
+- `2026-10-01_entrevista-decor-franquia-04-sao-paulo-chacara-santo-antonio_transcricao.txt`
+  — franqueado da Chácara Santo Antônio/SP, conselheiro, top 10 em
+  vendas, 46 min. (nome não identificado com segurança na transcrição).
+- `2026-10-01_entrevista-decor-franquia-05-sao-paulo-santana-carol_transcricao.txt`
+  — Carol, 3 lojas (Santana/Perdizes/Cantareira), ex-bancária, 59 min.
+- `2026-10-01_entrevista-decor-franquia-06-sao-paulo-penha-victor_transcricao.txt`
+  — Victor, 1 loja, **nº1 em vendas de toda a rede nacional**, 98 min.
+  Entrevista mais longa e com a reação mais detalhada ao cenário de
+  conversão de venda em crédito.
+
+**Análise consolidada**: `analise-decor-colors-propig.md` — tabela
+comparativa das 6 entrevistas, visão consolidada do ciclo
+fábrica→franquia→consumidor, desafios/necessidades clusterizados com
+recorrência marcada, valor/condições de adesão (diferenciando benefício
+desejado de mecanismo citado), territórios de know-how Propig,
+dependências de Decor Colors/outros parceiros, territórios para
+cocriação e gaps/hipóteses a validar. Segue a mesma convenção
+metodológica do material Goodyear: a análise parte só das entrevistas
+Decor; o material Moura/CredMoura é citado apenas para explicar
+capacidades Propig já existentes, nunca como fonte de necessidade Decor.
+
+**Achado mais recorrente da amostra Decor**: a concorrência direta entre
+o e-commerce/marketplaces da própria franqueadora e a loja física do
+franqueado — citada, de forma espontânea e com intensidade emocional,
+em 4 das 6 entrevistas. Diferente do caso Goodyear, aqui **não existe
+elo distribuidor/atacadista** na cadeia — é fábrica → franquia →
+consumidor direto —, então mecanismos do Credimora pensados para a
+relação distribuidor→revenda (ex.: ampliação de apetite de risco via
+garantia de cartão) não têm, até aqui, necessidade correspondente
+identificada do lado Decor.
