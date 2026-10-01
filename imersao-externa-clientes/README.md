@@ -87,6 +87,12 @@ inteira em uma tela só — pra baixar, imprimir ou colar direto num board:
   três blocos: Fábrica→Operação, Distribuidor→Revenda,
   Operação/Revenda→Consumidor)
 
+**Resumo pra workshop (revenda × distribuidor)**:
+`resumo-workshop-revenda-distribuidor.md` — destilado do relatório único
+no formato Desafios/Valor/Propig/Parceiros, separado por perfil (revenda
+oficial vs. distribuidor B2B), pra preparação do workshop. Versão visual
+publicada como artifact: https://claude.ai/artifact/P4jriQz4DFCXGr4WMHefA9
+
 **Achado mais crítico do relatório único**: segundo um distribuidor
 Moura fundador do Credimora (Victor/Roadmaster), o produto só é
 competitivo em taxa porque **o distribuidor subsidia a diferença** —
