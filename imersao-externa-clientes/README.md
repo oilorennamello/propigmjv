@@ -93,6 +93,17 @@ no formato Desafios/Valor/Propig/Parceiros, separado por perfil (revenda
 oficial vs. distribuidor B2B), pra preparação do workshop. Versão visual
 publicada como artifact: https://claude.ai/artifact/P4jriQz4DFCXGr4WMHefA9
 
+**Consolidação exaustiva pra cocriação (matéria-prima não-filtrada)**:
+`consolidacao-exaustiva-goodyear-workshop.md` — diferente do resumo
+acima, este documento **não reduz os achados a padrões recorrentes**.
+Preserva cada necessidade/desejo/oportunidade encontrada nas entrevistas,
+mesmo quando apareceu em um único entrevistado, separado em REVENDAS e
+DISTRIBUIDORES, cada um com quatro dimensões (desafios/necessidades,
+valor/condição de adesão, possibilidades de atuação Propig, dependência
+de parceiros) e uma leitura transversal só ao final, sem eliminar os
+achados individuais. Pensado pra ser levado literalmente ao workshop como
+insumo bruto pra o grupo priorizar.
+
 **Achado mais crítico do relatório único**: segundo um distribuidor
 Moura fundador do Credimora (Victor/Roadmaster), o produto só é
 competitivo em taxa porque **o distribuidor subsidia a diferença** —
