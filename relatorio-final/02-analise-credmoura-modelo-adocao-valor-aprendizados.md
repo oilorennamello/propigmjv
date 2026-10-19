@@ -311,7 +311,11 @@ Ele classifica redução de inadimplência e financiamento do consumidor como **
 
 ## 4.3 Limitações do valor para o distribuidor — explicadas com mecanismo, não apenas listadas
 
-A explicação mais precisa e quantificada de por que o CredMoura não atinge o pequeno cliente vem de DIST-ROADMASTER, com um cálculo explícito:
+Antes do mecanismo, vale deixar claro que isto não é uma característica neutra que eu estou rotulando de limitação — é algo que o próprio DIST-ROADMASTER chama, nas suas palavras, de problema:
+
+> *"A gente não dá uma solução de crédito para o pequeno. (...) isso tá atendendo oito por cento da base. É absurdas e muito distante (...) porque o credimora não atinge o pequeno, esse é o maior problema. (...) Eu não vejo caminho também. Qual a solução que tu vai dar? Ah, não sei."* (DIST-ROADMASTER)
+
+A explicação mais precisa e quantificada de por que isso acontece também vem dele, com um cálculo explícito do mecanismo por trás da própria queixa:
 
 > Cliente pequeno compra ~10 baterias/mês (~R$3.500). Economia de taxa de ~6% = ~R$210/mês. Descontado o aluguel da máquina (~R$70-90), sobra pouco. Para esse ganho líquido pequeno, o cliente teria que assumir uma relação com "outra empresa, outro portal, outra gestão" — o custo operacional de gerenciar uma segunda máquina/relação supera o ganho financeiro. *"Todo o trabalho para ele economizar quanto? 200 reais, 150 reais. Não vale a pena."*
 
@@ -374,73 +378,219 @@ Essa tripla categorização é uma leitura interpretativa deste relatório const
 # Capítulo 6 — Dores, limitações e oportunidades
 
 > Organizado por perspectiva. Problemas isolados, recorrentes e estruturais são diferenciados explicitamente.
+>
+> **Nota sobre o critério usado neste capítulo.** Uma dor, aqui, é algo que o próprio entrevistado — revenda, distribuidor, ou a liderança da Propig — qualifica nas próprias palavras como ruim, difícil, frustrante ou que não funciona para ele. Cada item abaixo abre com a citação literal em que essa avaliação negativa aparece, antes de qualquer análise de mecanismo. Uma característica do desenho do programa que apenas eu descreveria como desvantajosa, sem que nenhum entrevistado a tenha qualificado dessa forma, não entra como "dor" neste capítulo — ela fica onde já está descrita, nos capítulos de modelo de negócio (2) ou de valor (4 e 5), como uma característica a ser lida com os devidos matizes, não como queixa.
 
 ## 6.1 Perspectiva das revendas
 
-### 6.1.1 Reconciliação financeira e confiança (recorrente, tendendo a estrutural)
-- **Dificuldade concreta**: saldo que não bate entre o portal e o esperado, atraso de D+2 às vezes muito maior na prática (até 15 dias segundo REV-LUCAS).
-- **Quem é afetado**: revendas sem conhecimento prévio da mecânica Moura/Propig (a maioria, segundo o próprio relato de Lucas sobre o padrão que ele via como ex-funcionário).
+### 6.1.1 Taxas que "subiram e ficaram caras" frente ao que já foi (recorrente na memória de quem viveu as duas fases; estrutural na forma como se sustenta)
+
+> *"Não é mais taxa zero, plano flex a taxa é alta, sessão total também a taxa não é boa, não é tão boa (...) eu acho que débito é horrível na Propig (...) R$1,99 é um absurdo, você paga R$0,69 no Itaú (...) crédito à vista R$2,99 é alto, você paga 1%, 1,19, então é alto. (...) Eles vieram entrando com os negócios bons e agora vieram mudando, mudando. Não tão bom assim."* (REV-FABIO)
+
+- **O que ele diz que é ruim, em suas próprias palavras**: a taxa atual, comparada ponto a ponto com a maquininha do seu próprio banco (débito "horrível", crédito à vista "alto"), e comparada com o período em que a Propig praticou taxa zero, que ele lembra com clareza como o período em que "vendeu pra caramba". Ele chega a quantificar o que sente estar perdendo hoje: *"Uma vez eu fiz uma conta nas lojas, deu quase nove mil reais de taxa, quando era taxa zero. Hoje (...) no mínimo foi seis mil e oitocentos e pouco (...) com essa taxa. Para mim é alta, tá?"*
+- **Quem é afetado**: ele próprio, revenda já estabelecida e capitalizada (14-15 máquinas) — mas a lógica que ele descreve (só compensa passar na Moura a partir da 4ª-5ª parcela; antes disso, o banco é mais barato) é a mesma lógica que, segundo ele, levou a loja a dividir o fluxo entre duas maquininhas (ver 6.1.2).
+- **Momento da jornada**: uso contínuo, decisão recorrente a cada venda.
+- **Causa provável, no relato dele**: aumento de taxa ao longo do tempo depois do fim de um período promocional (taxa zero) que ele vivenciou como âncora de comparação — ele não atribui isso a um evento único, mas a uma trajetória ("ao longo do tempo vieram aumentando, aumentando").
+- **Impacto**: ele próprio restringe o uso da maquininha Propig a partir da 4ª parcela, direcionando vendas de menor parcelamento para o banco — ou seja, a reação a essa dor já está mudando o comportamento de uso do produto, não é uma insatisfação passiva.
+- **Como contorna hoje**: mantém as duas máquinas e decide, venda a venda, qual delas usar com base no número de parcelas.
+- **Oportunidade de melhoria**: nenhuma solução testada está documentada nestas fontes; é a própria Propig, em outro documento (INT-10/09), que identifica o problema de percepção de taxa como não resolvido (ver 2.7), mas sem evidência de que a solução proposta ali (mostrar "economia" em R$) responda a esta queixa específica, que é sobre o nível da taxa em si, não apenas sobre como ela é comunicada.
+- **Responsabilidade**: política de precificação, decisão da Propig (e da Moura, no caso de campanhas pontuais que depois terminam).
+- **Classificação**: recorrente na experiência de quem viveu a transição de taxa zero para taxa cobrada; não há dado, nestes documentos, sobre se outras revendas sentem o mesmo, porque REV-LUCAS (a outra entrevista de revenda) nunca viveu período de taxa zero prolongado na sua própria operação.
+
+### 6.1.2 Confusão entre maquininhas custando margem — o próprio time da revenda, não só o do distribuidor (recorrente, operacional)
+
+> *"Às vezes dá um bug na cabeça deles (...) ele passar no débito da maquininha minha, ele passa levo na Propig ou vice-versa, tenho que passar em 10 vezes na Propig e ele passa em 10 vezes na minha maquininha, eu quero morrer, né? Porque aí você faz o lucro aqui calculado em 100, quando você vai ver tem uns 60, 70 de taxa, aí você fala, meu, trabalho de graça, né?"* (REV-FABIO)
+
+- **O que ele diz que é ruim**: o erro de seu próprio técnico ao escolher a maquininha errada na hora da venda devora a margem calculada da transação — ele usa a expressão "trabalho de graça" para descrever o efeito.
+- **Quem é afetado**: ele e sua equipe — o problema é interno à revenda, mas é estruturalmente causado por operar duas maquininhas com taxas muito diferentes para decisões tomadas sob pressão no atendimento ("ali no atendimento tão pressionado, tem cliente que fica em cima da gente").
+- **Momento da jornada**: ponto de venda, decisão em tempo real.
+- **Causa provável**: necessidade de operar duas maquininhas simultaneamente (ver 6.1.1) combinada com pressão de atendimento.
+- **Impacto**: perda de margem na transação específica; gerou resposta disciplinar interna.
+- **Como contorna hoje**: *"eu já fiz uma reunião com todos eles, se passar eu vou descontar"* — ele próprio instituiu penalidade interna para o erro.
+- **Oportunidade de melhoria**: não há, nos documentos, nenhuma proposta de produto (de nenhuma fonte) endereçando esse ponto especificamente.
+- **Responsabilidade**: estrutural ao fato de duas maquininhas com taxas distintas coexistirem na mesma operação — não atribuível nem à Propig nem ao distribuidor isoladamente, mas uma consequência direta de 6.1.1.
+- **Classificação**: recorrente (ele descreve como algo que acontece, "é raro, é raro", mas existe) — não isolado a um evento único.
+
+### 6.1.3 Crítica direta a uma campanha específica — cashback de R$10 por transação em 10x (isolado quanto ao evento, mas revela um padrão de desconfiança quanto à intenção)
+
+> *"A Moura lançou (...) se passasse em 10, você ganhava um cashback de R$10. Fez isso para induzir o cliente a pagar em 10. Eu acho que isso daí não foi legal, porque induziu a nós a falar para o cliente pagar em 10 (...) o cliente não queria (...) não é muito legal. Porque pra que a gente induzir o cliente a pagar em 10? Pra Moura ter mais juros, mais taxa, e sendo que a nossa taxa seria igual."* (REV-FABIO)
+
+- **O que ele diz que é ruim**: não a mecânica do cashback em si, mas o que ele lê como a intenção por trás dela — pressionar o cliente a parcelar mais do que precisaria, para gerar mais receita de taxa para a Moura, usando a revenda como o agente que exerce essa pressão sobre o consumidor final.
+- **Quem é afetado**: ele e sua equipe de atendimento, colocados na posição de insistir com um cliente que "não queria" parcelar em 10x.
+- **Momento da jornada**: campanha pontual, mas o incômodo é sobre o padrão ("eles entraram nessa campanha", sugerindo repetição de lógica semelhante).
+- **Impacto**: desconforto relatado por ele e, por extensão, atrito potencial com o consumidor final que não queria o parcelamento maior.
+- **Oportunidade de melhoria**: nenhuma proposta testada nestes documentos.
+- **Responsabilidade**: desenho de campanha, decisão da Moura/Propig.
+- **Classificação**: isolado como evento (uma campanha específica), mas ilustrativo de uma tensão mais ampla (ver Capítulo 7-D, desalinhamento entre o que a Propig/Moura incentiva comercialmente e o que a revenda considera bom para o próprio cliente).
+
+### 6.1.4 Reconciliação financeira e confiança ("um grande gargalo", nas palavras de quem vive isso) (recorrente, tendendo a estrutural)
+
+> *"A gente hoje... é um gargalo muito grande isso daí. (...) eu nunca sei quanto de fato eu tenho de crédito pra comprar. (...) tem mês que eu fico com um saldo de 50 mil e 40 mil em aberto, 15 dias, 10 dias."* (REV-LUCAS)
+
+- **O que ele diz que é ruim**: a impossibilidade de saber, em tempo real, quanto de crédito de fato tem disponível, com valores de dezenas de milhares de reais ficando "em aberto" por até 15 dias.
+- **Quem é afetado**: Lucas tem conhecimento prévio da mecânica (ex-supervisor comercial Moura) e ainda assim descreve isso como gargalo; ele mesmo projeta que o efeito é pior para quem não tem esse conhecimento: *"se você for numa reunião, um cliente que teve uma experiência de ter o Crede Moura e cancelou (...) porque não estava conseguindo conciliar, ele vai dizer que a Moura roubou ele."*
 - **Momento da jornada**: uso contínuo, não apenas onboarding.
-- **Causa provável**: falhas pontuais de integração de API (confirmadas em INT-14/09-PLAT como existentes, "de vez em outra"), mas a intensidade relatada por Lucas sugere que a frequência real pode ser maior do que a narrativa interna da Propig admite — **divergência entre fonte interna e fonte de campo, já registrada em 2.5**.
-- **Impacto**: desconfiança ("a Moura roubou ele", conforme o padrão que Lucas descreve ter visto em outras revendas), podendo levar a cancelamento.
-- **Como contornam hoje**: revendas com conhecimento prévio (como Lucas e Fábio) fazem controle paralelo manual, mas isso "demanda tempo"; revendas sem esse conhecimento, segundo o relato de Lucas, simplesmente desconfiam e eventualmente saem.
-- **Oportunidade de melhoria identificada nos documentos**: nenhuma solução testada está documentada para este ponto especificamente — a funcionalidade "créditos a liberar" (INT-14/09-PLAT) endereça a visibilidade do problema, não necessariamente sua frequência ou velocidade de resolução.
-- **Responsabilidade**: compartilhada entre Propig e Moura (ambos os lados da integração), mas a resolução de atendimento ao cliente quando o saldo não bate passa pelo distribuidor e pela Propig juntos.
+- **Causa provável**: falhas pontuais de integração de API, confirmadas em INT-14/09-PLAT como existentes ("de vez em outra"); a intensidade relatada por Lucas (10-15 dias, dezenas de milhares de reais) é maior do que a narrativa interna da Propig sugere como residual — **divergência entre fonte interna e fonte de campo, já registrada em 2.5, que aqui ganha peso adicional por vir de alguém com conhecimento técnico da própria mecânica, não de um cliente leigo confuso**.
+- **Impacto**: segundo Lucas, pode levar revendas sem seu conhecimento prévio a concluir que houve má-fé e cancelar.
+- **Como contorna hoje**: controle paralelo manual — *"demanda tempo"*, segundo ele mesmo.
+- **Oportunidade de melhoria**: nenhuma solução testada está documentada; a funcionalidade "créditos a liberar" (INT-14/09-PLAT) dá visibilidade ao problema, mas não resolve sua frequência.
+- **Responsabilidade**: compartilhada entre Propig e Moura (os dois lados da integração).
+- **Classificação**: recorrente, tendendo a estrutural.
 
-### 6.1.2 Logística de pós-venda (recorrente, convergente entre 3-4 fontes)
-- **Dificuldade concreta**: troca de máquina com defeito lenta (até uma semana) e burocrática (exigência de vídeo-prova).
-- **Quem é afetado**: qualquer revenda com uma máquina com problema, mas com impacto desproporcional em revendas pequenas com poucos terminais (Lucas, com 3 máquinas, ficou sem terminal funcional por dias; um distribuidor grande absorve essa perda de forma menos crítica).
+### 6.1.5 Pós-venda de máquina com defeito (recorrente, convergente entre revenda e distribuidores)
+
+> *"Eu tô aqui, tô sem maquininha na minha loja, eu não consigo fazer esse vídeo e preciso resolver isso aqui (...) Foram quatro horas para eu conseguir resolver isso."* (REV-LUCAS, relatando a exigência de vídeo-prova antes de autorizar a troca de duas máquinas com defeito)
+
+> *"O que acontecia nessa outra maquininha mais antiga da Moura (...) Era bem ruim (...) Agora com essa outra maquininha com a tela digital, acabou esse problema. Mas aquelas maquininhas antigas, ainda é um pouquinho ruim."* (REV-FABIO)
+
+- **O que eles dizem que é ruim**: Lucas descreve o processo de solicitar a troca como burocrático e lento mesmo diante de urgência evidente (loja sem terminal funcionando); Fábio qualifica o modelo de máquina anterior ao atual (sem tela digital) diretamente como "ruim", com melhora reconhecida no modelo atual mas resíduo de insatisfação com unidades antigas ainda em uso.
+- **Quem é afetado**: revendas com poucos terminais sentem o impacto de forma desproporcional — Lucas, com poucas máquinas, ficou sem terminal operante por dias.
 - **Momento da jornada**: pós-venda / manutenção corrente.
-- **Causa provável**: processo de suporte não otimizado para urgência (exigência de evidência antes de autorizar substituição) e Propig "não ser 100% focada em tecnologia" (autoavaliação de DIST-ANAPOLIS sobre a Moura/Propig em comparação a Stone/Cielo/Rede).
-- **Impacto**: máquina parada gera aluguel cobrado sem uso, e pode gerar perda de venda enquanto o terminal está fora.
-- **Como contornam hoje**: uso de uma segunda máquina (de outro adquirente) como contingência — relatado tanto por Fábio quanto por Lucas.
-- **Oportunidade de melhoria**: nenhuma solução documentada; é identificada como gap competitivo explícito por dois distribuidores (Anápolis e Roadmaster) e por uma revenda (Lucas), mas sem resposta testada nas fontes.
+- **Causa provável**: processo de suporte que exige evidência antes de autorizar substituição; isso é reforçado, do lado do distribuidor, por DIST-ANAPOLIS (*"acho a nossa logística ainda muito limitada"*) e por DIST-ROADMASTER, que compara diretamente e desfavoravelmente com concorrentes: *"Quando você pega uma Cielo, Stone, Rede (...) o prazo médio de troca deles é um dia, até menos (...) a gente demora cinco, sete dias para trocar uma máquina."* — **esta é uma convergência de três fontes (uma revenda, dois distribuidores), com os três usando linguagem de queixa direta ("ruim", "muito limitada", comparação desfavorável explícita), não apenas um padrão que eu estou inferindo.**
+- **Impacto**: máquina parada gera aluguel cobrado sem uso e pode gerar perda de venda.
+- **Como contornam hoje**: uso de uma segunda máquina de outro adquirente como contingência (Fábio e Lucas).
+- **Oportunidade de melhoria**: nenhuma solução documentada nestas fontes.
 - **Responsabilidade**: operador logístico contratado pela Propig e processo interno de suporte.
+- **Classificação**: recorrente, estrutural — converge entre três fontes de dois níveis diferentes da cadeia.
 
-### 6.1.3 Capacitação do vendedor (recorrente, estrutural)
-- Já detalhado no Capítulo 3.5 e 5.2 — reafirmado aqui como dor de revenda porque o efeito prático sentido pela revenda é expectativa mal calibrada e eventual perda de confiança em algo que, tecnicamente, funcionou como prometido, mas foi mal comunicado.
+### 6.1.6 Opacidade de créditos de campanha no extrato (recorrente, mas de intensidade menor)
 
-### 6.1.4 Percepção de "dinheiro preso" (estrutural, sem solução testada disponível)
-- Já detalhado em 5.3 — é o ponto mais estrutural de todos, porque decorre da própria arquitetura do produto (crédito não sacável no Sessão), não de uma falha corrigível de execução.
+> *"Não fica muito claro quanto o crédito entrou (...) da isenção da taxa (...) ficam códigos aleatórios."* (REV-LUCAS)
+
+- **O que ele diz que é ruim**: não consegue identificar, no próprio extrato, qual lançamento corresponde a qual campanha de isenção — precisa perguntar diretamente ao distribuidor. Ele também relata uma divergência concreta não resolvida no momento da entrevista: *"A última campanha teve divergência. (...) eu até tô pra tratar com eles isso aí e nem passei ainda. Mas aí eu fiz o levantamento e vi que deu divergência. Tem um saldo ainda pra receber."*
+- **Quem é afetado**: revendas que acompanham o próprio extrato de perto (ironicamente, o mesmo perfil de revenda financeiramente mais atenta é quem percebe a opacidade — quem não acompanha, nem chega a notar a divergência).
+- **Causa provável**: ausência de identificação clara de campanha no lançamento, consistente com o achado mais amplo de percepção de valor relatado em INT-14/09-PLAT.
+- **Oportunidade de melhoria**: nenhuma solução documentada.
+- **Responsabilidade**: desenho do portal/extrato, Propig.
+- **Classificação**: recorrente, intensidade moderada.
+
+### 6.1.7 Percepção de "dinheiro preso" (estrutural)
+- Já detalhado em 5.3, com a própria Propig relatando essa queixa como algo que ouve recorrentemente das revendas: *"ela vê sempre que o dinheiro está no distribuidor. O dinheiro, sempre falam, o dinheiro está preso ao distribuidor."* (INT-10/09, citando o padrão de fala das revendas) — é o ponto mais estrutural de todos, porque decorre da própria arquitetura do produto (crédito não sacável no Sessão), não de uma falha corrigível de execução.
 
 ## 6.2 Perspectiva dos distribuidores
 
-### 6.2.1 Herança de implementações anteriores malfeitas (isolado, mas com efeito duradouro)
-- Específico de Anápolis (Multiagenda implementado sem preparo por gestão anterior). Já detalhado em 3.4/4.3. Classificado como problema **isolado** desta praça, não recorrente nas outras duas entrevistas de distribuidor — mas com **efeito estrutural duradouro** onde ocorreu (ainda ativo anos depois, segundo o próprio Victor).
+### 6.2.1 Falha histórica de liquidação do Flex — confiança que não voltou até hoje (isolado como evento, efeito estrutural e duradouro)
 
-### 6.2.2 Dificuldade de transbordar valor para a equipe de vendas em escala (recorrente)
-- **Dificuldade concreta**: mesmo com discurso de valor claro na cabeça do sócio/gestor, garantir que isso chegue de forma consistente a dezenas de vendedores em campo é difícil.
-- **Quem é afetado**: distribuidores com equipes de vendas numerosas e dispersas geograficamente (Anápolis cita equipe "no interior" com cadência semanal, dificultando reação rápida a clientes inativos).
-- **Momento da jornada**: operação corrente, gestão de performance de vendedores.
-- **Causa provável**: ausência de ferramenta própria de alerta proativo (o distribuidor de Anápolis pede explicitamente algo como "aparecesse lá inativos do dia para o vendedor agir" em vez de depender de reunião de cadência semanal) combinada com restrição de acesso ao portal que, segundo ele, piorou ao longo do tempo ("ficou um pouco mais limitado em entrar no portal").
-- **Impacto**: clientes ficam inativos por até 3 meses antes de qualquer ação, e o próprio distribuidor considera isso inaceitável quando descoberto via relatório da Propig em vez de via gestão interna própria.
-- **Como contornam hoje**: reuniões de cadência semanais (insuficiente, segundo o próprio Victor) e, no passado em outras praças (Rio, ES), acompanhamento diário manual via portal — prática que não escalou ou não se sustentou em Anápolis.
-- **Oportunidade de melhoria identificada pelo próprio entrevistado**: alerta automatizado de inatividade integrado a uma ferramenta já usada pela equipe (ele cita Salesforce como exemplo).
-- **Responsabilidade**: primariamente do distribuidor (gestão de equipe e cadência), mas com uma oportunidade de ferramenta que dependeria da Propig construir e disponibilizar.
+> *"No início, quando fazia a liquidação do Flex, a Propig depositava tudo pra gente e não depositava a parte do cliente. Isso gerava uma desconfiança imensa, uma insegurança, uma irritação (...) até hoje tem caras que (...) se for sobre o Credemora, pode ir embora, eu não quero nem ouvir."* (DIST-UNIAO)
 
-### 6.2.3 Gap de qualidade operacional vs. concorrentes tradicionais (recorrente, estrutural)
-- Logística de troca de máquina (ver 6.1.2) e qualidade de portal/app frente a Stone/Cielo/Rede — citado por dois dos três distribuidores (Anápolis, Roadmaster), com Roadmaster propondo a hipótese (não testada) de que isso explicaria um NPS operacional baixo mesmo com alta satisfação com o benefício financeiro do produto.
+- **O que ele diz que é ruim**: um erro operacional passado (a Propig não repassava a parte do cliente no plano Flex) gerou uma reação emocional forte e duradoura em parte da base de clientes, a ponto de alguns se recusarem a sequer ouvir sobre o produto anos depois.
+- **Quem é afetado**: um subconjunto específico de clientes antigos da União — Eduardo estima "uma meia dúzia" de clientes nesse estado, não a base inteira.
+- **Momento da jornada**: evento passado, com efeito persistente na fase de reconquista/reengajamento.
+- **Causa provável**: falha de liquidação do sistema Propig naquele período.
+- **Impacto**: perda permanente, até o momento da entrevista, de uma parcela de clientes que nem renegociação consegue recuperar.
+- **Como contorna hoje**: nenhuma estratégia de recuperação bem-sucedida relatada para este subgrupo específico — Eduardo distingue esse grupo do grupo mais amplo de "quem nunca entrou", que ele consegue trabalhar com campanhas.
+- **Oportunidade de melhoria**: nenhuma solução documentada para reverter essa desconfiança específica.
+- **Responsabilidade**: falha histórica de sistema, Propig.
+- **Classificação**: isolado como evento causador, mas com efeito estrutural duradouro.
 
-### 6.2.4 Limite estrutural de alcance ao pequeno cliente (estrutural, não um "problema a resolver" no sentido convencional)
-- Já detalhado em 4.3 com o mecanismo explícito de Roadmaster — tratado aqui como dor porque é citado pelos próprios distribuidores como uma frustração ("eu ia botar toda a minha força... fomentar alguma solução para o pequeno (...) a gente não dá uma solução de crédito para o pequeno", DIST-ROADMASTER), não apenas como um limite técnico neutro.
+### 6.2.2 Multiagenda implementado sem preparo — "horrível", "não presta" (isolado nesta praça, efeito duradouro)
 
-## 6.3 Perspectiva da operação (Propig/Moura)
+> *"Multiagenda é horrível. (...) Já falei isso milhões de vezes para o André, que não presta."* (DIST-ANAPOLIS)
 
-### 6.3.1 Modelo de cobrança que convida à comparação com maquininha tradicional (estrutural, admitido pela própria liderança)
-- Já detalhado em 2.1 — a única dor desta lista que é auto-identificada pela própria liderança do produto como erro de desenho, não como execução imperfeita de um desenho correto.
+- **O que ele diz que é ruim**: a forma como uma gestão anterior do próprio distribuidor implementou o Multiagenda — distribuição indiscriminada de máquinas sem preparo nem explicação adequada (*"pegaram a base de clientes (...) manda a máquina para todo mundo e deixa que se lasque lá"*) — deixou um legado de desconfiança que ele, na gestão atual, não consegue reverter: *"quem já teve o credimora, não quer ter de novo. E é difícil resgatar esse povo. Mesmo dando um MDR zero e tudo."*
+- **Quem é afetado**: a base de clientes de Anápolis especificamente — ele proibiu até a palavra "multiagenda" internamente.
+- **Momento da jornada**: legado de uma implementação anterior, ainda ativo hoje.
+- **Causa provável**: decisão de execução de uma gestão anterior deste distribuidor específico, não um problema do produto Multiagenda em si nem de outros distribuidores (não replicado nas entrevistas de União ou Roadmaster).
+- **Impacto**: bloqueio de reconquista mesmo com subsídio financeiro total oferecido.
+- **Oportunidade de melhoria**: nenhuma solução testada relatada além de banir a prática e recomeçar do zero a comunicação.
+- **Responsabilidade**: decisão/execução do distribuidor (gestão anterior).
+- **Classificação**: isolado a esta praça, mas com efeito estrutural duradouro onde ocorreu.
 
-### 6.3.2 Percepção de valor não resolvida mesmo com nova funcionalidade lançada (estrutural, sem avaliação de efetividade disponível)
-- Já detalhado em 2.7 e 5.3.
+### 6.2.3 Recusa da Propig em ajudar o distribuidor a antecipar seu próprio saldo (isolado nesta fonte, não corroborado em outras)
 
-### 6.3.3 Integração D+2 com Moura como ponto de fragilidade técnica compartilhada (recorrente)
-- Já detalhado em 2.5/6.1.1 — reafirmado aqui como dor "de operação" porque a responsabilidade de resolução passa por sistemas dos dois lados (Propig e Moura), não só de um.
+> *"É porque a Propig não quer me ajudar a antecipar, mas eu tenho um rio de dinheiro lá para antecipar lá, mas a Propig não quer ajudar aí. Essa é outra briga minha aqui com a equipe."* (DIST-ANAPOLIS)
 
-### 6.3.4 Produto Multiagenda em "limbo" interno (isolado como status do produto, mas revelador)
-- **Dificuldade concreta**: o Multiagenda, desenhado para dar máxima flexibilidade à revenda, gerou receio nos distribuidores (perda de garantia de conversão em crédito) e confusão de UI para a revenda (dificuldade de diferenciar, no extrato, o que veio do "lado Moura" vs. "lado Loja"), ficando, segundo o próprio relato interno, estacionado sem rollout amplo: *"esse produto do multiagenda (...) acabou meio que entrando num limbo até aqui dentro da empresa."* (INT-14/09-PLAT)
-- **Quem é afetado**: a Propig internamente (produto não evolui), distribuidores receosos de adotar amplamente, e a minoria de revendas que o usa de forma inconsistente (ex.: o cliente citado por Eduardo que "fica migrando" entre Sessão Total e Flex).
-- **Causa provável**: tensão de incentivos não resolvida entre dar autonomia total à revenda (objetivo de design) e garantir previsibilidade de conversão em crédito para o distribuidor (necessidade de negócio) — um trade-off estrutural, não um bug.
-- **Impacto**: produto existe mas não escala; recursos de desenvolvimento usados em um produto que a própria Propig está "testando em segmentos específicos" sem convicção de rollout.
-- **Oportunidade de melhoria**: nenhuma solução documentada; é citada como trabalho em andamento sem resultado disponível nestas fontes.
+- **O que ele diz que é ruim**: ele tem um volume relevante de crédito a receber ("um rio de dinheiro") e gostaria de antecipá-lo junto à Propig (por exemplo, para pagar a fábrica em dia) — e relata que a Propig nega esse pedido, chamando isso explicitamente de uma "briga" sua.
+- **Quem é afetado**: ele, na gestão financeira do próprio distribuidor.
+- **Momento da jornada**: gestão de caixa corrente.
+- **Causa provável**: não está explicada nos documentos — é uma política ou limitação da Propig que ele relata sem a Propig, nestas fontes, dar sua própria justificativa.
+- **Impacto**: ele descreve não conseguir usar esse recurso para, segundo ele mesmo sugere, pagar a fábrica adiantado.
+- **Oportunidade de melhoria**: nenhuma proposta ou justificativa documentada do lado da Propig sobre por que essa antecipação não é oferecida.
+- **Responsabilidade**: política da Propig em relação à antecipação de saldo de distribuidor.
+- **Classificação**: isolado — relatado apenas por esta fonte; não há confirmação ou contradição nas outras duas entrevistas de distribuidor, que não tocam neste ponto específico. **Lacuna**: não sabemos, destes documentos, se essa é uma política geral da Propig ou uma situação específica de Anápolis.
+
+### 6.2.4 Rentabilidade do Flex questionada por quem mais entende de números (recorrente na forma de crítica, ainda que a adoção continue)
+
+> *"Flex 30 está 7%, Sessão está 4,89%. Um pequeno negócio com margem líquida de 10% é fantástico. Aí você vai entregar 7% como custo do Flex, fica com 3% (...) Eu, pessoalmente, como empresário, jamais faria Flex, eu faria Sessão, que é dinheiro de graça."* (DIST-UNIAO)
+
+- **O que ele diz que é ruim**: mesmo sendo o distribuidor que mais historicamente apoiou o Credimora desde o comitê de lançamento, Eduardo classifica o Flex como um mau negócio do ponto de vista puramente financeiro para quem o adota — a ponto de dizer que, como empresário, nunca o escolheria pessoalmente.
+- **Quem é afetado**: revendas no plano Flex, especialmente negócios pequenos com margem líquida apertada.
+- **Causa provável**: a taxa do Flex (7%) é estruturalmente mais alta que a do Sessão (4,89%), e ele mesmo não vê isso como justificado pelo valor entregue para quem "sabe fazer conta".
+- **Impacto**: tensão entre o que a Propig incentiva comercialmente (ela paga comissão ao vendedor para migrar clientes de Sessão para Flex, segundo o próprio Eduardo) e o julgamento financeiro do distribuidor mais experiente da amostra sobre o mesmo produto.
+- **Responsabilidade**: desenho de preço do plano Flex, Propig; incentivo comercial de migração, também Propig.
+- **Classificação**: recorrente como crítica pessoal e institucional dele, mesmo convivendo com a adoção continuada do plano por outros motivos (gestão de caixa, ver Capítulo 2.1).
+
+### 6.2.5 Complexidade de planos como obstáculo em si — "é uma zona" (recorrente, ligado à decisão de simplificação radical do próprio distribuidor)
+
+> *"Não tem sessão, tem flex, flex 7030, flex 5050, flex 6060. É uma zona. Aí tem 20 taxas diferentes, é mais os aluguéis (...) essa confusão toda, assim, não... A gente também não está nem adaptado para isso. O nosso modelo não é um modelo de casca de banana."* (DIST-ROADMASTER)
+
+- **O que ele diz que é ruim**: a variedade de planos, submodalidades e taxas associadas é, em suas palavras, confusa demais até para a própria equipe interna do distribuidor administrar — não apenas para o cliente final.
+- **Quem é afetado**: a equipe comercial do próprio distribuidor e os clientes que precisam entender a oferta.
+- **Causa provável**: evolução acumulada do produto ao longo de anos (Sessão, Flex em múltiplas variantes, Multiagenda) sem simplificação correspondente.
+- **Impacto**: ele abandonou inteiramente essa estrutura e adotou uma taxa única por modalidade de pagamento, absorvendo ele mesmo o subsídio da diferença (ver 2.4) — ou seja, a reação à queixa já é uma mudança concreta de prática, não apenas uma reclamação.
+- **Oportunidade de melhoria**: a solução dele é local e não documentada como adotada por nenhum outro distribuidor da amostra.
+- **Responsabilidade**: acúmulo de complexidade de produto, Propig.
+- **Classificação**: recorrente como queixa; a resposta a ela (simplificação radical) é isolada a este distribuidor.
+
+### 6.2.6 Custo de capital e capital de giro como barreira para "vender" o modelo — a crítica mais forte de toda a pesquisa sobre o desenho do programa (recorrente na lógica, isolado na articulação explícita desta forma)
+
+> *"A dificuldade de vender a Propig e o crédito Moura (...) é o investimento. Qual distribuidora vai estar disposta a investir 10 [milhões]? (...) ele vai ter que dar um alterar gigantesca, o capital de giro dele aumenta absurdamente (...) você recebe os recebíveis em 10 vezes e ainda você paga taxas mais altas na relação com a Propig, do que ele pagaria com uma rede, com a Cielo."* (DIST-ROADMASTER)
+
+- **O que ele diz que é ruim**: não é uma característica que ele descreve com neutralidade — é, nas palavras dele, "a dificuldade" central de propor o modelo Propig/Credimora a qualquer distribuidora, de qualquer setor. Ele mesmo, ao ser perguntado hipoteticamente se adotaria o produto caso fosse distribuidor de outro ramo, responde que não adotaria nessas condições: *"Se eu estivesse numa outra distribuidora (...) eu não teria essa parceria com a Propig. Porque as taxas são mais altas e o serviço que eles prestam não é melhor do que os outros."*
+- **Quem é afetado**: ele próprio, que relata ter comprometido cerca de R$10 milhões em capital de giro na própria Roadmaster para sustentar o programa — e, por extensão em sua própria leitura, qualquer distribuidor que for convidado a fazer o mesmo.
+- **Momento da jornada**: decisão de adesão/investimento inicial, mas com efeito permanente sobre o capital de giro operacional.
+- **Causa provável**: a arquitetura do produto exige que o distribuidor financie o parcelamento ao consumidor (recebendo em 10 parcelas em vez de à vista) e, segundo ele, pague uma taxa mais alta à Propig do que pagaria a um adquirente tradicional — ou seja, ele está descrevendo os dois lados do mecanismo descrito tecnicamente no Capítulo 2.2 como, na prática vivida por ele, uma desvantagem financeira dupla.
+- **Impacto**: segundo ele, essa é a razão pela qual nenhum distribuidor sustenta o produto sem subsidiá-lo ativamente — ele mesmo marca isso como crença pessoal forte, não dado comprovado: *"Não tem um depósito do Brasil que esteja bombando o Credemora sem a distribuidora subsidiar (...) eu duvido, pode ser que tenha [exceção], mas quem eu conheço (...)."*
+- **Como contorna hoje**: ele absorveu o custo diretamente (ver 6.2.5, taxa única subsidiada) em vez de tentar operar nas condições de tabela da Propig.
+- **Oportunidade de melhoria**: nenhuma proposta de mudança de modelo de cobrança está testada nestes documentos — mas vale notar que essa queixa converge diretamente com a autocrítica da própria liderança da Propig sobre o modelo de cobrança (ver 2.1: *"a gente termina deixando dinheiro muito mais do outro lado da mesa"*) — **duas fontes muito diferentes entre si (um distribuidor de baixa penetração e a própria liderança do produto) chegando a uma leitura convergente sobre o mesmo ponto estrutural, por caminhos independentes.**
+- **Responsabilidade**: desenho de taxa e de modelo de repasse, Propig.
+- **Classificação**: recorrente na lógica (o mecanismo de fundo é o mesmo descrito em 2.2 para todos os distribuidores), mas esta articulação explícita e categórica como "a dificuldade" central só aparece, nestes termos, nesta fonte.
+
+### 6.2.7 Gap de qualidade operacional frente a concorrentes — reconhecido mesmo por quem valoriza o produto (recorrente, estrutural)
+
+> *"Por mais que a Propig esteja melhorando, tentando trabalhar o portal, tu vai ver o da Stony, tu vai ver das outras, é muito melhor (...) a máquina deles é a melhor que a nossa também."* (DIST-ROADMASTER)
+
+> *"Acho a nossa logística ainda muito limitada."* (DIST-ANAPOLIS)
+
+- **O que dizem que é ruim**: a qualidade do portal, do app e das próprias máquinas, comparada diretamente e desfavoravelmente com concorrentes estabelecidos (Stone, Cielo, Rede).
+- **Quem é afetado**: distribuidores e, por extensão, revendas que usam esses sistemas no dia a dia.
+- **Impacto**: segundo a hipótese do próprio Roadmaster (marcada por ele como hipótese, não dado medido), isso geraria uma nota baixa de satisfação operacional mesmo quando a satisfação com o benefício financeiro do produto é alta — ele propõe que a Propig deveria medir essas duas coisas separadamente, algo que, segundo ele, nunca foi feito: *"a Propiga tinha que fazer uma pesquisa (...) eu acho que ele daria uma nota baixa"* (para o operacional).
+- **Responsabilidade**: Propig (tecnologia e logística).
+- **Classificação**: recorrente — converge entre dois dos três distribuidores entrevistados e é reforçado, do lado da revenda, pelo achado de 6.1.5.
+
+### 6.2.8 Limite estrutural de alcance ao pequeno cliente ("o maior problema", nas palavras de quem descreve)
+- Detalhado com a citação completa em 4.3 — repetido aqui apenas para manter a organização por perspectiva: é, nas palavras do próprio DIST-ROADMASTER, "o maior problema" que ele identifica em toda a operação do Credimora na Roadmaster, e ele mesmo admite não ter solução: *"Eu não vejo caminho também."*
+
+## 6.3 Perspectiva da operação (Propig/Moura) — problemas admitidos pela própria liderança do produto
+
+### 6.3.1 Modelo de cobrança que convida à comparação com maquininha tradicional — autocrítica explícita
+
+> *"Eu errei no modelo de cobrança. Eu cobro igual a maquininha (...) cada vez que eu me aproximo desse modelo de cobrança de maquininha, mais eu vou ser comparado à maquininha."* (INT-10/09)
+
+- Já detalhado em 2.1 — o único item de todo este capítulo em que a própria liderança do produto usa a palavra "errei" sobre sua própria decisão de desenho, não sobre execução de terceiros.
+
+### 6.3.2 "A gente identificou que o cliente não via valor no Credemora" — admissão direta de fracasso de percepção
+
+> *"A gente identificou que o cliente não via valor no Credemora."* (INT-14/09-PLAT)
+
+- Já detalhado em 2.7 e 5.3 — admissão direta, não inferência minha, de que uma pesquisa conjunta Propig+Moura encontrou esse problema; a solução lançada em resposta não tem avaliação de efetividade disponível nestes documentos.
+
+### 6.3.3 Integração D+2 com falhas reconhecidas pela própria Propig
+
+> *"De vez em outra, acontece da API cair ou algumas integrações não acontecerem no prazo específico."* (INT-14/09-PLAT)
+
+- Já detalhado em 2.5/6.1.4 — a própria Propig admite a existência da falha, ainda que descrevendo-a como residual, em tensão com a intensidade relatada por REV-LUCAS.
+
+### 6.3.4 Multiagenda estacionado em "limbo" interno — admissão de que o produto não decolou
+
+> *"Esse produto do multiagenda (...) acabou meio que entrando num limbo até aqui dentro da empresa."* (INT-14/09-PLAT)
+
+- **O que a própria Propig diz que não funcionou**: o produto foi desenhado para dar autonomia total à revenda, mas gerou receio nos distribuidores (perda de garantia de conversão em crédito) e confusão de UI para a revenda — e, segundo quem o demonstra no documento, nunca saiu de testes em segmentos específicos.
+- **Causa provável**: tensão de incentivos não resolvida entre autonomia da revenda (objetivo de design) e previsibilidade de conversão em crédito para o distribuidor (necessidade de negócio).
+- **Impacto**: produto existe mas não escala.
+- **Oportunidade de melhoria**: nenhuma solução documentada; citado como trabalho em andamento sem resultado disponível nestas fontes.
+- **Responsabilidade**: desenho de produto, Propig.
+- **Classificação**: estrutural — é a própria empresa descrevendo seu próprio produto como estagnado.
 
 ---
 
@@ -461,7 +611,7 @@ Não há, nos documentos, uma única resposta certa sobre "o que é" o CredMoura
 Adesão (a decisão inicial de aceitar a máquina) e uso recorrente/satisfação (a decisão de continuar e intensificar o uso) têm, segundo as evidências cruzadas, **gatilhos diferentes**:
 
 - **Adesão** costuma ser impulsionada por fatores estruturais e de curto prazo: obrigatoriedade a nível de distribuidor (ver 3.3), campanhas de incentivo ao vendedor (ver 3.5), ou necessidade imediata de competitividade (caso Lucas, início de operação).
-- **Continuidade/intensificação** depende de fatores que só se manifestam depois de meses de uso: se a revenda consegue reconciliar financeiramente sem atrito (ver 6.1.1), se a política de subsídio é percebida como estável e não arbitrária (lição explícita de Eduardo sobre campanhas temporárias gerando cancelamento quando revertidas), e se o perfil de negócio (especialista vs. periférico) sustenta volume suficiente para compensar a complexidade operacional (ver 4.3).
+- **Continuidade/intensificação** depende de fatores que só se manifestam depois de meses de uso: se a revenda consegue reconciliar financeiramente sem atrito (ver 6.1.4), se a política de subsídio é percebida como estável e não arbitrária (lição explícita de Eduardo sobre campanhas temporárias gerando cancelamento quando revertidas), e se o perfil de negócio (especialista vs. periférico) sustenta volume suficiente para compensar a complexidade operacional (ver 4.3).
 
 Uma evidência direta dessa diferença: as "7 mil revendas aderentes de 70 mil" (INT-10/09) não é o mesmo número que "revendas satisfeitas" ou "revendas que usam intensivamente" — os próprios distribuidores relatam clientes que aderiram e voltaram ao padrão anterior de uso ("depois aquilo virou paisagem e ele começa a voltar para aquele patamar anterior", DIST-UNIAO, sobre isenções que perderam efeito) e um volume de churn substancial e explicitamente quantificado por Roadmaster ("no mínimo 600 clientes a gente botou para dentro da base (...) ficaram somente os grandes").
 
