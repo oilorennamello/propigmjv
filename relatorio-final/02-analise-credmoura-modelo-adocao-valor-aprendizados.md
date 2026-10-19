@@ -561,6 +561,18 @@ Essa tripla categorização é uma leitura interpretativa deste relatório const
 ### 6.2.8 Limite estrutural de alcance ao pequeno cliente ("o maior problema", nas palavras de quem descreve)
 - Detalhado com a citação completa em 4.3 — repetido aqui apenas para manter a organização por perspectiva: é, nas palavras do próprio DIST-ROADMASTER, "o maior problema" que ele identifica em toda a operação do Credimora na Roadmaster, e ele mesmo admite não ter solução: *"Eu não vejo caminho também."*
 
+### 6.2.9 Falta de alerta proativo de inatividade para a equipe de vendas reagir a tempo (recorrente na frustração, isolado na proposta de solução)
+
+> *"Sabe quando você às vezes já está sem paciência para cobrar todo dia isso? (...) Se a gente tivesse, por exemplo, um sistema hoje, ou se eu tivesse uma facilidade melhor de acessar o portal da ProPig, tipo uma aplicativa, que ele colocasse assim, quais os clientes que estão, sei lá, inativos do dia para o vendedor agir, acho que seria mais fácil. Ou no próprio Salesforce que a gente tem hoje. Se aparecesse lá inativos da semana, a gente agiria mais fácil."* (DIST-ANAPOLIS)
+
+- **O que ele diz que é ruim**: ter que cobrar manualmente, dia após dia, o acompanhamento de clientes que pararam de transacionar — e descobrir a inatividade só na reunião de cadência semanal, ou pior, via um relatório que vem de fora (da Propig), quando deveria ser gestão interna dele: *"quando vem um relatório da Propig falando que o cliente está inativo há três meses. Isso não deveria vir da Propig. Isso aqui tem que ser daqui dentro de casa."*
+- **Quem é afetado**: distribuidores com equipes de vendas numerosas e dispersas geograficamente — ele cita especificamente a equipe "que vai para o interior", que só retorna para a reunião de cadência semanal, perdendo a janela de ação rápida.
+- **Causa provável**: segundo ele, o acesso ao portal ficou "um pouco mais limitado" ao longo do tempo (antes, o próprio vendedor acessava pelo celular; hoje, parece restrito a "staff"), eliminando uma prática que funcionava bem em outras praças onde ele trabalhou (Rio de Janeiro, Espírito Santo).
+- **Impacto**: clientes ficam inativos por até 3 meses antes de qualquer ação.
+- **Oportunidade de melhoria, na própria proposta do entrevistado**: um alerta automatizado de inatividade, integrado a uma ferramenta que a equipe já usa no dia a dia (ele cita o Salesforce da própria Roadmaster como exemplo de onde isso poderia aparecer) — uma sugestão concreta, não apenas uma queixa.
+- **Responsabilidade**: primariamente do distribuidor (gestão de equipe e cadência), mas a oportunidade de ferramenta que ele propõe dependeria da Propig construir e disponibilizar os dados em tempo hábil.
+- **Classificação**: recorrente na frustração relatada; a proposta de solução é dele, isolada, não confirmada como testada em nenhuma praça.
+
 ## 6.3 Perspectiva da operação (Propig/Moura) — problemas admitidos pela própria liderança do produto
 
 ### 6.3.1 Modelo de cobrança que convida à comparação com maquininha tradicional — autocrítica explícita
