@@ -11,6 +11,7 @@ Repositório de organização da pesquisa.
 - `exploracao-mercado/` — arquivos referentes à exploração do mercado.
 - `benchmarking/` — arquivos referentes ao benchmarking.
 - `proposta-comercial/` — arquivos referentes à proposta comercial.
+- `mAIONESE/` — **projeto separado**: pesquisa "Inside the Kitchen" (maionese Quero / Kraft-Heinz). Tem sua própria estrutura de pastas e README.
 - `prompts/` — histórico dos prompts (pedidos) feitos nesta conversa, um arquivo por sessão/data. Serve como registro fora do chat; no chat ficam apenas as respostas.
 
 ## Dinâmica
