@@ -1,18 +1,21 @@
 # proposta-comercial
 
-- `261029_Operator_Journey_Quero_MJV_Proposal_v2.pdf` — proposta técnica
-  preliminar original (em inglês), v2, de 29/10/26. 39 slides.
-- `Proposta_Inside_the_Kitchen_MJV_v2_PT-BR.pdf` — tradução integral para
-  português do Brasil, slide a slide (mesma numeração do original).
-- `Proposta_Inside_the_Kitchen_MJV_v2_PT-BR.html` — fonte editável da
-  tradução (gera o PDF acima).
+## Versão vigente: v4_FINAL (30/10/26)
 
-## Observações sobre o original
+- `261029_Operator_Journey_Quero_MJV_Proposal_v4_FINAL.pdf`: proposta final
+  original, em inglês, com 32 slides. A capa indica "v3, 30/10/26".
+- `Proposta_Inside_the_Kitchen_MJV_v4_FINAL_PT-BR.pdf`: tradução integral para
+  português do Brasil, slide a slide.
+- `Proposta_Inside_the_Kitchen_MJV_v4_FINAL_PT-BR.html`: fonte editável da
+  tradução.
+- `comparativo-v2-v4.md`: o que mudou da v2 para a v4.
 
-- Os slides 24 e 25 são duplicados; o 24 ainda tem "xxxx" no lugar de "MJV".
-- Condições de pagamento divergentes: 60% na aprovação / 40% na entrega
-  (slides 24-25) vs. "[__]% no kick-off | saldo na entrega final" (slide 27).
-- Os slides 24-25 falam em "18 chefs especialistas", "sessões culinárias" e
-  "cocriação"; o restante da proposta fala em 18 operadores, etnografia e
-  visitas.
-- Os valores batem: R$ 398.347,00 + R$ 62.445,00 = R$ 460.792,00.
+## Versão anterior: v2 (29/10/26)
+
+- `261029_Operator_Journey_Quero_MJV_Proposal_v2.pdf`: proposta técnica
+  preliminar original, em inglês, com 39 slides.
+- `Proposta_Inside_the_Kitchen_MJV_v2_PT-BR.pdf` / `.html`: tradução para PT-BR.
+
+Observações sobre a v2: os slides 24 e 25 estão duplicados (o 24 com "xxxx") e
+as condições de pagamento divergem entre os slides 24-25 e 27. As duas questões
+foram resolvidas na v4.
