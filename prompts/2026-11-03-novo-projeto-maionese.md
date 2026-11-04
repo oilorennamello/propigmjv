@@ -14,3 +14,13 @@ Traduzi os 39 slides da proposta para PT-BR, slide a slide, gerando um PDF no me
 ## Resposta
 
 Traduzi os 32 slides da v4 para PT-BR e salvei o original, o PDF traduzido e a fonte HTML em `mAIONESE/proposta-comercial/`. Registrei a comparação detalhada em `mAIONESE/proposta-comercial/comparativo-v2-v4.md`. Escopo, preço (R$ 460.792,00) e entrega (18/dez) foram mantidos. As principais mudanças: o pagamento ficou definido em 60/40; as entrevistas com especialistas passaram de 2–3 para 4–6, incluindo equipes internas; a visita passou a ser em dia normal, com roteiro detalhado; JTBD virou "benefícios"; o workshop de priorização de 15/dez virou uma sessão de resultados em 18/dez; o diário pós-visita ficou "se der"; os usuários extremos entram dentro dos 18; as datas viraram metas contadas a partir do NDA; e entraram termos, condições e políticas.
+
+---
+
+# Prompt — 2026-11-04
+
+4. Pedido de Desk Research exploratória e aprofundada sobre o mercado brasileiro de Foodservice/AFH e a categoria de maionese, em 10 capítulos e 3 partes (mercado; categoria; conexão com o campo), com síntese executiva e fontes com links. Regras: priorizar Brasil (SP e Recife); não inventar dados; separar fato, análise e hipótese; não se limitar à Quero; não antecipar conclusões de campo nem propor solução para a Quero.
+
+## Resposta
+
+A pesquisa foi feita em 6 frentes: mercado AFH; stakeholders e abastecimento; segmentos e usos; categoria e critérios; embalagens; tendências. As notas brutas estão em `mAIONESE/desk-research/research_notes/` e o relatório consolidado (~17,6 mil palavras) em `mAIONESE/desk-research/reports/Desk research foodservice e maionese.md`. Ressalva: vários sites estavam bloqueados na rede da sessão, então muitos números vieram de trechos de busca. O relatório lista na nota metodológica o que precisa ser conferido na fonte original.
