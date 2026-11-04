@@ -32,3 +32,11 @@ A pesquisa foi feita em 6 frentes: mercado AFH; stakeholders e abastecimento; se
 ## Resposta
 
 A pesquisa foi feita em 5 frentes, com notas em `mAIONESE/desk-research/research_notes/Aprofundamento embalagens operadores stakeholders/`. O relatório complementar, em inglês, com cerca de 20 mil palavras, está em `mAIONESE/desk-research/reports/Aprofundamento embalagens operadores stakeholders.md`. Ele inclui as correções ao relatório anterior, um log de verificação e as fontes. Ressalva: o acesso às páginas ficou bloqueado na rede da sessão, então quase toda evidência nova veio de trechos de busca. A redação final foi interrompida pelo limite de uso durante a revisão; o arquivo está completo em todas as seções, mas não passou pela última checagem.
+
+---
+
+6. Pedido de análise estratégica cruzando a proposta e as duas desk research, em cinco blocos: (A) inventário de atributos dos operadores para o recrutamento, com mecanismos de influência na jornada; (B) relação dos atributos com os 5 objetivos da proposta; (C) inventário completo dos stakeholders internos e externos; (D) configurações do ecossistema por contexto operacional e fluxos físico, comercial, de decisão e de influência; (E) conexões e lacunas, com a matriz final. Restrições: não definir cotas, não escolher entrevistados, não atribuir pesos e não propor matriz ou roteiro.
+
+## Resposta
+
+A análise foi entregue em `mAIONESE/analises/atributos-recrutamento-e-stakeholders.md`. Ela traz 13 dimensões e cerca de 40 atributos, separados em classificações de resposta única, atributos coexistentes e atributos de grau. Inclui o cruzamento com os 5 objetivos, o inventário consolidado (proposta, adicionais e hipóteses), cerca de 45 stakeholders com matriz de contribuição potencial, uma matriz com 15 contextos, as configurações C1–C8 e a matriz final. Usa os marcadores [PROPOSTA], [FATO DOCUMENTADO], [ANÁLISE] e [HIPÓTESE].

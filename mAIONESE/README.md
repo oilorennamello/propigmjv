@@ -10,6 +10,7 @@ deste repositório.
 ## Estrutura de pastas
 
 - `proposta-comercial/` — arquivos referentes à proposta comercial.
+- `analises/` — análises estratégicas de apoio ao campo (ex.: atributos para recrutamento e mapa de stakeholders).
 - `desk-research/` — desk research da etapa 01 (mercado Foodservice/AFH e categoria de maionese). Relatório final em `reports/` (`Desk research foodservice e maionese.md`, em PT-BR, e o complemento em inglês `Aprofundamento embalagens operadores stakeholders.md`), notas brutas por frente em `research_notes/`.
 
 Novas pastas (kickoff, imersões, campo, síntese etc.) serão criadas conforme
