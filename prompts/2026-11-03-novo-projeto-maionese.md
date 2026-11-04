@@ -24,3 +24,11 @@ Traduzi os 32 slides da v4 para PT-BR e salvei o original, o PDF traduzido e a f
 ## Resposta
 
 A pesquisa foi feita em 6 frentes: mercado AFH; stakeholders e abastecimento; segmentos e usos; categoria e critérios; embalagens; tendências. As notas brutas estão em `mAIONESE/desk-research/research_notes/` e o relatório consolidado (~17,6 mil palavras) em `mAIONESE/desk-research/reports/Desk research foodservice e maionese.md`. Ressalva: vários sites estavam bloqueados na rede da sessão, então muitos números vieram de trechos de busca. O relatório lista na nota metodológica o que precisa ser conferido na fonte original.
+
+---
+
+5. Pedido de complementação da desk research, com relatório em inglês e termos brasileiros preservados. Os aprofundamentos pedidos: (1) inventário e nomenclatura de embalagens em PT/EN, com tabela comparativa; (2) sistemas de classificação de operadores, tipos de estabelecimento, sobreposição entre classificações e relação de cada tipo com a maionese; (3) stakeholders da cadeia comercial e dentro dos estabelecimentos, com os Mapas A e B; (4) síntese cruzando operadores, stakeholders e embalagens, mais a seção "Implications for Field Research".
+
+## Resposta
+
+A pesquisa foi feita em 5 frentes, com notas em `mAIONESE/desk-research/research_notes/Aprofundamento embalagens operadores stakeholders/`. O relatório complementar, em inglês, com cerca de 20 mil palavras, está em `mAIONESE/desk-research/reports/Aprofundamento embalagens operadores stakeholders.md`. Ele inclui as correções ao relatório anterior, um log de verificação e as fontes. Ressalva: o acesso às páginas ficou bloqueado na rede da sessão, então quase toda evidência nova veio de trechos de busca. A redação final foi interrompida pelo limite de uso durante a revisão; o arquivo está completo em todas as seções, mas não passou pela última checagem.
